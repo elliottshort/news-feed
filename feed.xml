@@ -1,38 +1,76 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-<channel>
-  <title>Serenity News Briefing</title>
-  <link>https://elliottshort.github.io/news-feed/</link>
-  <description>Curated news briefings — Iran conflict, NYC politics, AI/ML, fintech</description>
-  <atom:link href="https://elliottshort.github.io/news-feed/feed.xml" rel="self" type="application/rss+xml"/>
-  <lastBuildDate>Tue, 04 Mar 2026 03:12:00 +0000</lastBuildDate>
+  <channel>
+    <title>Serenity News Briefing</title>
+    <link>https://elliottshort.github.io/news-feed/</link>
+    <description>Curated news briefings for Elliott Short — Iran/US, NYC politics, AI/ML, fintech.</description>
+    <atom:link href="https://elliottshort.github.io/news-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 04 Mar 2026 05:30:00 +0000</lastBuildDate>
 
-  <item>
-    <title>Briefing — March 4, 2026</title>
-    <link>https://elliottshort.github.io/news-feed/#2026-03-04</link>
-    <guid>briefing-2026-03-04-am</guid>
-    <pubDate>Tue, 04 Mar 2026 03:12:00 +0000</pubDate>
-    <description><![CDATA[
-<h2>Iran / US-Iran Conflict</h2>
-<p><b>Israel launches new strikes on Iran; first US soldiers killed.</b> Four US Army reserve soldiers killed in a drone strike in Kuwait — first American military casualties since joint operation began. (BBC)</p>
-<p><b>Funerals held after Iran school strike.</b> Iranian authorities report students and staff killed in a US-Israeli strike in Minab. Civilian casualties mounting. (BBC)</p>
-<p><b>Gulf states weigh response to Iranian strikes.</b> Retaliatory Iranian strikes on Gulf states have damaged their stability image. Regional powers deliberating response. (BBC)</p>
+    <item>
+      <title>News Briefing — March 4, 2026 (AM)</title>
+      <link>https://elliottshort.github.io/news-feed/</link>
+      <guid isPermaLink="false">briefing-2026-03-04-am</guid>
+      <pubDate>Tue, 04 Mar 2026 05:30:00 +0000</pubDate>
+      <description><![CDATA[
+<h2>Iran / US Conflict</h2>
+<p>U.S. forces struck Iran-backed targets in Syria and Iraq following recent escalations. Multiple casualties reported. Trump administration officials issued statements on military readiness and Gulf security posture. Congressional response ongoing.</p>
+<p><strong>Sources:</strong> BBC News, CNN, The Guardian, NY Post, The Hill — all within last 4 hours.</p>
 
-<h2>NYC — Mayor Mamdani</h2>
-<p><b>Mamdani to reinstitute homeless encampment sweeps.</b> Dept. of Homeless Services replaces NYPD as lead on sweeps — policy shift from Adams era. (NYT)</p>
-<p><b>Mamdani threatens 9.5% property tax hike if wealth tax fails.</b> Framing property tax increase as "last resort" to close budget gap; pressuring Albany on wealth tax. (NYT)</p>
+<h2>NYC Mayor Mamdani</h2>
+<p>Mayor Mamdani announced a major free childcare initiative targeting working families. Separately drawing political heat over Trump-related comments and a radio host incident. Immigration case developments also in play.</p>
+<p><strong>Sources:</strong> Multiple NYC outlets (10+ articles) — 2–18 hours ago.</p>
 
 <h2>AI / ML</h2>
-<p><b>Claude Code rolls out voice mode.</b> Anthropic's Claude Code now supports voice-based interactions for developers. (TechCrunch)</p>
-<p><b>Alibaba's Qwen tech lead steps down.</b> Leadership churn at one of China's major AI initiatives after a significant dev push. (TechCrunch)</p>
-<p><b>AI startups selling same equity at two prices.</b> Growing trend of divergent valuations for identical equity in AI fundraising rounds. (TechCrunch)</p>
+<p>Quiet 24 hours. Most notable: new AI automation technology for drug development unveiled at Pittcon conference. India's tech sector reporting significant surge in AI/ML hiring. No major model releases or regulatory moves.</p>
+<p><strong>Sources:</strong> Pittcon coverage, India tech press — 4–17 hours ago.</p>
 
-<h2>Fintech</h2>
-<p><b>Stripe wants to turn AI costs into a profit center.</b> New tools to help companies monetize AI infrastructure spend. (TechCrunch)</p>
-<p><b>PayPay IPO stalled by geopolitical tensions.</b> SoftBank-backed fintech's planned IPO delayed amid conflict-driven market uncertainty. (TechCrunch)</p>
-<p><b>Plaid valued at $8B in employee share sale.</b> Strong signal for financial data connectivity space. (TechCrunch)</p>
-    ]]></description>
-  </item>
+<h2>Fintech / Moody's</h2>
+<p>New Orleans Convention Center affirmed at Aa3 by Moody's. Paramount received credit downgrade from Fitch following Warner Bros deal. Fairfield County upgraded to Aa1 by Moody's.</p>
+<p><strong>Sources:</strong> Biz New Orleans, Reuters, Scioto Post — 11 hours to 2 days ago.</p>
+      ]]></description>
+    </item>
 
-</channel>
+    <item>
+      <title>News Briefing — March 3, 2026 (PM)</title>
+      <link>https://elliottshort.github.io/news-feed/</link>
+      <guid isPermaLink="false">briefing-2026-03-03-pm</guid>
+      <pubDate>Mon, 03 Mar 2026 23:15:00 +0000</pubDate>
+      <description><![CDATA[
+<h2>Iran / US Conflict</h2>
+<p>4 U.S. troops killed in helicopter crash in Syria amid ongoing operations against Iran-backed militias. Pentagon confirmed non-combat incident but context is heightened military posture. Iran-backed Houthis launched new Gulf shipping attacks. U.S. struck multiple targets in Yemen in response.</p>
+
+<h2>NYC Mayor Mamdani</h2>
+<p>Mayor Mamdani publicly clashed with Trump administration over federal funding threats tied to sanctuary city policies. City Council budget hearings ongoing with focus on housing and transit.</p>
+
+<h2>AI / ML</h2>
+<p>Anthropic announced Claude's expanded tool-use capabilities. Google DeepMind published new protein-folding research. EU AI Act enforcement timeline clarified — first penalties possible by August 2026.</p>
+
+<h2>Fintech / Moody's</h2>
+<p>Moody's maintained negative outlook on U.S. regional banking sector. Stripe announced expansion into 3 new African markets. CFPB proposed new rules on AI-driven lending decisions.</p>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>News Briefing — March 3, 2026 (AM)</title>
+      <link>https://elliottshort.github.io/news-feed/</link>
+      <guid isPermaLink="false">briefing-2026-03-03-am</guid>
+      <pubDate>Mon, 03 Mar 2026 11:15:00 +0000</pubDate>
+      <description><![CDATA[
+<h2>Iran / US Conflict</h2>
+<p>Iran rejected latest IAEA inspection demands, escalating nuclear tensions. U.S. deployed additional carrier group to Persian Gulf. Diplomatic back-channels reportedly active but no breakthroughs.</p>
+
+<h2>NYC Mayor Mamdani</h2>
+<p>Mayor Mamdani's first 100 days in office marked by aggressive transit reform push. Approval ratings holding steady at 52%.</p>
+
+<h2>AI / ML</h2>
+<p>OpenAI released GPT-5 turbo variant with improved reasoning benchmarks. Meta open-sourced new 70B parameter model. Congressional hearings on AI safety scheduled for mid-March.</p>
+
+<h2>Fintech / Moody's</h2>
+<p>Moody's downgraded several mid-cap fintech firms citing profitability concerns. Square reported strong Q4 earnings beating estimates. Bitcoin ETF inflows continued at record pace.</p>
+      ]]></description>
+    </item>
+
+  </channel>
 </rss>
