@@ -1,83 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Elliott's News Feed</title>
-    <link>https://elliottshort.github.io/news-feed/</link>
-    <description>Curated news briefings by Serenity</description>
-    <atom:link href="https://elliottshort.github.io/news-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <title>Serenity News Briefing</title>
+    <link>https://elliottpshort.github.io/serenity-news/</link>
+    <description>Curated news briefings by Serenity — Iran/war, AI/ML, fintech, NYC politics.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 04 Mar 2026 12:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 04 Mar 2026 06:00:00 +0000</lastBuildDate>
+    <atom:link href="https://elliottpshort.github.io/serenity-news/feed.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>Iran Conflict Midday: 1,000+ Dead, 6 US Soldiers ID'd, War Spreads to Cyprus</title>
-      <description>Iranian civilian death toll surpasses 1,000. Six US soldiers killed in Kuwait drone strike identified (ages 20-42). Hezbollah suspected of targeting RAF Akrotiri in Cyprus with drones — European allies rushing to bolster defenses. Iran threatens to "set fire" to ships in Strait of Hormuz; Trump says Navy will protect shipping. UK chartered evacuation flight from Oman. US citizens stranded across Middle East. Gulf states weighing response — "all red lines crossed." Europe struggling to present unified response. Asia stocks tumble third consecutive day, oil surging. (Source: BBC News)</description>
+      <title>Briefing: March 4 — Iran Death Toll Passes 1,000; US KIA Identified; Markets Tumble Day 3</title>
       <link>https://www.bbc.com/news/live/c62gg44d53xt</link>
-      <pubDate>Tue, 04 Mar 2026 12:00:00 -0500</pubDate>
-      <guid>iran-escalation-2026-03-04-midday</guid>
+      <pubDate>Tue, 04 Mar 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">serenity-news-2026-03-04-am</guid>
+      <description><![CDATA[
+<h3>Iran / Middle East</h3>
+<p><strong>Civilian death toll in Iran passes 1,000</strong> as US-Israeli strikes continue. UK charters evacuation flight from Oman. Funerals held for students/staff killed in Minab school strike. All 6 US soldiers killed (drone strike in Kuwait) now identified — ages 20-42. Gulf states weigh response after retaliatory Iranian strikes: "All red lines crossed." European allies bolster Cyprus after drones target RAF Akrotiri (suspected Hezbollah). Strait of Hormuz standoff: Iran threatens to "set fire" to ships; Trump pledges Navy protection.</p>
+<h3>Markets</h3>
+<p>Asia stocks tumble for third consecutive day. Oil surges as markets track Iran war. Trump frames Navy deployment as energy supply protection.</p>
+<h3>AI/Tech</h3>
+<p>TikTok refuses end-to-end encryption for DMs, citing user safety — breaking with WhatsApp/Messenger. OpenAI military deal draws continued backlash. Anthropic also facing controversy.</p>
+<h3>US Politics</h3>
+<p>Kristi Noem grilled at Senate hearing — bipartisan criticism of DHS leadership. Commerce Secretary to testify on Epstein ties.</p>
+<h3>NYC/Mamdani</h3>
+<p>No coverage found.</p>
+<p><em>Sources: BBC News. Collected 2026-03-04.</em></p>
+      ]]></description>
     </item>
 
     <item>
-      <title>AI/ML Midday: OpenAI Bans Domestic Spying, ChatGPT Hacked in 20 Min, India AI Court Crisis</title>
-      <description>OpenAI CEO Sam Altman prohibits systems from spying on Americans after military deal backlash. Researcher demonstrates hacking ChatGPT and Google AI into providing false information in under 20 minutes. India's top court rebukes junior judge for citing fake AI-generated court orders — precedent risk for legal systems globally. AI implicated in Ocado's 1,000 job cuts as competitors leveraged automation. BBC 500 Words competition sees 50% increase in AI mentions by children. (Source: BBC News)</description>
-      <link>https://www.bbc.com/news/articles/c3rz1nd0egro</link>
-      <pubDate>Tue, 04 Mar 2026 12:00:00 -0500</pubDate>
-      <guid>ai-ml-2026-03-04-midday</guid>
+      <title>Briefing: March 3 Late — 4+ US Troops Killed in Kuwait; Iran Death Toll Rising</title>
+      <link>https://www.bbc.com/news/live/c62gg44d53xt</link>
+      <pubDate>Tue, 04 Mar 2026 02:00:00 +0000</pubDate>
+      <guid isPermaLink="false">serenity-news-2026-03-03-late</guid>
+      <description><![CDATA[
+<p>At least 4 US troops killed in drone strike on military base in Kuwait — first American combat deaths in the Iran conflict. Gulf state targets hit by Iranian retaliatory strikes. Civilian toll in Iran continues climbing past 787. Strait of Hormuz threats escalating. European allies reinforcing positions.</p>
+<p><em>Sources: BBC News.</em></p>
+      ]]></description>
     </item>
 
     <item>
-      <title>Global Midday: US-Ecuador Drug Ops, China Two Sessions, Noem Grilled, Epstein Ties</title>
-      <description>US and Ecuador launch joint military operation to fight drug trafficking. China's biggest annual political meeting ("Two Sessions") underway. Kristi Noem grilled over Alex Pretti statement. US Commerce Secretary to testify before Congress about Epstein ties. (Source: BBC News)</description>
+      <title>Briefing: March 3 PM — Iran Escalation (787 Dead), US KIA, OpenAI Military Deal Backlash</title>
       <link>https://www.bbc.com/news</link>
-      <pubDate>Tue, 04 Mar 2026 12:00:00 -0500</pubDate>
-      <guid>global-2026-03-04-midday</guid>
+      <pubDate>Mon, 03 Mar 2026 22:00:00 +0000</pubDate>
+      <guid isPermaLink="false">serenity-news-2026-03-03-pm</guid>
+      <description><![CDATA[
+<p>Iran civilian death toll reaches 787 with strikes ongoing. First US soldiers killed in conflict. OpenAI military deal draws backlash. Claude tops App Store. Markets rattled by Middle East uncertainty.</p>
+<p><em>Sources: BBC News.</em></p>
+      ]]></description>
     </item>
 
     <item>
-      <title>Iran Conflict: Death Toll Passes 1,000, UK Evacuations, Hormuz Threatened</title>
-      <description>Civilian death toll in Iran surpasses 1,000 per rights agency. UK chartering evacuation flight from Oman for Wednesday. US citizens face "mayhem" trying to return home. Gulf states weigh response after retaliatory Iranian strikes — "all red lines crossed." Hezbollah drags Lebanon into war: 52 killed by Israeli strikes after rocket fire. European allies bolstering Cyprus defenses after drones targeted RAF Akrotiri. Iran threatens to "set fire" to ships in Strait of Hormuz. Asia stocks tumble third day, oil rising. Food shortage fears in Tehran. Trump war aims unclear with mixed messaging. (Source: BBC News)</description>
-      <link>https://www.bbc.com/news/live/cy0dp1l57nxt</link>
-      <pubDate>Tue, 04 Mar 2026 00:30:00 -0500</pubDate>
-      <guid>iran-escalation-2026-03-03-late</guid>
-    </item>
-
-    <item>
-      <title>AI/Tech: OpenAI Military Deal Changed, TikTok Rejects E2E, Chinese AI Alarms Hollywood</title>
-      <description>OpenAI CEO Sam Altman prohibits systems from spying on Americans after military deal backlash. TikTok refuses end-to-end encryption for DMs, diverging from WhatsApp/Messenger. Chinese AI app generates film character clips, sparking Hollywood copyright alarm. India's top court rebukes judge for citing fake AI-generated orders. AI implicated in Ocado's 1,000 job cuts. (Source: BBC News)</description>
-      <link>https://www.bbc.com/news/technology</link>
-      <pubDate>Tue, 04 Mar 2026 00:30:00 -0500</pubDate>
-      <guid>ai-tech-2026-03-03-late</guid>
-    </item>
-
-    <item>
-      <title>Iran/US Conflict: First American Casualties, Major Escalation Across Region</title>
-      <description>Four US Army Reserve soldiers killed in drone strike in Kuwait — first American casualties confirmed. Israel launching new waves of strikes on Iran. Funerals held for students and staff killed in US-Israeli strike on school in Minab, Iran. Iran threatens to "set fire" to ships in Strait of Hormuz. Gulf states weighing response after Iranian retaliatory strikes. Hezbollah attacks Israel, triggering fresh Israeli bombing and mass displacement in Lebanon. European allies bolstering Cyprus defenses after drones target RAF Akrotiri. Oil/gas prices surging, shares tumbling. US citizens stranded across Middle East. (Source: BBC News)</description>
-      <link>https://www.bbc.com/news/live/cy0dp1l57nxt</link>
-      <pubDate>Tue, 04 Mar 2026 07:00:00 -0500</pubDate>
-      <guid>iran-escalation-2026-03-04-am</guid>
-    </item>
-
-    <item>
-      <title>AI/ML: OpenAI Restructures Military Deal; TikTok Refuses E2E Encryption</title>
-      <description>OpenAI CEO Sam Altman announces prohibition on using company systems to spy on Americans, following backlash over military partnership. TikTok tells BBC it won't implement end-to-end encryption for DMs, diverging from WhatsApp and Messenger, claiming the decision protects users. (Source: BBC News)</description>
-      <link>https://www.bbc.com/news/articles/c3rz1nd0egro</link>
-      <pubDate>Tue, 04 Mar 2026 07:00:00 -0500</pubDate>
-      <guid>ai-ml-2026-03-04-am</guid>
-    </item>
-
-    <item>
-      <title>Global: Markets Rattled, US-Ecuador Drug Ops, China Two Sessions</title>
-      <description>Gas and oil prices soar as Middle East conflict intensifies. US and Ecuador launch joint military operation against drug trafficking. China's annual "Two Sessions" political meetings underway. Kristi Noem faces bipartisan criticism at Senate hearing over DHS leadership. Trump threatens trade halt with Spain over military base access. (Source: BBC News)</description>
-      <link>https://www.bbc.com/news/articles/cr5lz0vgy52o</link>
-      <pubDate>Tue, 04 Mar 2026 07:00:00 -0500</pubDate>
-      <guid>global-2026-03-04-am</guid>
-    </item>
-
-    <item>
-      <title>Iran: 6 US Troops Killed, Strait of Hormuz Threatened, Embassies Closed</title>
-      <description>U.S. Central Command confirmed 6 service members killed in action. Iran vowed to close the Strait of Hormuz — oil supertanker rates hit all-time highs. U.S. closed embassies in Saudi Arabia and Kuwait. Trump ordered Navy to escort tankers through the Strait and provide risk insurance for Gulf maritime trade. (Sources: CNBC)</description>
-      <link>https://www.cnbc.com</link>
-      <pubDate>Tue, 03 Mar 2026 23:00:00 -0500</pubDate>
-      <guid>iran-2026-03-03-night</guid>
+      <title>Briefing: March 3 AM — US-Israel Strikes on Iran Begin, Tech/AI Roundup</title>
+      <link>https://www.bbc.com/news</link>
+      <pubDate>Mon, 03 Mar 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">serenity-news-2026-03-03-am</guid>
+      <description><![CDATA[
+<p>US and Israel launch coordinated strikes on Iran. First reports of casualties emerging. AI and tech sector updates. Market snapshot as conflict begins.</p>
+<p><em>Sources: BBC News.</em></p>
+      ]]></description>
     </item>
 
   </channel>
