@@ -6,25 +6,28 @@
     <description>Curated news briefings for Elliott Short — Iran/US, NYC politics, AI/ML, fintech.</description>
     <atom:link href="https://elliottshort.github.io/news-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Mar 2026 23:15:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Mar 2026 05:45:00 GMT</lastBuildDate>
 
     <item>
-      <title>News Briefing — March 3, 2026 (Evening)</title>
+      <title>News Briefing — March 3, 2026 (Late Evening Update)</title>
       <link>https://elliottshort.github.io/news-feed/</link>
-      <guid isPermaLink="false">briefing-2026-03-03-evening</guid>
-      <pubDate>Tue, 03 Mar 2026 23:15:00 GMT</pubDate>
+      <guid isPermaLink="false">briefing-2026-03-03-evening-v2</guid>
+      <pubDate>Wed, 04 Mar 2026 05:45:00 GMT</pubDate>
       <description><![CDATA[
-<h2>Iran / US Conflict — Day 4</h2>
-<p>U.S. death toll rises to 6. Trump says campaign could last 5 weeks. Iran striking Gulf states. Americans urged to evacuate the Middle East. Multiple countries drawn in.</p>
+<h2>Iran / US Military Conflict — Day 4+</h2>
+<p><strong>Massive US-Israeli campaign.</strong> The US has struck over 2,000 targets in Iran since Feb 28, destroying 17 Iranian ships, hundreds of ballistic missiles, launchers, and drones. The first 24 hours were described as "nearly double the scale" of the 2003 Iraq shock-and-awe campaign. Israel struck Iran's "leadership compound" on March 3 and announced a fresh wave of strikes March 3-4. Trump stated "everything's been knocked out in Iran." (BBC News)</p>
+<p><strong>Iranian retaliation across Gulf.</strong> Two drones hit the US Embassy in Riyadh (including CIA station). Additional strikes targeted the US consulate area in Dubai, a British base in Cyprus, sites in Kuwait (11-year-old girl killed by shrapnel), Oman's Duqm port, and Koye in northern Iraq. Iran claims it launched over 500 ballistic missiles and 2,000 drones in retaliation. (BBC News, Kuwait MOH)</p>
+<p><strong>Civilian toll and international response.</strong> Red Crescent: 787 killed in Iran. HRANA: 1,097 civilians killed including 181 children under 10. UK sending HMS Dragon + counter-drone helicopters to Cyprus; France deploying frigate and air defenses. Qatar arrested 10 suspected IRGC spies. US Senate War Powers Act vote scheduled March 4 at 16:00. UK chartered evacuation flight from Oman for March 4. (BBC, Red Crescent, HRANA)</p>
 
-<h2>NYC Mayor Mamdani</h2>
-<p>Universal free childcare for 2-year-olds announced — first four NYC neighborhoods this fall. Mamdani responding to hateful comments from radio host.</p>
+<h2>NYC Mayor Zohran Mamdani</h2>
+<p><strong>Intervened with Trump to free detained Columbia student (Feb 27).</strong> ICE agents arrested Columbia student Elmina Aghayeva (Azerbaijani national), allegedly using fake NYPD badges to gain entry to her residence. Mamdani was at the White House for a housing meeting, made a personal appeal to Trump, and secured her release the same day. Columbia president said agents "made misrepresentations to gain entry." DHS denies misrepresentation. (BBC News, Columbia University, DHS)</p>
+<p><strong>Clashed with NYPD leadership over snowball fight (Feb 26).</strong> A snowball fight in Washington Square Park during NYC's ~20-inch blizzard escalated when participants threw snowballs at NYPD officers. Mamdani said no charges should be filed; Police Commissioner Jessica Tisch called his statements "disgraceful." NYPD arrested one suspect and seeks three more. (BBC News, NYPD)</p>
 
-<h2>AI / ML</h2>
-<p>Addepar launched "Addison" AI for investment workflows. Apple launched iPhone 17e. Quiet day otherwise.</p>
+<h2>AI / Machine Learning</h2>
+<p><strong>OpenAI revises Pentagon deal after backlash (March 3).</strong> After announcing a classified military AI deal with the DoD on Feb 28 — following Anthropic's public refusal over surveillance/weapons concerns — OpenAI saw ChatGPT daily uninstalls surge 200%. Anthropic's Claude rose to #1 on the App Store. Altman announced March 3 that OpenAI would prohibit its systems from spying on Americans and require NSA/intel agencies to get a "follow-on modification." Altman called the original announcement "opportunistic and sloppy." (BBC News, Sensor Tower)</p>
 
 <h2>Fintech / Moody's</h2>
-<p>Digital finance becoming "foundational infrastructure layer" per Moody's. Saudi sukuk slowdown report. No major market moves.</p>
+<p>Supplementary research pending — update to follow if developments are found.</p>
       ]]></description>
     </item>
 
@@ -40,11 +43,11 @@
 
 <h2>NYC Mayor Mamdani</h2>
 <p>Mayor Mamdani announced a major free childcare initiative targeting working families. Separately drawing political heat over Trump-related comments and a radio host incident. Immigration case developments also in play.</p>
-<p><strong>Sources:</strong> Multiple NYC outlets (10+ articles) — 2–18 hours ago.</p>
+<p><strong>Sources:</strong> Multiple NYC outlets (10+ articles) — 2-18 hours ago.</p>
 
 <h2>AI / ML</h2>
 <p>Quiet 24 hours. Most notable: new AI automation technology for drug development unveiled at Pittcon conference. India's tech sector reporting significant surge in AI/ML hiring. No major model releases or regulatory moves.</p>
-<p><strong>Sources:</strong> Pittcon coverage, India tech press — 4–17 hours ago.</p>
+<p><strong>Sources:</strong> Pittcon coverage, India tech press — 4-17 hours ago.</p>
 
 <h2>Fintech / Moody's</h2>
 <p>New Orleans Convention Center affirmed at Aa3 by Moody's. Paramount received credit downgrade from Fitch following Warner Bros deal. Fairfield County upgraded to Aa1 by Moody's.</p>
