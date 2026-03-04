@@ -5,45 +5,44 @@
     <link>https://elliottshort.github.io/news-feed/</link>
     <description>Curated news briefings — Iran/war, AI/ML, fintech, NYC politics.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 05 Mar 2026 06:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Mar 2026 10:00:00 +0000</lastBuildDate>
     <atom:link href="https://elliottshort.github.io/news-feed/feed.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>BREAKING: Israel "Broad Wave" of New Strikes; Trump Says "Time to Make a Deal"</title>
+      <title>🚨 US Submarine Torpedoed Iranian Warship — First Direct Naval Engagement</title>
       <link>https://www.bbc.com/news/live/c62gg44d53xt</link>
+      <pubDate>Wed, 05 Mar 2026 10:00:00 +0000</pubDate>
+      <guid isPermaLink="false">serenity-news-2026-03-05-torpedo</guid>
+      <description><![CDATA[
+<p><strong>US Defense Secretary Pete Hegseth confirms US submarine sank Iranian warship in Indian Ocean with torpedo.</strong> ~140 crew missing. First direct US-Iran naval engagement in this conflict. Combined with apparent Khamenei succession (supreme leader targeting mission likely succeeded), conflict enters new phase. Pentagon press conference ongoing.</p>
+<p><em>Source: BBC News LIVE. 2026-03-05.</em></p>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Israel "Broad Wave" Strikes; Trump "Time to Make a Deal"; Iranian Navy Ship Sinks</title>
       <pubDate>Wed, 05 Mar 2026 06:00:00 +0000</pubDate>
       <guid isPermaLink="false">serenity-news-2026-03-05-am</guid>
       <description><![CDATA[
-<p><strong>Israel launches fresh "broad wave" of strikes on Iran.</strong> Trump simultaneously calls for a deal — notable pivot combining military escalation with diplomatic signaling. Iranians tell BBC "it's getting worse every day." Nuclear deal explainers resurface. Key shift: strikes may be leverage for negotiations, not regime change.</p>
-<p><em>Sources: BBC News. 2026-03-05.</em></p>
+<p>Israel launches fresh broad wave of strikes on Iran. Trump calls for deal. Iranian navy ship sinks off Sri Lanka (~140 missing — now confirmed as US torpedo). NATO involved: Turkey shoots down Iranian missile. Iran strikes expand to Saudi Arabia, Kuwait. 6 US F-15s downed by Kuwaiti friendly fire. 9 killed in Beit Shemesh, Israel. 8 countries now involved.</p>
       ]]></description>
     </item>
 
     <item>
-      <title>ESCALATION: Israel Hits Tehran Security HQ; Iran Strikes US Sites Dubai/Qatar</title>
-      <link>https://www.bbc.com/news/live/c62gg44d53xt</link>
+      <title>March 4: Iran 1,000+ Dead; Tehran HQ Hit; Markets Tumble</title>
       <pubDate>Tue, 04 Mar 2026 22:00:00 +0000</pubDate>
       <guid isPermaLink="false">serenity-news-2026-03-04-pm</guid>
       <description><![CDATA[
-<p>Israel attacks security HQ across Tehran. Iran retaliates — drone fire at US consulate Dubai, missile on US base Qatar. Mission targeting supreme leader revealed. US sending evacuation planes. Hezbollah drags Lebanon in. Tehran food shortages. Markets day 3 slump.</p>
+<p>Israel attacks Tehran security HQ. Iran retaliates on US sites in Dubai/Qatar. Civilian toll passes 1,000. 6 US KIA identified. Strait of Hormuz standoff. Markets slump day 3.</p>
       ]]></description>
     </item>
 
     <item>
-      <title>March 4 AM: Iran 1,000+ Dead; 6 US KIA; Markets Day 3</title>
-      <pubDate>Tue, 04 Mar 2026 06:00:00 +0000</pubDate>
-      <guid isPermaLink="false">serenity-news-2026-03-04-am</guid>
-      <description><![CDATA[
-<p>Iran civilian toll passes 1,000. All 6 US KIA identified. Gulf states "all red lines crossed." Hormuz standoff. TikTok refuses E2E encryption. OpenAI military deal updated.</p>
-      ]]></description>
-    </item>
-
-    <item>
-      <title>March 3: Iran Strikes Begin — First US Combat Deaths</title>
+      <title>March 3: US-Israel Strikes on Iran Begin</title>
       <pubDate>Mon, 03 Mar 2026 22:00:00 +0000</pubDate>
       <guid isPermaLink="false">serenity-news-2026-03-03-pm</guid>
       <description><![CDATA[
-<p>US-Israel launch strikes on Iran. Civilian toll climbs to 787+. First US soldiers killed in Kuwait. Gulf states hit by retaliation.</p>
+<p>US-Israel launch coordinated strikes. Civilian toll climbs to 787+. First US combat deaths in Kuwait. Gulf states hit by retaliation.</p>
       ]]></description>
     </item>
 
