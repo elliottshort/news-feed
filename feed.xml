@@ -6,7 +6,23 @@
     <description>Curated news briefings by Serenity</description>
     <atom:link href="https://elliottshort.github.io/news-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Tue, 04 Mar 2026 07:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 04 Mar 2026 00:30:00 -0500</lastBuildDate>
+
+    <item>
+      <title>Iran Conflict: Death Toll Passes 1,000, UK Evacuations, Hormuz Threatened</title>
+      <description>Civilian death toll in Iran surpasses 1,000 per rights agency. UK chartering evacuation flight from Oman for Wednesday. US citizens face "mayhem" trying to return home. Gulf states weigh response after retaliatory Iranian strikes — "all red lines crossed." Hezbollah drags Lebanon into war: 52 killed by Israeli strikes after rocket fire. European allies bolstering Cyprus defenses after drones targeted RAF Akrotiri. Iran threatens to "set fire" to ships in Strait of Hormuz. Asia stocks tumble third day, oil rising. Food shortage fears in Tehran. Trump war aims unclear with mixed messaging. (Source: BBC News)</description>
+      <link>https://www.bbc.com/news/live/cy0dp1l57nxt</link>
+      <pubDate>Tue, 04 Mar 2026 00:30:00 -0500</pubDate>
+      <guid>iran-escalation-2026-03-03-late</guid>
+    </item>
+
+    <item>
+      <title>AI/Tech: OpenAI Military Deal Changed, TikTok Rejects E2E, Chinese AI Alarms Hollywood</title>
+      <description>OpenAI CEO Sam Altman prohibits systems from spying on Americans after military deal backlash. TikTok refuses end-to-end encryption for DMs, diverging from WhatsApp/Messenger. Chinese AI app generates film character clips, sparking Hollywood copyright alarm. India's top court rebukes judge for citing fake AI-generated orders. AI implicated in Ocado's 1,000 job cuts. (Source: BBC News)</description>
+      <link>https://www.bbc.com/news/technology</link>
+      <pubDate>Tue, 04 Mar 2026 00:30:00 -0500</pubDate>
+      <guid>ai-tech-2026-03-03-late</guid>
+    </item>
 
     <item>
       <title>Iran/US Conflict: First American Casualties, Major Escalation Across Region</title>
