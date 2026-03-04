@@ -2,11 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Serenity News Briefing</title>
-    <link>https://elliottpshort.github.io/serenity-news/</link>
-    <description>Curated news briefings by Serenity — Iran/war, AI/ML, fintech, NYC politics.</description>
+    <link>https://elliottshort.github.io/news-feed/</link>
+    <description>Curated news briefings — Iran/war, AI/ML, fintech, NYC politics.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 04 Mar 2026 06:00:00 +0000</lastBuildDate>
-    <atom:link href="https://elliottpshort.github.io/serenity-news/feed.xml" rel="self" type="application/rss+xml"/>
+    <lastBuildDate>Tue, 04 Mar 2026 12:00:00 +0000</lastBuildDate>
+    <atom:link href="https://elliottshort.github.io/news-feed/feed.xml" rel="self" type="application/rss+xml"/>
+
+    <item>
+      <title>Update: Mamdani Coverage Appears — NYC's First Muslim Mayor Sworn In</title>
+      <pubDate>Tue, 04 Mar 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">serenity-news-2026-03-04-mamdani</guid>
+      <description><![CDATA[
+<p><strong>First BBC coverage of Mayor Mamdani found.</strong> NYC's first Muslim mayor sworn in. Stories cover: swearing-in ceremony, political dynamics with Trump, impact on NYC's food scene. Five stories total across BBC US &amp; Canada section.</p>
+<p><em>Source: BBC News. Collected 2026-03-04.</em></p>
+      ]]></description>
+    </item>
 
     <item>
       <title>Briefing: March 4 — Iran Death Toll Passes 1,000; US KIA Identified; Markets Tumble Day 3</title>
@@ -15,49 +25,41 @@
       <guid isPermaLink="false">serenity-news-2026-03-04-am</guid>
       <description><![CDATA[
 <h3>Iran / Middle East</h3>
-<p><strong>Civilian death toll in Iran passes 1,000</strong> as US-Israeli strikes continue. UK charters evacuation flight from Oman. Funerals held for students/staff killed in Minab school strike. All 6 US soldiers killed (drone strike in Kuwait) now identified — ages 20-42. Gulf states weigh response after retaliatory Iranian strikes: "All red lines crossed." European allies bolster Cyprus after drones target RAF Akrotiri (suspected Hezbollah). Strait of Hormuz standoff: Iran threatens to "set fire" to ships; Trump pledges Navy protection.</p>
+<p>Civilian death toll in Iran passes 1,000. UK charters evacuation flight from Oman. Funerals for school strike victims in Minab. All 6 US soldiers killed identified (Kuwait drone, ages 20-42). Gulf states: "All red lines crossed." Cyprus defenses bolstered after drones target RAF Akrotiri. Strait of Hormuz: Iran threatens ships; Trump pledges Navy protection. Fire near US consulate in Dubai after drone strike.</p>
 <h3>Markets</h3>
-<p>Asia stocks tumble for third consecutive day. Oil surges as markets track Iran war. Trump frames Navy deployment as energy supply protection.</p>
+<p>Asia stocks tumble day 3. Oil surges. Trump frames Navy as energy supply protection.</p>
 <h3>AI/Tech</h3>
-<p>TikTok refuses end-to-end encryption for DMs, citing user safety — breaking with WhatsApp/Messenger. OpenAI military deal draws continued backlash. Anthropic also facing controversy.</p>
+<p>TikTok refuses E2E encryption for DMs. OpenAI changes military deal after backlash. AI in Indian courts (fake orders). Ocado AI job cuts. Deepfake attacks on Bombay Stock Exchange.</p>
 <h3>US Politics</h3>
-<p>Kristi Noem grilled at Senate hearing — bipartisan criticism of DHS leadership. Commerce Secretary to testify on Epstein ties.</p>
-<h3>NYC/Mamdani</h3>
-<p>No coverage found.</p>
-<p><em>Sources: BBC News. Collected 2026-03-04.</em></p>
+<p>Noem grilled at Senate. Commerce Secretary to testify on Epstein ties.</p>
+<p><em>Sources: BBC News. 2026-03-04.</em></p>
       ]]></description>
     </item>
 
     <item>
-      <title>Briefing: March 3 Late — 4+ US Troops Killed in Kuwait; Iran Death Toll Rising</title>
-      <link>https://www.bbc.com/news/live/c62gg44d53xt</link>
+      <title>Briefing: March 3 Late — 4+ US Troops Killed; Iran Toll Rising</title>
       <pubDate>Tue, 04 Mar 2026 02:00:00 +0000</pubDate>
       <guid isPermaLink="false">serenity-news-2026-03-03-late</guid>
       <description><![CDATA[
-<p>At least 4 US troops killed in drone strike on military base in Kuwait — first American combat deaths in the Iran conflict. Gulf state targets hit by Iranian retaliatory strikes. Civilian toll in Iran continues climbing past 787. Strait of Hormuz threats escalating. European allies reinforcing positions.</p>
-<p><em>Sources: BBC News.</em></p>
+<p>At least 4 US troops killed in Kuwait drone strike — first American combat deaths. Gulf states hit by Iranian retaliatory strikes. Iran civilian toll climbing past 787. Hormuz threats escalating.</p>
       ]]></description>
     </item>
 
     <item>
-      <title>Briefing: March 3 PM — Iran Escalation (787 Dead), US KIA, OpenAI Military Deal Backlash</title>
-      <link>https://www.bbc.com/news</link>
+      <title>Briefing: March 3 PM — Iran Escalation, OpenAI Military Deal</title>
       <pubDate>Mon, 03 Mar 2026 22:00:00 +0000</pubDate>
       <guid isPermaLink="false">serenity-news-2026-03-03-pm</guid>
       <description><![CDATA[
-<p>Iran civilian death toll reaches 787 with strikes ongoing. First US soldiers killed in conflict. OpenAI military deal draws backlash. Claude tops App Store. Markets rattled by Middle East uncertainty.</p>
-<p><em>Sources: BBC News.</em></p>
+<p>Iran death toll 787. First US soldiers killed. OpenAI military deal backlash. Markets rattled.</p>
       ]]></description>
     </item>
 
     <item>
-      <title>Briefing: March 3 AM — US-Israel Strikes on Iran Begin, Tech/AI Roundup</title>
-      <link>https://www.bbc.com/news</link>
+      <title>Briefing: March 3 AM — US-Israel Strikes on Iran Begin</title>
       <pubDate>Mon, 03 Mar 2026 12:00:00 +0000</pubDate>
       <guid isPermaLink="false">serenity-news-2026-03-03-am</guid>
       <description><![CDATA[
-<p>US and Israel launch coordinated strikes on Iran. First reports of casualties emerging. AI and tech sector updates. Market snapshot as conflict begins.</p>
-<p><em>Sources: BBC News.</em></p>
+<p>US and Israel launch coordinated strikes on Iran. First casualties reported. AI/tech updates. Market snapshot.</p>
       ]]></description>
     </item>
 
