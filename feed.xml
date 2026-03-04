@@ -5,45 +5,45 @@
     <link>https://elliottshort.github.io/news-feed/</link>
     <description>Curated news briefings — Iran/war, AI/ML, fintech, NYC politics.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 04 Mar 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Mar 2026 06:00:00 +0000</lastBuildDate>
     <atom:link href="https://elliottshort.github.io/news-feed/feed.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>ESCALATION: Israel Hits Tehran Security HQ; Iran Strikes US Sites in Dubai &amp; Qatar</title>
+      <title>BREAKING: Israel "Broad Wave" of New Strikes; Trump Says "Time to Make a Deal"</title>
+      <link>https://www.bbc.com/news/live/c62gg44d53xt</link>
+      <pubDate>Wed, 05 Mar 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">serenity-news-2026-03-05-am</guid>
+      <description><![CDATA[
+<p><strong>Israel launches fresh "broad wave" of strikes on Iran.</strong> Trump simultaneously calls for a deal — notable pivot combining military escalation with diplomatic signaling. Iranians tell BBC "it's getting worse every day." Nuclear deal explainers resurface. Key shift: strikes may be leverage for negotiations, not regime change.</p>
+<p><em>Sources: BBC News. 2026-03-05.</em></p>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>ESCALATION: Israel Hits Tehran Security HQ; Iran Strikes US Sites Dubai/Qatar</title>
       <link>https://www.bbc.com/news/live/c62gg44d53xt</link>
       <pubDate>Tue, 04 Mar 2026 22:00:00 +0000</pubDate>
       <guid isPermaLink="false">serenity-news-2026-03-04-pm</guid>
       <description><![CDATA[
-<p><strong>Major escalation.</strong> Israel attacks security headquarters across Tehran. Iran retaliates — drone fire at US consulate in Dubai, missile strike on US base in Qatar. Months of planning behind mission targeting Iran's supreme leader. Iran regime still intact but in crisis mode. US sending evacuation planes. Hezbollah drags Lebanon into war (52 killed in Israeli strikes). Tehran food shortages growing. Trump endgame unclear. Asia markets slump day 3, oil surging.</p>
-<p><em>Sources: BBC News. 2026-03-04 evening.</em></p>
+<p>Israel attacks security HQ across Tehran. Iran retaliates — drone fire at US consulate Dubai, missile on US base Qatar. Mission targeting supreme leader revealed. US sending evacuation planes. Hezbollah drags Lebanon in. Tehran food shortages. Markets day 3 slump.</p>
       ]]></description>
     </item>
 
     <item>
-      <title>Mamdani: ICE Meeting, NYPD Tensions, AI Deepfakes (Older Stories)</title>
-      <pubDate>Tue, 04 Mar 2026 12:00:00 +0000</pubDate>
-      <guid isPermaLink="false">serenity-news-2026-03-04-mamdani</guid>
-      <description><![CDATA[
-<p>Columbia student freed after Mamdani-Trump meeting on ICE. Snowball fight incident puts Mamdani at odds with NYPD. AI-generated fake Mamdani-Epstein images debunked. Stories from late Feb/early Mar — no current coverage.</p>
-      ]]></description>
-    </item>
-
-    <item>
-      <title>Briefing: March 4 AM — Iran 1,000+ Dead; 6 US KIA; Markets Day 3</title>
-      <link>https://www.bbc.com/news/live/c62gg44d53xt</link>
+      <title>March 4 AM: Iran 1,000+ Dead; 6 US KIA; Markets Day 3</title>
       <pubDate>Tue, 04 Mar 2026 06:00:00 +0000</pubDate>
       <guid isPermaLink="false">serenity-news-2026-03-04-am</guid>
       <description><![CDATA[
-<p>Iran civilian toll passes 1,000. All 6 US KIA identified (Kuwait drone). Gulf states: "all red lines crossed." Hormuz standoff. Cyprus defenses bolstered. TikTok refuses E2E encryption. OpenAI military deal updated. Noem grilled at Senate. Commerce Sec testifying on Epstein.</p>
+<p>Iran civilian toll passes 1,000. All 6 US KIA identified. Gulf states "all red lines crossed." Hormuz standoff. TikTok refuses E2E encryption. OpenAI military deal updated.</p>
       ]]></description>
     </item>
 
     <item>
-      <title>March 3: Iran Strikes Begin — 787 Dead, First US Combat Deaths</title>
+      <title>March 3: Iran Strikes Begin — First US Combat Deaths</title>
       <pubDate>Mon, 03 Mar 2026 22:00:00 +0000</pubDate>
       <guid isPermaLink="false">serenity-news-2026-03-03-pm</guid>
       <description><![CDATA[
-<p>US-Israel launch coordinated strikes on Iran. Civilian toll climbs from initial reports to 787+. First US soldiers killed in Kuwait drone strike (4+ confirmed). Gulf states hit by Iranian retaliation. Markets rattled.</p>
+<p>US-Israel launch strikes on Iran. Civilian toll climbs to 787+. First US soldiers killed in Kuwait. Gulf states hit by retaliation.</p>
       ]]></description>
     </item>
 
