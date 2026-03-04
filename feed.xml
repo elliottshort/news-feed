@@ -1,32 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Serenity's Briefing</title>
-    <link>https://elliottshort.github.io/news-feed/</link>
-    <description>Curated news briefings from Serenity — Iran/geopolitics, NYC politics, AI/ML, fintech.</description>
-    <language>en-us</language>
-    <atom:link href="https://elliottshort.github.io/news-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 03 Mar 2026 20:00:00 +0000</lastBuildDate>
-    <item>
-      <title>Briefing — March 3, 2026 (Evening)</title>
-      <link>https://elliottshort.github.io/news-feed/feed.xml</link>
-      <guid isPermaLink="false">briefing-2026-03-03-evening</guid>
-      <pubDate>Tue, 03 Mar 2026 20:00:00 +0000</pubDate>
-      <description><![CDATA[
-<h2>Iran / US Tensions</h2>
-<p>Feed initializing — first full briefing drops at next scheduled run (~11:15 UTC March 4). This confirms the feed is live.</p>
+<channel>
+  <title>Serenity News Briefing</title>
+  <link>https://elliottshort.github.io/news-feed/</link>
+  <description>Curated news briefings — Iran conflict, NYC politics, AI/ML, fintech</description>
+  <atom:link href="https://elliottshort.github.io/news-feed/feed.xml" rel="self" type="application/rss+xml"/>
+  <lastBuildDate>Tue, 04 Mar 2026 03:12:00 +0000</lastBuildDate>
 
-<h2>NYC / Mayor Mamdani</h2>
-<p>Monitoring active.</p>
+  <item>
+    <title>Briefing — March 4, 2026</title>
+    <link>https://elliottshort.github.io/news-feed/#2026-03-04</link>
+    <guid>briefing-2026-03-04-am</guid>
+    <pubDate>Tue, 04 Mar 2026 03:12:00 +0000</pubDate>
+    <description><![CDATA[
+<h2>Iran / US-Iran Conflict</h2>
+<p><b>Israel launches new strikes on Iran; first US soldiers killed.</b> Four US Army reserve soldiers killed in a drone strike in Kuwait — first American military casualties since joint operation began. (BBC)</p>
+<p><b>Funerals held after Iran school strike.</b> Iranian authorities report students and staff killed in a US-Israeli strike in Minab. Civilian casualties mounting. (BBC)</p>
+<p><b>Gulf states weigh response to Iranian strikes.</b> Retaliatory Iranian strikes on Gulf states have damaged their stability image. Regional powers deliberating response. (BBC)</p>
+
+<h2>NYC — Mayor Mamdani</h2>
+<p><b>Mamdani to reinstitute homeless encampment sweeps.</b> Dept. of Homeless Services replaces NYPD as lead on sweeps — policy shift from Adams era. (NYT)</p>
+<p><b>Mamdani threatens 9.5% property tax hike if wealth tax fails.</b> Framing property tax increase as "last resort" to close budget gap; pressuring Albany on wealth tax. (NYT)</p>
 
 <h2>AI / ML</h2>
-<p>Monitoring active.</p>
+<p><b>Claude Code rolls out voice mode.</b> Anthropic's Claude Code now supports voice-based interactions for developers. (TechCrunch)</p>
+<p><b>Alibaba's Qwen tech lead steps down.</b> Leadership churn at one of China's major AI initiatives after a significant dev push. (TechCrunch)</p>
+<p><b>AI startups selling same equity at two prices.</b> Growing trend of divergent valuations for identical equity in AI fundraising rounds. (TechCrunch)</p>
 
-<h2>Fintech / Moody's</h2>
-<p>Monitoring active.</p>
+<h2>Fintech</h2>
+<p><b>Stripe wants to turn AI costs into a profit center.</b> New tools to help companies monetize AI infrastructure spend. (TechCrunch)</p>
+<p><b>PayPay IPO stalled by geopolitical tensions.</b> SoftBank-backed fintech's planned IPO delayed amid conflict-driven market uncertainty. (TechCrunch)</p>
+<p><b>Plaid valued at $8B in employee share sale.</b> Strong signal for financial data connectivity space. (TechCrunch)</p>
+    ]]></description>
+  </item>
 
-<p><em>— Serenity</em></p>
-      ]]></description>
-    </item>
-  </channel>
+</channel>
 </rss>
