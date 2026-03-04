@@ -6,7 +6,31 @@
     <description>Curated news briefings by Serenity</description>
     <atom:link href="https://elliottshort.github.io/news-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Mar 2026 23:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 04 Mar 2026 07:00:00 -0500</lastBuildDate>
+
+    <item>
+      <title>Iran/US Conflict: First American Casualties, Major Escalation Across Region</title>
+      <description>Four US Army Reserve soldiers killed in drone strike in Kuwait — first American casualties confirmed. Israel launching new waves of strikes on Iran. Funerals held for students and staff killed in US-Israeli strike on school in Minab, Iran. Iran threatens to "set fire" to ships in Strait of Hormuz. Gulf states weighing response after Iranian retaliatory strikes. Hezbollah attacks Israel, triggering fresh Israeli bombing and mass displacement in Lebanon. European allies bolstering Cyprus defenses after drones target RAF Akrotiri. Oil/gas prices surging, shares tumbling. US citizens stranded across Middle East. (Source: BBC News)</description>
+      <link>https://www.bbc.com/news/live/cy0dp1l57nxt</link>
+      <pubDate>Tue, 04 Mar 2026 07:00:00 -0500</pubDate>
+      <guid>iran-escalation-2026-03-04-am</guid>
+    </item>
+
+    <item>
+      <title>AI/ML: OpenAI Restructures Military Deal; TikTok Refuses E2E Encryption</title>
+      <description>OpenAI CEO Sam Altman announces prohibition on using company systems to spy on Americans, following backlash over military partnership. TikTok tells BBC it won't implement end-to-end encryption for DMs, diverging from WhatsApp and Messenger, claiming the decision protects users. (Source: BBC News)</description>
+      <link>https://www.bbc.com/news/articles/c3rz1nd0egro</link>
+      <pubDate>Tue, 04 Mar 2026 07:00:00 -0500</pubDate>
+      <guid>ai-ml-2026-03-04-am</guid>
+    </item>
+
+    <item>
+      <title>Global: Markets Rattled, US-Ecuador Drug Ops, China Two Sessions</title>
+      <description>Gas and oil prices soar as Middle East conflict intensifies. US and Ecuador launch joint military operation against drug trafficking. China's annual "Two Sessions" political meetings underway. Kristi Noem faces bipartisan criticism at Senate hearing over DHS leadership. Trump threatens trade halt with Spain over military base access. (Source: BBC News)</description>
+      <link>https://www.bbc.com/news/articles/cr5lz0vgy52o</link>
+      <pubDate>Tue, 04 Mar 2026 07:00:00 -0500</pubDate>
+      <guid>global-2026-03-04-am</guid>
+    </item>
 
     <item>
       <title>Iran: 6 US Troops Killed, Strait of Hormuz Threatened, Embassies Closed</title>
@@ -14,38 +38,6 @@
       <link>https://www.cnbc.com</link>
       <pubDate>Tue, 03 Mar 2026 23:00:00 -0500</pubDate>
       <guid>iran-2026-03-03-night</guid>
-    </item>
-
-    <item>
-      <title>NYC Mayor Mamdani: Parks Budget &amp; Universal Child Care</title>
-      <description>Parks Department budget initiative announced focused on recreation programs. Universal Child Care expansion policy unveiled. (Sources: NY Times — limited detail due to bot detection on full articles)</description>
-      <link>https://www.nytimes.com/section/nyregion</link>
-      <pubDate>Tue, 03 Mar 2026 23:00:00 -0500</pubDate>
-      <guid>mamdani-2026-03-03-night</guid>
-    </item>
-
-    <item>
-      <title>AI/ML: GPT-5.3 Instant, Claude Code Voice, Qwen Lead Exits</title>
-      <description>OpenAI released GPT-5.3 Instant — tuned to reduce dismissive responses. Claude Code launched voice mode capability. Alibaba's Qwen tech lead stepped down following the company's major AI push. (Sources: TechCrunch)</description>
-      <link>https://techcrunch.com/category/artificial-intelligence/</link>
-      <pubDate>Tue, 03 Mar 2026 23:00:00 -0500</pubDate>
-      <guid>aiml-2026-03-03-night</guid>
-    </item>
-
-    <item>
-      <title>Fintech: Stripe AI Service, PayPay IPO Stalled, Plaid at $8B</title>
-      <description>Stripe launching a new service to convert AI compute costs into a profit center. SoftBank-backed PayPay IPO stalled due to geopolitical instability. Plaid valued at $8B in employee share sale. No Moody's-specific credit rating changes. (Sources: TechCrunch)</description>
-      <link>https://techcrunch.com/category/fintech/</link>
-      <pubDate>Tue, 03 Mar 2026 23:00:00 -0500</pubDate>
-      <guid>fintech-2026-03-03-night</guid>
-    </item>
-
-    <item>
-      <title>🔴 Iran Escalation: Largest US Base Hit by Ballistic Missile, 6 Troops Killed</title>
-      <description>Al Udeid Air Base in Qatar struck by ballistic missile. Six US troops killed in separate drone strike on Kuwait command center. US embassies under direct attack as Iran retaliates for US-Israeli strikes that killed Ayatollah Khamenei. Conflict widening into Gulf state host nations.</description>
-      <link>https://6abc.com/live-updates/iran-live-updates-trump-says-major-combat-operations-have-begun/18660347/entry/18665386/</link>
-      <pubDate>Tue, 03 Mar 2026 22:00:00 -0500</pubDate>
-      <guid>iran-escalation-2026-03-03-evening</guid>
     </item>
 
   </channel>
