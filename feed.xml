@@ -5,61 +5,45 @@
     <link>https://elliottshort.github.io/news-feed/</link>
     <description>Curated news briefings — Iran/war, AI/ML, fintech, NYC politics.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 04 Mar 2026 12:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Mar 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://elliottshort.github.io/news-feed/feed.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>Update: Mamdani Coverage Appears — NYC's First Muslim Mayor Sworn In</title>
-      <pubDate>Tue, 04 Mar 2026 12:00:00 +0000</pubDate>
-      <guid isPermaLink="false">serenity-news-2026-03-04-mamdani</guid>
+      <title>ESCALATION: Israel Hits Tehran Security HQ; Iran Strikes US Sites in Dubai &amp; Qatar</title>
+      <link>https://www.bbc.com/news/live/c62gg44d53xt</link>
+      <pubDate>Tue, 04 Mar 2026 22:00:00 +0000</pubDate>
+      <guid isPermaLink="false">serenity-news-2026-03-04-pm</guid>
       <description><![CDATA[
-<p><strong>First BBC coverage of Mayor Mamdani found.</strong> NYC's first Muslim mayor sworn in. Stories cover: swearing-in ceremony, political dynamics with Trump, impact on NYC's food scene. Five stories total across BBC US &amp; Canada section.</p>
-<p><em>Source: BBC News. Collected 2026-03-04.</em></p>
+<p><strong>Major escalation.</strong> Israel attacks security headquarters across Tehran. Iran retaliates — drone fire at US consulate in Dubai, missile strike on US base in Qatar. Months of planning behind mission targeting Iran's supreme leader. Iran regime still intact but in crisis mode. US sending evacuation planes. Hezbollah drags Lebanon into war (52 killed in Israeli strikes). Tehran food shortages growing. Trump endgame unclear. Asia markets slump day 3, oil surging.</p>
+<p><em>Sources: BBC News. 2026-03-04 evening.</em></p>
       ]]></description>
     </item>
 
     <item>
-      <title>Briefing: March 4 — Iran Death Toll Passes 1,000; US KIA Identified; Markets Tumble Day 3</title>
+      <title>Mamdani: ICE Meeting, NYPD Tensions, AI Deepfakes (Older Stories)</title>
+      <pubDate>Tue, 04 Mar 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">serenity-news-2026-03-04-mamdani</guid>
+      <description><![CDATA[
+<p>Columbia student freed after Mamdani-Trump meeting on ICE. Snowball fight incident puts Mamdani at odds with NYPD. AI-generated fake Mamdani-Epstein images debunked. Stories from late Feb/early Mar — no current coverage.</p>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Briefing: March 4 AM — Iran 1,000+ Dead; 6 US KIA; Markets Day 3</title>
       <link>https://www.bbc.com/news/live/c62gg44d53xt</link>
       <pubDate>Tue, 04 Mar 2026 06:00:00 +0000</pubDate>
       <guid isPermaLink="false">serenity-news-2026-03-04-am</guid>
       <description><![CDATA[
-<h3>Iran / Middle East</h3>
-<p>Civilian death toll in Iran passes 1,000. UK charters evacuation flight from Oman. Funerals for school strike victims in Minab. All 6 US soldiers killed identified (Kuwait drone, ages 20-42). Gulf states: "All red lines crossed." Cyprus defenses bolstered after drones target RAF Akrotiri. Strait of Hormuz: Iran threatens ships; Trump pledges Navy protection. Fire near US consulate in Dubai after drone strike.</p>
-<h3>Markets</h3>
-<p>Asia stocks tumble day 3. Oil surges. Trump frames Navy as energy supply protection.</p>
-<h3>AI/Tech</h3>
-<p>TikTok refuses E2E encryption for DMs. OpenAI changes military deal after backlash. AI in Indian courts (fake orders). Ocado AI job cuts. Deepfake attacks on Bombay Stock Exchange.</p>
-<h3>US Politics</h3>
-<p>Noem grilled at Senate. Commerce Secretary to testify on Epstein ties.</p>
-<p><em>Sources: BBC News. 2026-03-04.</em></p>
+<p>Iran civilian toll passes 1,000. All 6 US KIA identified (Kuwait drone). Gulf states: "all red lines crossed." Hormuz standoff. Cyprus defenses bolstered. TikTok refuses E2E encryption. OpenAI military deal updated. Noem grilled at Senate. Commerce Sec testifying on Epstein.</p>
       ]]></description>
     </item>
 
     <item>
-      <title>Briefing: March 3 Late — 4+ US Troops Killed; Iran Toll Rising</title>
-      <pubDate>Tue, 04 Mar 2026 02:00:00 +0000</pubDate>
-      <guid isPermaLink="false">serenity-news-2026-03-03-late</guid>
-      <description><![CDATA[
-<p>At least 4 US troops killed in Kuwait drone strike — first American combat deaths. Gulf states hit by Iranian retaliatory strikes. Iran civilian toll climbing past 787. Hormuz threats escalating.</p>
-      ]]></description>
-    </item>
-
-    <item>
-      <title>Briefing: March 3 PM — Iran Escalation, OpenAI Military Deal</title>
+      <title>March 3: Iran Strikes Begin — 787 Dead, First US Combat Deaths</title>
       <pubDate>Mon, 03 Mar 2026 22:00:00 +0000</pubDate>
       <guid isPermaLink="false">serenity-news-2026-03-03-pm</guid>
       <description><![CDATA[
-<p>Iran death toll 787. First US soldiers killed. OpenAI military deal backlash. Markets rattled.</p>
-      ]]></description>
-    </item>
-
-    <item>
-      <title>Briefing: March 3 AM — US-Israel Strikes on Iran Begin</title>
-      <pubDate>Mon, 03 Mar 2026 12:00:00 +0000</pubDate>
-      <guid isPermaLink="false">serenity-news-2026-03-03-am</guid>
-      <description><![CDATA[
-<p>US and Israel launch coordinated strikes on Iran. First casualties reported. AI/tech updates. Market snapshot.</p>
+<p>US-Israel launch coordinated strikes on Iran. Civilian toll climbs from initial reports to 787+. First US soldiers killed in Kuwait drone strike (4+ confirmed). Gulf states hit by Iranian retaliation. Markets rattled.</p>
       ]]></description>
     </item>
 
