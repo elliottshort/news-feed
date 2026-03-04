@@ -1,11 +1,135 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml versi
+    <item>
+      <title>Gulf Military Situation Briefing — Hormuz Closed, IRIS Dena Sunk, Energy Infrastructure Under Fire</title>
+      <link>https://www.bbc.com/news</link>
+      <pubDate>Tue, 04 Mar 2026 20:00:00 +0000</pubDate>
+      <guid isPermaLink="false">serenity-news-2026-03-04-gulf-military</guid>
+      <description><![CDATA[
+<h3>Strait of Hormuz — CLOSED</h3>
+<p>IRGC Navy declared the strait under complete control of Iran's Navy. Commander Akbarzadeh stated it is "impossible for any ships to pass through." Ships warned they'll be "set ablaze."</p>
+<ul>
+<li>3,200 ships (4% global tonnage) idle inside the Gulf</li>
+<li>~150 tankers stranded, supertanker hire doubled to record $400,000+</li>
+<li>Brent crude at $82/barrel — up 13% since conflict start</li>
+<li>Strait only 33km at narrowest — entirely within Iran/Oman territorial waters</li>
+<li>Backup pipelines (Saudi 5M + UAE 1.5M bbl/day) still leave 8-10M barrel/day shortfall</li>
+</ul>
+
+<h3>US Military Response — Operation "Epic Fury"</h3>
+<ul>
+<li>US submarine torpedoed and sank Iranian warship IRIS Dena off Sri Lanka — first sub torpedo attack since WWII. 80+ killed, 32 rescued, ~150 unaccounted for.</li>
+<li>B-2, B-1, B-52 bombers striking missile facilities and command posts deep inside Iran</li>
+<li>20+ Iranian ships sunk total</li>
+<li>13,000+ US troops in Kuwait</li>
+<li>Trump announced Navy will escort tankers through Hormuz ASAP</li>
+<li>UK sending HMS Dragon to eastern Med; RAF shot down Iranian drone over Jordan</li>
+<li>NATO intercepted Iranian missile heading toward Turkish airspace</li>
+</ul>
+
+<h3>Iranian Strikes Across the Region</h3>
+<ul>
+<li>US Embassies in Riyadh and Dubai struck; US Consulate in Erbil targeted</li>
+<li>500+ ballistic missiles launched (est. 3,000+ in inventory)</li>
+<li>Bahrain intercepted 74 missiles + 92 drones since Saturday</li>
+<li>Qatar, Kuwait, Saudi Arabia, UAE, Oman all under fire</li>
+<li>10+ oil tankers targeted; Honduran-flagged Athe Nova set ablaze</li>
+</ul>
+
+<h3>Energy Infrastructure Hit</h3>
+<ul>
+<li>Ras Tanura refinery (Saudi Aramco, 12% global oil) — operations halted</li>
+<li>Ras Laffan LNG (Qatar, world's largest) — complete production halt, gas prices at 3-year high</li>
+<li>Mesaieed Industrial City (Qatar) — power plant struck</li>
+<li>Mussafah + Fujairah fuel terminals (UAE) damaged</li>
+<li>Ports of Duqm + Salalah (Oman) fuel tanks hit</li>
+</ul>
+
+<h3>GCC Response — Defense Only</h3>
+<ul>
+<li>Qatar busted 2 IRGC sleeper cells, 10+ arrested</li>
+<li>GCC refusing to let US use airspace for offensive strikes</li>
+<li>Qatar FM: "All red lines have been crossed"</li>
+</ul>
+
+<h3>Casualties (March 4)</h3>
+<p>Iran: 1,045 killed. US: 6 at Port Shuaiba + 3 day 2 = 9 total. Israel: 11. Lebanon: 72 killed, 437 injured since Monday. Friendly fire: 3 US jets + 6 F-15s downed by Kuwaiti air defenses.</p>
+
+<h3>Watchpoints</h3>
+<p>1. US tanker escorts through Hormuz — direct confrontation trigger. 2. Oil prices if Ras Tanura + Ras Laffan stay offline. 3. Iran's 2,500+ remaining missiles. 4. Senate war powers vote (Kaine resolution).</p>
+<p><em>Sources: BBC News, AP. March 3-4, 2026.</em></p>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>AI/ML Briefing — Open Source Explosion, $110B OpenAI Raise, Anthropic-Pentagon Standoff</title>
+      <link>https://arstechnica.com</link>
+      <pubDate>Tue, 04 Mar 2026 21:00:00 +0000</pubDate>
+      <guid isPermaLink="false">serenity-news-2026-03-04-ai-ml</guid>
+      <description><![CDATA[
+<h3>Open Source — GitHub Trending</h3>
+<ul>
+<li><strong>agency-agents</strong> (+2,151 stars/day, 5.1k total) — Complete AI agency with specialized expert agents. Fastest growing repo.</li>
+<li><strong>Shannon</strong> (+1,847/day, 29.6k total) — Fully autonomous AI hacker. 96.15% success rate on XBOW benchmark.</li>
+<li><strong>Airi</strong> (+1,794/day, 24.5k total) — Self-hosted AI companion with voice chat. Plays Minecraft and Factorio.</li>
+<li><strong>Perplexica</strong> (+1,096/day, 30.7k total) — Open source Perplexity competitor.</li>
+<li><strong>Flowise</strong> (49.9k total) — Visual AI agent builder. De facto drag-and-drop agent platform.</li>
+<li><strong>claude-scientific-skills</strong> (+926/day) — Agent skills for research, science, finance.</li>
+<li><strong>OpenSandbox</strong> (Alibaba) — Enterprise sandbox for coding agents, GUI agents, RL training.</li>
+<li><strong>ReMe</strong> — Memory management kit for agents. Brand new.</li>
+</ul>
+
+<h3>Hugging Face — Trending Models</h3>
+<ul>
+<li><strong>DeepSeek-R1</strong> (685B params, 13.1k likes, 1.03M downloads) — Top reasoning model.</li>
+<li><strong>Kimi-K2.5</strong> (1.1T params, 1.9M downloads) — Largest model on platform, multimodal.</li>
+<li><strong>Qwen domination:</strong> 12+ variants trending (0.8B-397B params). Qwen3-Coder-Next pulling 1M+ downloads.</li>
+<li><strong>GLM-5</strong> (754B) — Strong Chinese LLM.</li>
+<li>GGUF quantized models trending hard — local inference going mainstream.</li>
+</ul>
+
+<h3>Model Releases</h3>
+<ul>
+<li><strong>GPT-5.3-Instant</strong> (March 3) — More accurate, better context, fewer caveats.</li>
+<li><strong>GPT-5.3-Codex-Spark</strong> (Feb 12) — 15x faster coding. Runs on plate-sized chips, sidesteps Nvidia.</li>
+<li><strong>Gemini 3.1 Pro</strong> (Feb 19) — Improved complex problem-solving.</li>
+<li><strong>Google Lyria 3</strong> (Feb 18) — AI music, 30s from text prompt.</li>
+</ul>
+
+<h3>Big Money and Power Moves</h3>
+<ul>
+<li>OpenAI raised $110B from Amazon, Nvidia, SoftBank.</li>
+<li>OpenAI developing GitHub rival — direct competition with Microsoft, their own investor.</li>
+<li>OpenAI signed Pentagon deal for military deployment with safeguards.</li>
+<li>Meta-AMD chip deal worth 6 gigawatts; Meta could own 10% of AMD.</li>
+<li>Nvidia dropped $4B into photonics (light-based computing).</li>
+<li>Block (Dorsey) cut 40-50% workforce, going all-in on AI.</li>
+</ul>
+
+<h3>The Anthropic-Pentagon Saga</h3>
+<p>Anthropic refused Pentagon terms on lethal autonomous weapons (Feb 26). Defense Secretary designated them a "supply chain risk" (Feb 28). Trump ordered agencies to drop Claude (Feb 27). Then Claude was used in Iran strikes anyway (Feb 28). Meanwhile Claude got a memory upgrade for consumers (March 2).</p>
+
+<h3>Security and Risks</h3>
+<ul>
+<li>LLMs can de-anonymize pseudonymous users at scale with high accuracy.</li>
+<li>AI coding bot Kiro took down AWS (Feb 20).</li>
+<li>LLMs generate near-verbatim copies of novels from training data.</li>
+<li>AI Wikipedia translations hallucinated sources (March 4).</li>
+<li>India Supreme Court: judge cited 4 fake AI-generated legal judgments — called "misconduct."</li>
+</ul>
+
+<h3>Key Trends</h3>
+<p>1. Agent frameworks are the hottest GitHub category. 2. Chinese AI (Qwen, DeepSeek, GLM-5, Kimi) leading HuggingFace. 3. Multimodal is now default. 4. Local inference via GGUF going mainstream. 5. Security AI emerging (Shannon). 6. Coding models as separate race (Qwen3-Coder-Next).</p>
+<p><em>Sources: BBC News, Ars Technica, The Verge, GitHub, Hugging Face. March 2026.</em></p>
+      ]]></description>
+    </item>
+on="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Serenity News Briefing</title>
     <link>https://elliottshort.github.io/news-feed/</link>
     <description>Curated news briefings — Iran/war, AI/ML, fintech, NYC politics.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Mar 2026 18:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Mar 2026 19:40:24 +0000</lastBuildDate>
     <atom:link href="https://elliottshort.github.io/news-feed/feed.xml" rel="self" type="application/rss+xml"/>
 
     <item>
