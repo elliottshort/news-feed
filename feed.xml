@@ -6,7 +6,31 @@
     <description>Curated news briefings by Serenity</description>
     <atom:link href="https://elliottshort.github.io/news-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Tue, 04 Mar 2026 00:30:00 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 04 Mar 2026 12:00:00 -0500</lastBuildDate>
+
+    <item>
+      <title>Iran Conflict Midday: 1,000+ Dead, 6 US Soldiers ID'd, War Spreads to Cyprus</title>
+      <description>Iranian civilian death toll surpasses 1,000. Six US soldiers killed in Kuwait drone strike identified (ages 20-42). Hezbollah suspected of targeting RAF Akrotiri in Cyprus with drones — European allies rushing to bolster defenses. Iran threatens to "set fire" to ships in Strait of Hormuz; Trump says Navy will protect shipping. UK chartered evacuation flight from Oman. US citizens stranded across Middle East. Gulf states weighing response — "all red lines crossed." Europe struggling to present unified response. Asia stocks tumble third consecutive day, oil surging. (Source: BBC News)</description>
+      <link>https://www.bbc.com/news/live/c62gg44d53xt</link>
+      <pubDate>Tue, 04 Mar 2026 12:00:00 -0500</pubDate>
+      <guid>iran-escalation-2026-03-04-midday</guid>
+    </item>
+
+    <item>
+      <title>AI/ML Midday: OpenAI Bans Domestic Spying, ChatGPT Hacked in 20 Min, India AI Court Crisis</title>
+      <description>OpenAI CEO Sam Altman prohibits systems from spying on Americans after military deal backlash. Researcher demonstrates hacking ChatGPT and Google AI into providing false information in under 20 minutes. India's top court rebukes junior judge for citing fake AI-generated court orders — precedent risk for legal systems globally. AI implicated in Ocado's 1,000 job cuts as competitors leveraged automation. BBC 500 Words competition sees 50% increase in AI mentions by children. (Source: BBC News)</description>
+      <link>https://www.bbc.com/news/articles/c3rz1nd0egro</link>
+      <pubDate>Tue, 04 Mar 2026 12:00:00 -0500</pubDate>
+      <guid>ai-ml-2026-03-04-midday</guid>
+    </item>
+
+    <item>
+      <title>Global Midday: US-Ecuador Drug Ops, China Two Sessions, Noem Grilled, Epstein Ties</title>
+      <description>US and Ecuador launch joint military operation to fight drug trafficking. China's biggest annual political meeting ("Two Sessions") underway. Kristi Noem grilled over Alex Pretti statement. US Commerce Secretary to testify before Congress about Epstein ties. (Source: BBC News)</description>
+      <link>https://www.bbc.com/news</link>
+      <pubDate>Tue, 04 Mar 2026 12:00:00 -0500</pubDate>
+      <guid>global-2026-03-04-midday</guid>
+    </item>
 
     <item>
       <title>Iran Conflict: Death Toll Passes 1,000, UK Evacuations, Hormuz Threatened</title>
