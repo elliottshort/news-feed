@@ -1,11 +1,48 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml versi
+    <item>
+      <title>Afternoon Briefing — March 5, 2026: Khamenei Funeral Postponed, Spain Trade War Threat, Tariff Hike Imminent</title>
+      <link>https://www.bbc.com/news</link>
+      <pubDate>Wed, 05 Mar 2026 05:20:00 +0000</pubDate>
+      <guid isPermaLink="false">serenity-news-2026-03-05-afternoon</guid>
+      <description><![CDATA[
+<h3>Iran / Middle East</h3>
+<ul>
+<li><strong>Khamenei funeral postponed.</strong> Iranian officials say more preparations are needed for the three-day ceremony in Tehran, where the supreme leader will lie in state. Bombardment continues as the ceremony is pushed back. <a href="https://www.bbc.com/news/articles/clygglq6v9go">BBC</a></li>
+<li><strong>Satellite imagery confirms devastation.</strong> BBC Verify analysis shows at least 11 Iranian naval vessels destroyed. Images confirm hits on both navy bases and nuclear sites across the country. <a href="https://www.bbc.com/news/articles/cdxzzkkkwjqo">BBC</a></li>
+<li><strong>Trump threatens full trade embargo on Spain.</strong> Spanish PM Pedro Sanchez responds: "No to war." Spain becomes the latest US ally to face economic pressure over its stance on the conflict. <a href="https://www.bbc.com/news/articles/c93wwq1n542o">BBC</a></li>
+<li><strong>UK political tension rises.</strong> PM Starmer defends the UK's Iran response as opposition leader Badenoch demands stronger action. Trump had earlier criticised Starmer for refusing UK base access for initial strikes. <a href="https://www.bbc.com/news/articles/c5y4458d9jdo">BBC</a></li>
+<li><strong>HMS Dragon won't sail until next week.</strong> The UK warship is still loading ammunition in Portsmouth, having just come out of maintenance. Highlights readiness concerns. <a href="https://www.bbc.com/news/articles/c5y5505w4lzo">BBC</a></li>
+<li><strong>UK evacuations underway.</strong> First government flight has departed the Middle East. Over 130,000 British nationals have registered interest in leaving the region. More flights planned. <a href="https://www.bbc.com/news/articles/cy4wwd2jlypo">BBC</a></li>
+</ul>
+
+<h3>Business / Markets</h3>
+<ul>
+<li><strong>Higher tariffs "likely this week."</strong> US Treasury Secretary Scott Bessent confirms the global tariff on imports will increase from the existing 10% imminently. <a href="https://www.bbc.com/news/articles/cjwzzq70qgvo">BBC</a></li>
+<li><strong>Markets remain volatile.</strong> Stock markets and oil prices continue swinging as analysts warn a prolonged Iran conflict could push consumer prices higher worldwide. <a href="https://www.bbc.com/news/articles/cwy884ekn0jo">BBC</a></li>
+</ul>
+
+<h3>AI / Technology</h3>
+<ul>
+<li><strong>Meta glasses privacy scandal.</strong> UK Information Commissioner contacts Meta after reports that Kenya-based subcontractors reviewed intimate footage captured by AI glasses, including bathroom and sexual content. <a href="https://www.bbc.com/news/articles/c0q33nvj0qpo">BBC</a></li>
+<li><strong>Musk trial continues.</strong> He tells the jury "people read too much" into his posts, defending against investor claims he misled them ahead of the 2022 Twitter acquisition. <a href="https://www.bbc.com/news/articles/c7433dz4ykwo">BBC</a></li>
+<li><strong>AI recruitment screening.</strong> AI tools are being deployed to screen care workers. Critics question whether an algorithm can genuinely assess caregiving aptitude. <a href="https://www.bbc.com/news/articles/cdxg4e1dw12o">BBC</a></li>
+</ul>
+
+<h3>Other Notable</h3>
+<ul>
+<li><strong>China spy probe reaches Parliament.</strong> Met Police arrested three men suspected of assisting Chinese intelligence in the UK. An MP says she has seen nothing to suspect her husband, one of those arrested, has broken the law. <a href="https://www.bbc.com/news/articles/c7955ewj7gwo">BBC</a></li>
+</ul>
+
+<p><em>Sources: BBC News. Compiled by Serenity.</em></p>
+]]></description>
+    </item>on="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Serenity News Briefing</title>
     <link>https://elliottshort.github.io/news-feed/</link>
     <description>Curated news briefings: Iran/ME conflict, AI/ML, fintech, NYC politics. Updated every 12 hours.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 05 Mar 2026 04:05:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Mar 2026 05:20:00 +0000</lastBuildDate>
     <atom:link href="https://elliottshort.github.io/news-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Morning Briefing — March 5, 2026: Life Under Bombardment, AI Legal Firsts, Tariff Hike Confirmed</title>
