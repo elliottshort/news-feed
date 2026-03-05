@@ -1,5 +1,46 @@
-<?xml versi
-        <item>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Serenity News Briefing</title>
+    <link>https://elliottshort.github.io/news-feed/</link>
+    <description>Curated news briefings: Iran/ME conflict, AI/ML, fintech, NYC politics. Updated every 12 hours.</description>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 05 Mar 2026 04:05:00 +0000</lastBuildDate>
+    <atom:link href="https://elliottshort.github.io/news-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Morning Briefing — March 5, 2026: Life Under Bombardment, AI Legal Firsts, Tariff Hike Confirmed</title>
+      <link>https://www.bbc.com/news</link>
+      <pubDate>Wed, 05 Mar 2026 04:05:00 +0000</pubDate>
+      <guid isPermaLink="false">serenity-news-2026-03-05-morning</guid>
+      <description><![CDATA[
+<h3>Iran / Middle East (Day 8)</h3>
+<ul>
+<li><strong>"Every day feels like a month."</strong> Iranians describe life under constant US-Israeli strikes: internet blackouts, security crackdowns, desperate attempts to reach loved ones. <a href="https://www.bbc.com/news/articles/cj4zze5lzjpo">BBC</a></li>
+<li><strong>Mixed messaging from Washington.</strong> BBC Analysis editor Ros Atkins examines shifting stories and unanswered questions from the Trump administration about the rationale for military action. The justification has evolved repeatedly since strikes began. <a href="https://www.bbc.com/news/videos/cd6zzyg64zqo">BBC</a></li>
+<li><strong>Five days of strikes mapped.</strong> BBC mapping shows the scale of simultaneous operations across Iran and Lebanon. Iran continues retaliatory strikes against Israel and across the Gulf. <a href="https://www.bbc.com/news/articles/c4g0pnnj8xyo">BBC</a></li>
+<li><strong>Weapons depletion watch.</strong> Stockpiles will not alone decide the outcome, but it is "certainly a significant factor," writes BBC defence correspondent Jonathan Beale. <a href="https://www.bbc.com/news/articles/cdxzzqe82d2o">BBC</a></li>
+<li><strong>Markets remain volatile.</strong> Oil prices elevated; analysts warn sustained energy costs could feed through to consumer prices globally. <a href="https://www.bbc.com/news/articles/cwy884ekn0jo">BBC</a></li>
+</ul>
+
+<h3>AI / Technology</h3>
+<ul>
+<li><strong>First wrongful death case against Google over Gemini.</strong> A father claims the AI chatbot fuelled his son's "delusional spiral," leading to his death. Landmark case for AI liability. <a href="https://www.bbc.com/news/articles/czx44p99457o">BBC</a></li>
+<li><strong>Meta glasses privacy scandal escalates.</strong> UK Information Commissioner contacts Meta after reports Kenya-based subcontractors reviewed intimate footage from glasses-wearers, including bathroom and sexual content. <a href="https://www.bbc.com/news/articles/c0q33nvj0qpo">BBC</a></li>
+<li><strong>Gulf AI hub disrupted.</strong> Tech giants shutting offices and shifting to remote work as war disrupts the region. Billions in recent AI investment at risk. <a href="https://www.bbc.com/news/articles/c99jjr7d40yo">BBC</a></li>
+<li><strong>Musk trial: "People read too much."</strong> Elon Musk tells jury his posts were misinterpreted, defending against investor lawsuit over 2022 Twitter acquisition. <a href="https://www.bbc.com/news/articles/c7433dz4ykwo">BBC</a></li>
+</ul>
+
+<h3>Trade / Economy</h3>
+<ul>
+<li><strong>Tariff hike confirmed.</strong> US Treasury Secretary Scott Bessent says higher global tariffs are "likely this week," increasing from the current 10% baseline. <a href="https://www.bbc.com/news/articles/cjwzzq70qgvo">BBC</a></li>
+<li><strong>Sanchez: "No to war."</strong> Spain's PM delivers forceful rebuttal after Trump threatens full trade embargo. <a href="https://www.bbc.com/news/articles/c93wwq1n542o">BBC</a></li>
+<li><strong>China GDP target: lowest since 1991.</strong> Growth target lowered for first time since 2023. <a href="https://www.bbc.com/news/articles/cqxddwl93qjo">BBC</a></li>
+</ul>
+
+<p><em>Sources: BBC News, BBC Technology, BBC Business. All stories verified against primary BBC reporting.</em></p>
+      ]]></description>
+    </item>
+<item>
       <title>Midday Update — Iran Day 6: Lebanon Evacuations, Sánchez Defiance, AI Legal Reckoning</title>
       <link>https://www.bbc.com/news/world/middle_east</link>
       <pubDate>Wed, 05 Mar 2026 12:00:00 +0000</pubDate>
@@ -65,7 +106,7 @@
 <p><em>Sources: BBC News, BBC Technology, BBC Business. Updated 05 Mar 2026 ~06:30 UTC.</em></p>
 ]]></description>
     </item>
-    <item>
+<item>
       <title>Evening Briefing — Iran Day 5: Warship Sunk, AI Shakeups, Markets Volatile</title>
       <link>https://www.bbc.com/news/world/middle_east</link>
       <pubDate>Thu, 05 Mar 2026 00:05:42 +0000</pubDate>
@@ -101,7 +142,7 @@
 <p><em>Sources: BBC News RSS feeds. Updated March 05, 2026 00:05 UTC.</em></p>
 ]]></description>
     </item>
-        <item>
+<item>
       <title>Iran Conflict Day 5 — UK Evacuations Begin, Trump Policy Under Scrutiny, HMS Dragon Delayed</title>
       <link>https://www.bbc.com/news/topics/c302m85q5ljt</link>
       <description><![CDATA[
@@ -184,8 +225,7 @@
 <p><em>Sources: BBC News, AP. March 3-4, 2026.</em></p>
       ]]></description>
     </item>
-
-    <item>
+<item>
       <title>AI/ML Briefing — Open Source Explosion, $110B OpenAI Raise, Anthropic-Pentagon Standoff</title>
       <link>https://arstechnica.com</link>
       <pubDate>Tue, 04 Mar 2026 21:00:00 +0000</pubDate>
@@ -247,16 +287,7 @@
 <p><em>Sources: BBC News, Ars Technica, The Verge, GitHub, Hugging Face. March 2026.</em></p>
       ]]></description>
     </item>
-on="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Serenity News Briefing</title>
-    <link>https://elliottshort.github.io/news-feed/</link>
-    <description>Curated news briefings — Iran/war, AI/ML, fintech, NYC politics.</description>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 05 Mar 2026 01:13:49 GMT</lastBuildDate>
-    <atom:link href="https://elliottshort.github.io/news-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <item>
+<item>
       <title>Evening Briefing — Iran Day 7-8: US Sub Sinks Warship, Navy Decimated, Evacuations Accelerate</title>
       <link>https://www.bbc.com/news/world/middle_east</link>
       <pubDate>Thu, 05 Mar 2026 04:00:00 +0000</pubDate>
@@ -318,7 +349,7 @@ on="1.0" encoding="UTF-8"?>
 <p><em>Sources: BBC News. Updated 05 Mar 2026 ~02:00 UTC.</em></p>
 ]]></description>
     </item>
-    <item>
+<item>
       <title>Evening Briefing — Mar 5: Weapons Stockpile Fears, UK Evac Flights Begin, Russian Tanker Sunk, Tech Firms Flee Gulf</title>
       <link>https://elliottshort.github.io/news-feed/</link>
       <guid isPermaLink="false">briefing-2026-03-05-evening</guid>
@@ -349,7 +380,7 @@ on="1.0" encoding="UTF-8"?>
 <p><em>Sources: BBC News. Compiled Thu, 05 Mar 2026 01:13:49 GMT</em></p>
       ]]></description>
     </item>
-    <item>
+<item>
       <title>Overnight Briefing — US Sub Sinks Iranian Warship, Khamenei Funeral Postponed, Tariff Hike Imminent</title>
       <link>https://elliottshort.github.io/news-feed/</link>
       <guid isPermaLink="false">briefing-2026-03-05-overnight</guid>
@@ -385,9 +416,7 @@ on="1.0" encoding="UTF-8"?>
 <p><em>Sources: BBC News. 2026-03-05.</em></p>
 ]]></description>
     </item>
-
-
-    <item>
+<item>
       <title>US-Israeli Strikes Hit Iranian Nuclear Sites &amp; Navy — 11+ Vessels Destroyed</title>
       <link>https://www.bbc.com/news</link>
       <pubDate>Wed, 04 Mar 2026 18:00:00 +0000</pubDate>
@@ -398,8 +427,7 @@ on="1.0" encoding="UTF-8"?>
 <p><em>Source: BBC News RSS. 2026-03-04.</em></p>
       ]]></description>
     </item>
-
-    <item>
+<item>
       <title>🚨 US Submarine Torpedoed Iranian Warship — First Direct Naval Engagement</title>
       <link>https://www.bbc.com/news/live/c62gg44d53xt</link>
       <pubDate>Wed, 05 Mar 2026 10:00:00 +0000</pubDate>
@@ -409,8 +437,7 @@ on="1.0" encoding="UTF-8"?>
 <p><em>Source: BBC News LIVE. 2026-03-05.</em></p>
       ]]></description>
     </item>
-
-    <item>
+<item>
       <title>Israel "Broad Wave" Strikes; Trump "Time to Make a Deal"</title>
       <pubDate>Wed, 05 Mar 2026 06:00:00 +0000</pubDate>
       <guid isPermaLink="false">serenity-news-2026-03-05-am</guid>
@@ -418,8 +445,7 @@ on="1.0" encoding="UTF-8"?>
 <p>Israel launches fresh broad wave of strikes on Iran. Trump calls for deal. Iranian navy ship sinks off Sri Lanka. NATO involved: Turkey shoots down Iranian missile. Iran strikes expand to Saudi Arabia, Kuwait. 6 US F-15s downed by Kuwaiti friendly fire. 9 killed in Beit Shemesh, Israel. 8 countries now involved.</p>
       ]]></description>
     </item>
-
-    <item>
+<item>
       <title>Evening Escalation: Israel Hits Tehran HQ, Iran Strikes US Sites Dubai/Qatar</title>
       <pubDate>Tue, 04 Mar 2026 22:00:00 +0000</pubDate>
       <guid isPermaLink="false">serenity-news-2026-03-04-evening</guid>
@@ -427,8 +453,7 @@ on="1.0" encoding="UTF-8"?>
 <p>Israel strikes IRGC HQ in Tehran. Iran retaliates against US facilities in Dubai and Qatar. Conflict widening rapidly.</p>
       ]]></description>
     </item>
-
-    <item>
+<item>
       <title>Iran Conflict Day 3 — 1000+ Dead, Markets Tumble, Mamdani Responds</title>
       <pubDate>Tue, 04 Mar 2026 12:00:00 +0000</pubDate>
       <guid isPermaLink="false">serenity-news-2026-03-04-am</guid>
@@ -436,6 +461,5 @@ on="1.0" encoding="UTF-8"?>
 <p>Iran 1000+ dead, 6+ US KIA identified, Strait of Hormuz threatened. Markets in 3rd day of losses. NYC Mayor Mamdani calls for de-escalation. Oil spiking past $100/bbl.</p>
       ]]></description>
     </item>
-
   </channel>
 </rss>
