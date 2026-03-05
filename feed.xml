@@ -254,8 +254,39 @@ on="1.0" encoding="UTF-8"?>
     <link>https://elliottshort.github.io/news-feed/</link>
     <description>Curated news briefings — Iran/war, AI/ML, fintech, NYC politics.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Mar 2026 19:40:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Mar 2026 01:13:49 GMT</lastBuildDate>
     <atom:link href="https://elliottshort.github.io/news-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Evening Briefing — Mar 5: Weapons Stockpile Fears, UK Evac Flights Begin, Russian Tanker Sunk, Tech Firms Flee Gulf</title>
+      <link>https://elliottshort.github.io/news-feed/</link>
+      <guid isPermaLink="false">briefing-2026-03-05-evening</guid>
+      <pubDate>Thu, 05 Mar 2026 01:13:49 GMT</pubDate>
+      <description><![CDATA[
+<h2>Iran/Middle East — Day 6+</h2>
+<p><strong>Weapons stockpile depletion looms:</strong> BBC defence correspondent reports depleted weapons stocks are becoming a significant factor after six days of sustained precision strikes. Both US and Israel face mounting munitions pressure. <a href="https://www.bbc.com/news/articles/cdxzzqe82d2o">BBC</a></p>
+<p><strong>Life under constant bombardment:</strong> Iranians describe daily strikes, rolling internet blackouts, and security crackdowns. "Every day feels like a month." Millions unable to reach loved ones. <a href="https://www.bbc.com/news/articles/cj4zze5lzjpo">BBC</a></p>
+<p><strong>First UK evacuation flights depart:</strong> 130,000+ British nationals registered to leave the Middle East. Government-chartered flights now running. HMS Dragon loading ammunition in Portsmouth, won't reach Cyprus until next week. <a href="https://www.bbc.com/news/articles/cy4wwd2jlypo">BBC</a></p>
+<p><strong>UK political split on response:</strong> PM Starmer defends stance after Trump criticised UK for refusing base access. Badenoch calls for stronger action. <a href="https://www.bbc.com/news/articles/c5y4458d9jdo">BBC</a></p>
+<p><strong>Iran strikes continue:</strong> Retaliatory attacks on Israel and across the Gulf. BBC maps five days of multi-country strikes. Trump warns action could continue for weeks. <a href="https://www.bbc.com/news/articles/c4g0pnnj8xyo">BBC</a></p>
+
+<h2>Russia-Ukraine</h2>
+<p><strong>Ukrainian drones sink Russian tanker:</strong> Arctic Metagaz went down between Libya and Malta after explosions and fire. Russia blames Ukrainian naval drones. <a href="https://www.bbc.com/news/articles/cr5ll27z52do">BBC</a></p>
+
+<h2>AI / Tech</h2>
+<p><strong>Tech giants evacuate Gulf offices:</strong> Major companies closing regional offices, shifting to remote work as war escalates. The Gulf had positioned itself as a major AI hub with billions in investment now at risk. <a href="https://www.bbc.com/news/articles/c99jjr7d40yo">BBC</a></p>
+<p><strong>Amazon facilities damaged by drones:</strong> Three Amazon sites in UAE and Bahrain hit, exposing tech infrastructure vulnerability. <a href="https://www.bbc.com/news/articles/cgk28nj0lrjo">BBC</a></p>
+<p><strong>TikTok refuses end-to-end encryption:</strong> Won't implement E2E for DMs unlike WhatsApp/Messenger, citing user safety concerns. <a href="https://www.bbc.com/news/articles/cly2m5e5ke4o">BBC</a></p>
+
+<h2>Markets / Trade</h2>
+<p><strong>Markets volatile, oil elevated:</strong> Fears Iran war may drag on. Experts warn prolonged high energy prices will ripple through consumer goods and services. <a href="https://www.bbc.com/news/articles/cwy884ekn0jo">BBC</a></p>
+<p><strong>US Treasury confirms tariff hike this week:</strong> Secretary Bessent says global tariff will "likely" increase above 10% "sometime this week." <a href="https://www.bbc.com/news/articles/cjwzzq70qgvo">BBC</a></p>
+
+<h2>US Politics</h2>
+<p><strong>Texas primaries signal midterm direction:</strong> Results indicating which way both parties are heading as 2026 midterm season begins. <a href="https://www.bbc.com/news/articles/c75ex543d4eo">BBC</a></p>
+
+<p><em>Sources: BBC News. Compiled Thu, 05 Mar 2026 01:13:49 GMT</em></p>
+      ]]></description>
+    </item>
     <item>
       <title>Overnight Briefing — US Sub Sinks Iranian Warship, Khamenei Funeral Postponed, Tariff Hike Imminent</title>
       <link>https://elliottshort.github.io/news-feed/</link>
