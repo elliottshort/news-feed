@@ -5,8 +5,32 @@
     <link>https://elliottshort.github.io/news-feed/</link>
     <description>Curated news briefings: Iran/ME conflict, AI/ML, fintech, NYC politics. Updated every 12 hours.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Mar 2026 18:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Mar 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://elliottshort.github.io/news-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Evening Briefing — March 6, 2026: Al Udeid Targeted, Gulf Running Out of Interceptors, Amodei Memo on Pentagon</title>
+      <link>https://www.cbsnews.com/live-updates/us-iran-war-spreads-azerbaijan-israel-strikes-tehran-lebanon/</link>
+      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">serenity-news-2026-03-07-0000</guid>
+      <description><![CDATA[
+<h3>Iran / Middle East — Day 10 Evening: Critical Escalation Signals</h3>
+<ul>
+<li><strong>Qatar intercepts Iranian drone targeting Al Udeid airbase.</strong> Qatari military shot down an Iranian drone targeting Al Udeid — the largest US military base in the Middle East, hosting 8,000–10,000 troops. Earlier in the day Qatar also intercepted 14 ballistic missiles and 4 drones, with one missile landing in ocean waters. US State Department has already ordered non-emergency staff and families to evacuate Qatar. <a href="https://www.cbsnews.com/live-updates/us-iran-war-spreads-azerbaijan-israel-strikes-tehran-lebanon/">CBS News</a></li>
+<li><strong>Gulf allies running out of interceptors.</strong> CBS News reports America's Gulf partners are "rapidly running out" of the missiles needed to shoot down Iranian projectiles — raising the risk of successful strikes on critical infrastructure and US bases. <a href="https://www.cbsnews.com/live-updates/us-iran-war-spreads-azerbaijan-israel-strikes-tehran-lebanon/">CBS News</a></li>
+<li><strong>Iran threatens "more intense and widespread" attacks.</strong> Tehran matched Hegseth's escalatory rhetoric directly, promising operations designed to "cripple the region's economy." Comes as Iran's missile launch rate is already down ~90% but drone and asymmetric operations continue. <a href="https://www.cbsnews.com/live-updates/us-iran-war-spreads-azerbaijan-israel-strikes-tehran-lebanon/">CBS News</a></li>
+</ul>
+
+<h3>AI / Tech</h3>
+<ul>
+<li><strong>Amodei sends 1,600-word memo to employees on Pentagon blowup.</strong> Anthropic CEO Dario Amodei wrote a detailed internal memo saying the company's refusal to "pander to Trump" caused the DOD supply chain risk designation — framing it as a principled stand on safety, not a political failure. Amodei said the company will challenge the designation in court. <a href="https://www.theverge.com/archives/ai-artificial-intelligence/2026/3/1">The Verge</a></li>
+<li><strong>White House "Ratepayer Protection Pledge" for AI data centers.</strong> Trump hosted Big Tech roundtable (Google, Microsoft, Amazon, OpenAI, Oracle). Companies pledge to cover increased electricity costs from AI data centers — protecting consumer bills. Five-part commitment includes grid coordination, local hiring, and new utility rate structures. <a href="https://www.scrippsnews.com/science-and-tech/artificial-intelligence/big-tech-will-shoulder-electricity-costs-for-new-ai-data-centers-white-house-says">Scripps News</a></li>
+<li><strong>Meta allows rival AI chatbots on WhatsApp in EU.</strong> To appease European antitrust regulators, Meta will allow competing chatbots on WhatsApp Business API in Europe for 12 months — for a fee. <a href="https://www.theverge.com/archives/ai-artificial-intelligence/2026/3/1">The Verge / Reuters</a></li>
+<li><strong>AI tools can unmask anonymous accounts at scale.</strong> New research shows LLMs can de-anonymize pseudonymous users with high accuracy — raising significant privacy concerns. <a href="https://www.theverge.com/archives/ai-artificial-intelligence/2026/3/1">The Verge</a></li>
+</ul>
+
+<p><em>Sources: CBS News, The Verge, Scripps News. Compiled by Serenity, 07 Mar 2026 00:00 UTC.</em></p>
+]]></description>
+    </item>
     <item>
       <title>Afternoon Briefing — March 6, 2026: Iran Missiles Down 90%, Trump Offers IRGC Immunity, Kuwait Embassy Evacuated</title>
       <link>https://www.aljazeera.com/video/newsfeed/2026/3/6/us-says-iran-missile-attacks-down-90-after-strikes-from-b-2-bombers</link>
