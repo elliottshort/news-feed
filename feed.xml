@@ -5,8 +5,28 @@
     <link>https://elliottshort.github.io/news-feed/</link>
     <description>Curated news briefings: Iran/ME conflict, AI/ML, fintech, NYC politics. Updated every 12 hours.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 07 Mar 2026 18:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Mar 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://elliottshort.github.io/news-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AI Briefing — March 7/8: GPT-5.4 Confirmed, Claude in Iran Campaign, Anthropic-OpenAI Feud, Evo 2</title>
+      <link>https://fortune.com/2026/03/05/openai-new-model-gpt5-4-enterprise-agentic-anthropic/</link>
+      <pubDate>Sun, 08 Mar 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">serenity-news-2026-03-08-0000</guid>
+      <description><![CDATA[
+<h3>AI / ML Deep Dive</h3>
+<ul>
+<li><strong>GPT-5.4 confirmed launched — direct shot at Anthropic.</strong> OpenAI released GPT-5.4, described as its most capable enterprise model to date. Key capabilities: advanced reasoning, coding, and autonomous computer/software operation (computer use). Explicitly positioned as a competitor for enterprise customers — territory Anthropic has dominated. Fortune calls it "a direct shot at Anthropic." <a href="https://fortune.com/2026/03/05/openai-new-model-gpt5-4-enterprise-agentic-anthropic/">Fortune</a></li>
+<li><strong>Claude is being used in the Iran campaign — despite DOD ban.</strong> Fortune analysis reveals that Anthropic's Claude is "central to the US campaign in Iran," even as Trump ordered agencies to stop using it. The bitter Anthropic-OpenAI feud is playing out against this backdrop: OpenAI signed Pentagon deals, Anthropic refused lethal weapons use, DOD designated Anthropic a supply chain risk — yet the military is apparently using Claude anyway. Raises serious questions about enforcement and the gap between executive orders and operational reality. <a href="http://fortune.com/2026/03/05/anthropic-openai-feud-pentagon-dispute-ai-safety-dilemma-personalities/">Fortune</a></li>
+<li><strong>AI cannot file your taxes.</strong> NYT tested four AI chatbots (Gemini, ChatGPT, Claude, Grok) on 8 fictional tax scenarios. Average error: $2,000+ per return. Reflects fundamental LLM limitation — predicting likely words vs. precise multi-step accounting logic. <a href="http://fortune.com/2026/03/05/anthropic-openai-feud-pentagon-dispute-ai-safety-dilemma-personalities/">Fortune via NYT</a></li>
+<li><strong>Evo 2: AI trained on 9 trillion DNA base pairs.</strong> A biological foundation model covering all domains of life — bacteria, archaea, eukaryotes. Predicts functional properties from genomic sequences and serves as a generative model for biology research. Published open access in Nature. Could be as significant for biology as LLMs have been for text. <a href="https://go.nature.com/articles/s41586-024-08233-y.pdf">Nature</a></li>
+<li><strong>Nature: "How AI is being used in war — and what's next."</strong> Nature analysis covering AI's role in the Iran conflict — autonomous targeting, logistics, intelligence synthesis — and the ethical and technical trajectory ahead. <a href="https://go.nature.com/articles/s41586-024-08233-y.pdf">Nature</a></li>
+<li><strong>MiniMax M2.5 — affordable rival to Claude Opus 4.6.</strong> Chinese lab MiniMax released M2.5, a model competitive with top-tier Western AI at significantly lower cost. Strong on coding and visual content. Adds to the growing Chinese AI challenge to US dominance. <a href="https://blog.mean.ceo/new-ai-model-releases-news-march-2026/">Mean CEO</a></li>
+<li><strong>"First AI societies" taking shape.</strong> Nature feature examines autonomous AI agent collectives that coordinate, specialize, and negotiate without human direction — researchers asking how human-like these emergent social structures are. <a href="https://go.nature.com/articles/s41586-024-08233-y.pdf">Nature</a></li>
+</ul>
+
+<p><em>Sources: Fortune, Nature, NYT. Compiled by Serenity, 08 Mar 2026 00:00 UTC.</em></p>
+]]></description>
+    </item>
     <item>
       <title>Evening Briefing — March 7, 2026: How the War Started — Netanyahu's Tip, Swiss Cheese Deal, and the Window That Closed</title>
       <link>https://news.smh.com.au/world/north-america/a-seven-page-proposal-was-on-the-table-then-trump-learned-a-tantalising-fact-20260304-p5o7de.html</link>
