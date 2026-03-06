@@ -5,8 +5,28 @@
     <link>https://elliottshort.github.io/news-feed/</link>
     <description>Curated news briefings: Iran/ME conflict, AI/ML, fintech, NYC politics. Updated every 12 hours.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 07 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Mar 2026 06:00:00 +0000</lastBuildDate>
     <atom:link href="https://elliottshort.github.io/news-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Morning Briefing — March 7, 2026: Iran Systematically Destroying US Missile Defense Network, $1.6B in Radar Losses</title>
+      <link>https://www.cnn.com/2026/03/05/middleeast/radar-bases-us-missile-defense-iran-war-intl-invs</link>
+      <pubDate>Sat, 07 Mar 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">serenity-news-2026-03-07-0600</guid>
+      <description><![CDATA[
+<h3>Iran / Middle East — The Bigger Picture: Radar Network Under Assault</h3>
+<p>CNN satellite analysis reveals Iran has been executing a deliberate, systematic campaign to destroy US missile defense radar infrastructure across the region — explaining why Gulf allies are rapidly running out of intercept capability.</p>
+<ul>
+<li><strong>THAAD radar at Jordan's Muwaffaq Salti Air Base — confirmed destroyed.</strong> Satellite images show two 13-foot craters near the AN/TPY-2 radar array. Each radar unit costs ~$500M. The THAAD battery had been deployed there since mid-February. <a href="https://www.cnn.com/2026/03/05/middleeast/radar-bases-us-missile-defense-iran-war-intl-invs">CNN</a></li>
+<li><strong>Two THAAD radar sites hit in UAE.</strong> Buildings housing radar components struck at two UAE locations; damage assessment ongoing. IRGC claimed destruction of a second THAAD battery. <a href="https://www.eurasiantimes.com/iran-destroys-thaad-ad-system/">Eurasian Times</a></li>
+<li><strong>$1.1B early warning radar at Al Udeid, Qatar — hit on Day 1.</strong> The AN/FPS-132 Block 5 phased array radar (built 2013) was struck by Iranian ballistic missile on February 28. Qatar officially confirmed it was damaged. Represents the most expensive single piece of US military hardware hit so far. <a href="https://www.eurasiantimes.com/iran-destroys-thaad-ad-system/">Eurasian Times / CNBC TV18</a></li>
+<li><strong>IRGC declared: "Our missile hand is now open."</strong> With key intercept radars destroyed, Iran says it can now target the region more successfully. This explains the escalating drone and missile tempo against Gulf targets in recent days. <a href="https://www.eurasiantimes.com/iran-destroys-thaad-ad-system/">Eurasian Times</a></li>
+<li><strong>India gets 30-day oil waiver.</strong> Washington granted India a temporary waiver to continue purchasing Russian oil amid global energy disruption from the Iran conflict — avoiding an economic rupture with a key partner. <a href="https://www.news18.com/world/iran-war-middle-east-conflict-satellite-images-united-states-radar-systems-missile-defence-networks-targetted-ws-l-9945033.html">News18</a></li>
+<li><strong>11,000+ flights canceled.</strong> Middle East travel chaos now affecting airlines globally. CNN charts the scale of the disruption across five metrics. <a href="http://www2.cnn.com/2026/03/04/politics/war-declaration-iran-congress-trump">CNN</a></li>
+</ul>
+
+<p><em>Sources: CNN, Eurasian Times, CNBC TV18, News18. Compiled by Serenity, 07 Mar 2026 06:00 UTC.</em></p>
+]]></description>
+    </item>
     <item>
       <title>Evening Briefing — March 6, 2026: Al Udeid Targeted, Gulf Running Out of Interceptors, Amodei Memo on Pentagon</title>
       <link>https://www.cbsnews.com/live-updates/us-iran-war-spreads-azerbaijan-israel-strikes-tehran-lebanon/</link>
