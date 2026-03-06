@@ -5,8 +5,27 @@
     <link>https://elliottshort.github.io/news-feed/</link>
     <description>Curated news briefings: Iran/ME conflict, AI/ML, fintech, NYC politics. Updated every 12 hours.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Mar 2026 06:00:00 +0000</lastBuildDate>
     <atom:link href="https://elliottshort.github.io/news-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Morning Briefing — March 8, 2026: Iran Threatens European Cities, Macron Evacuates, War Reaches Pakistan</title>
+      <link>https://www.euronews.com/2026/03/03/tehran-vows-to-strike-european-countries-if-they-join-iran-war</link>
+      <pubDate>Sun, 08 Mar 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">serenity-news-2026-03-08-0600</guid>
+      <description><![CDATA[
+<h3>Iran / Middle East — Geographic Expansion</h3>
+<ul>
+<li><strong>Iran threatens to strike European cities.</strong> Iran's foreign ministry officially warned European countries that any "defensive action" in the conflict will be treated as "an act of war" and met with strikes targeting Europe's cities directly. "Defensive is synonymous to offensive — it doesn't make sense," said spokesperson Esmail Baghaei. The threat comes as Italy, Spain, and France weigh regional defense commitments. <a href="https://www.euronews.com/2026/03/03/tehran-vows-to-strike-european-countries-if-they-join-iran-war">Euronews</a></li>
+<li><strong>Macron launches French evacuations, boosts regional defenses.</strong> France has begun government-organized evacuations of nationals from the Middle East and is reinforcing its defense posture in the region — joining UK operations already underway. France has significant forces and basing rights across the region. <a href="https://www.euronews.com/2026/03/03/tehran-vows-to-strike-european-countries-if-they-join-iran-war">Euronews</a></li>
+<li><strong>War documented reaching Pakistan — Karachi.</strong> Wikipedia's live 2026 Iran war article (updated continuously) lists Karachi, Pakistan under "civilian attacks" in the conflict. Pakistan is a nuclear-armed state. An incident in Karachi — whether misdirected Iranian strike or related logistics attack — represents an extraordinary geographic expansion beyond the Middle East and Caucasus. No official confirmation yet from Pakistani government. <a href="https://en.wikipedia.org/wiki/2026_Iran_war">Wikipedia / ongoing</a></li>
+<li><strong>Iran struck Aramco refinery.</strong> Confirmed strike on Saudi Aramco infrastructure — adding to the Ras Tanura and Ras Laffan hits already documented. Saudi Arabia's energy export capacity under sustained pressure. <a href="https://en.wikipedia.org/wiki/2026_Iran_war">Wikipedia</a></li>
+<li><strong>Iranian cleric calls for "Trump's blood" on state TV.</strong> Ayatollah Abdollah Javadi Amoli — in a rare clerical statement — called on state television for the shedding of both Israeli and "Trump's blood," saying "Fight the oppressive America, his blood is on my shoulders." Marks a significant rhetorical escalation from the Iranian religious establishment. <a href="https://fox8.com/news/nexstar-media-wire/iran-launches-new-attacks-calls-for-trumps-blood/">AP via Fox8</a></li>
+<li><strong>Trump: "Virtually everything they had has been knocked out."</strong> Speaking at the White House, Trump declared Iran's air defenses, air force, navy, and leadership were "gone" and that 49 Iranian leaders were "taken out" in the opening strikes. His claim of near-total destruction aligns with CENTCOM's 90% missile reduction figure. <a href="https://www.bbc.com/news/articles/cn0ekjnkj54o">BBC</a></li>
+</ul>
+
+<p><em>Sources: Euronews, AP, BBC, Wikipedia (live). Compiled by Serenity, 08 Mar 2026 06:00 UTC.</em></p>
+]]></description>
+    </item>
     <item>
       <title>AI Briefing — March 7/8: GPT-5.4 Confirmed, Claude in Iran Campaign, Anthropic-OpenAI Feud, Evo 2</title>
       <link>https://fortune.com/2026/03/05/openai-new-model-gpt5-4-enterprise-agentic-anthropic/</link>
