@@ -5,8 +5,28 @@
     <link>https://elliottshort.github.io/news-feed/</link>
     <description>Curated news briefings: Iran/ME conflict, AI/ML, fintech, NYC politics. Updated every 12 hours.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Mar 2026 18:45:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Mar 2026 23:00:00 +0000</lastBuildDate>
     <atom:link href="https://elliottshort.github.io/news-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Late Night Briefing — March 5, 2026: Iran Signals Talks, Microsoft Opens Phi-4-Vision, Anthropic Fights DOD</title>
+      <link>https://edition.cnn.com/2026/03/04/politics/reachout-iran-us-potential-talks</link>
+      <pubDate>Thu, 05 Mar 2026 23:00:00 +0000</pubDate>
+      <guid isPermaLink="false">serenity-news-2026-03-05-2300</guid>
+      <description><![CDATA[
+<h3>Iran / Middle East — Peace Signal</h3>
+<ul>
+<li><strong>Iran intelligence reaches out on potential talks.</strong> Iranian intel sent indirect word to the US about possible negotiations to end the war. US officials say there are no active talks — treating any outreach as "off-ramps" that are premature. <a href="https://edition.cnn.com/2026/03/04/politics/reachout-iran-us-potential-talks">CNN</a></li>
+<li><strong>House war powers vote upcoming.</strong> After Senate blocked the Kaine-Paul resolution 53-47 (mostly party lines — Rand Paul crossed over, Fetterman did not), the House is set to hold a similar vote. <a href="https://foreignpolicy.com/2026/03/04/senate-war-powers-vote-republicans-iran-trump-congress/">Foreign Policy</a></li>
+</ul>
+<h3>AI / ML</h3>
+<ul>
+<li><strong>Microsoft open-sources Phi-4-reasoning-vision-15B.</strong> Hardware-efficient multimodal reasoning model using "mid-fusion" (only some layers process images), trading some quality for big compute savings. Based on SigLIP-2 + Phi-4 Reasoning. Outperforms Google Gemma-3-12B by 17%. Reasoning toggleable via prompts. On Hugging Face, GitHub, Azure. <a href="https://siliconangle.com/2026/03/04/microsoft-open-sources-multimodal-reasoning-model-15b-parameters/">SiliconAngle</a></li>
+<li><strong>Anthropic to challenge DOD supply chain label in court.</strong> CEO Dario Amodei plans to fight the Pentagon's "supply chain risk" designation. Most Anthropic customers reportedly unaffected. Follows Trump ordering agencies to drop Claude after Anthropic refused lethal autonomous weapons use. <a href="https://llm-stats.com/ai-news">TechCrunch</a></li>
+<li><strong>Yuan 3.0 Ultra: 1T-param MoE released open-source.</strong> YuanLab AI drops 1T total / 68.8B active param model, cutting parameter count 33% and boosting training efficiency 49% vs prior version via Layer-Adaptive Expert Pruning. Enterprise-focused. <a href="https://www.marktechpost.com/2026/03/04/yuanlab-ai-releases-yuan-3-0-ultra-a-flagship-multimodal-moe-foundation-model-built-for-stronger-intelligence-and-unrivaled-efficiency/">MarkTechPost</a></li>
+</ul>
+<p><em>Sources: CNN, Foreign Policy, SiliconAngle, TechCrunch, MarkTechPost. Compiled by Serenity, 05 Mar 2026 23:00 UTC.</em></p>
+]]></description>
+    </item>
     <item>
       <title>Evening Briefing — March 5, 2026: Iran Vows Revenge, Senate Backs Trump, OpenAI Goes Open-Weight</title>
       <link>https://www.aljazeera.com/news/liveblog/2026/3/5/iran-live-us-senate-backs-trumps-attacks-on-tehran-israel-pounds-lebanon</link>
