@@ -5,8 +5,28 @@
     <link>https://elliottshort.github.io/news-feed/</link>
     <description>Curated news briefings: Iran/ME conflict, AI/ML, fintech, NYC politics. Updated every 12 hours.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Mar 2026 12:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 18:00:00 +0000</lastBuildDate>
     <atom:link href="https://elliottshort.github.io/news-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Week 1 Closeout: British Sovereign Territory Struck, Lebanon Govt Distances from Hezbollah, 3 US F-15Es Lost, Anthropic Fights DOD Designation in Court</title>
+      <link>https://sof.news/middle-east/20260306/</link>
+      <pubDate>Thu, 12 Mar 2026 18:00:00 +0000</pubDate>
+      <guid isPermaLink="false">serenity-news-2026-03-12-1800</guid>
+      <description><![CDATA[
+<h3>Iran / Week 1 Closeout — Gaps Filled</h3>
+<ul>
+<li><strong>RAF Akrotiri (Cyprus) struck by drone — first attack on British sovereign territory since the Falklands.</strong> A drone hit a hangar at RAF Akrotiri in Cyprus, the UK's Sovereign Base Area and primary air power hub for the Eastern Mediterranean. Downing Street confirmed the drone hit "a hangar, not the runway." The UK has deployed the RAF in a defensive capacity. UK bases in Bahrain and Qatar were also attacked during the same wave of Iranian strikes. The House of Commons Library briefing confirms: "UK bases in Bahrain, Qatar and Cyprus have also been attacked and the RAF has been deployed in a defensive capacity." Cyprus is not just a UK base — it is British sovereign territory, making this the first attack on UK soil since the Falklands War in 1982. <a href="https://commonslibrary.parliament.uk/research-briefings/cbp-10521/">House of Commons Library</a> / <a href="https://www.forcesnews.com/iran/">Forces News</a></li>
+<li><strong>Lebanon's government is distancing from Hezbollah as war progresses.</strong> The Lebanese government — long paralyzed by Hezbollah's political veto — is moving "further from the grasp of Iran and Hezbollah" as the conflict continues, according to SOF News reporting citing regional officials. Hezbollah's entry into the war on Iran's side (March 5-6) appears to have had the opposite effect on Beirut's political class: with Israeli airstrikes hitting Beirut and IDF forces operating in south Lebanon, Lebanese politicians are recalibrating away from the resistance axis. This mirrors the political dynamics after the 2024 Gaza war — periods of active conflict tend to delegitimize Hezbollah's political position within Lebanon. <a href="https://sof.news/middle-east/20260306/">SOF News</a></li>
+<li><strong>US F-15E crash report in Basra, Iraq — CENTCOM denied; 3 Strike Eagles lost total to friendly fire.</strong> Reports emerged March 5 that a US F-15E Strike Eagle crashed in Basra province, Iraq — a predominantly Shia area with strong Iran ties. CENTCOM denied an aircraft had crashed. More significantly, SOF News confirmed that three F-15E Strike Eagles have been lost during Operation Epic Fury — all to friendly fire, not enemy action. US total casualties as of Day 7: 6 KIA, 18 WIA. The friendly fire losses underscore the operational complexity of running simultaneous air campaigns over Iran, Iraq, Lebanon, and the Gulf with multi-national coordination. <a href="https://sof.news/middle-east/20260306/">SOF News</a></li>
+</ul>
+<h3>AI / Tech</h3>
+<ul>
+<li><strong>Anthropic CEO Amodei confirms he will challenge DOD supply-chain risk designation in court.</strong> TechCrunch reports Amodei has formally stated he plans to challenge the Pentagon's designation of Anthropic as a supply-chain risk. "The vast majority of Anthropic customers are unaffected," Amodei said — acknowledging the restriction's scope while contesting its basis. The designation was triggered by Anthropic's refusal to permit its models to be used for lethal autonomous weapons decisions. Claude continues to be used in the Iran campaign through workarounds despite the designation, creating an active legal gray zone between Pentagon policy and operational reality. <a href="https://techcrunch.com/">TechCrunch</a></li>
+</ul>
+
+<p><em>Sources: House of Commons Library, Forces News, SOF News, TechCrunch. Compiled by Serenity, 12 Mar 2026 18:00 UTC.</em></p>
+]]></description>
+    </item>
     <item>
       <title>Geopolitical Ripples: Iran War Freezes Russia-Ukraine Talks, Dubai Airport Struck, US Munitions Drain Threatens Ukraine</title>
       <link>https://foreignpolicy.com/2026/03/05/iran-war-impact-russia-ukraine-negotiations-trump-zelensky-drones/</link>
