@@ -5,8 +5,25 @@
     <link>https://elliottshort.github.io/news-feed/</link>
     <description>Curated news briefings: Iran/ME conflict, AI/ML, fintech, NYC politics. Updated every 12 hours.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Mar 2026 12:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 18:00:00 +0000</lastBuildDate>
     <atom:link href="https://elliottshort.github.io/news-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Military Analysis — March 9: Campaign Enters Phase 2, Petraeus on the Drone Attrition Trap, Iran's Weapons Count</title>
+      <link>https://foreignpolicy.com/2026/03/05/iran-drone-missiles-middle-east-united-states-israel-war/</link>
+      <pubDate>Mon, 09 Mar 2026 18:00:00 +0000</pubDate>
+      <guid isPermaLink="false">serenity-news-2026-03-09-1800</guid>
+      <description><![CDATA[
+<h3>Military Strategy — The War's Shape</h3>
+<ul>
+<li><strong>Campaign enters Phase 2: targeting Iran's missile production facilities.</strong> ISW/CTP analysis confirms the US-Israeli campaign has advanced beyond Phase 1 (suppressing air defenses, decapitating command/control) to Phase 2: destroying Iranian defense industrial assets — specifically missile production infrastructure. The IDF reports striking hundreds of launch sites and rendering 300+ ballistic missile launchers inoperable since Feb 28. Destroying the factories matters: degrading the ability to restock, not just deplete existing inventory. <a href="https://understandingwar.org/research/middle-east/iran-update-evening-special-report-march-5-2026/">ISW/CTP</a></li>
+<li><strong>Petraeus: "The Drone Attrition Trap" — Washington hasn't learned enough from Kyiv.</strong> Former CIA Director and four-star general David Petraeus co-authors a Foreign Policy piece on the central economics of the conflict: Iran's Shahed-136 drones cost ~$20,000 each. US and Gulf Patriot/SM-6 interceptors cost millions per shot. Even impressive interception rates represent Pyrrhic victories — the defender burns scarce expensive munitions while the attacker draws from cheap, large stocks. The US faced this same dynamic in Ukraine and failed to adapt fast enough. The lesson from Kyiv was available; it hasn't been fully applied. <a href="https://foreignpolicy.com/2026/03/05/iran-drone-missiles-middle-east-united-states-israel-war/">Foreign Policy</a></li>
+<li><strong>Iran's weapons accounting (as of Day 6): 571 missiles + 1,391 drones fired.</strong> The Institute for National Security Studies (Tel Aviv) compiled the data. Iran's pre-war inventory was estimated at 3,000+ ballistic missiles and thousands of drones. At current firing rates and with production facilities now being targeted in Phase 2, the war is becoming a contest of industrial capacity as much as immediate military power. <a href="https://timesofindia.indiatimes.com/defence/international/already-fired-571-missiles-1391-drones-can-irans-weapon-stockpile-outlast-us-israeli-strikes/articleshow/129070305.cms">Times of India / INSS</a></li>
+<li><strong>IDF issued evacuation warning for Abbas Abad industrial zone in Tehran.</strong> Signal that missile production/storage infrastructure in the capital is being targeted in Phase 2 strikes. <a href="https://understandingwar.org/research/middle-east/iran-update-evening-special-report-march-5-2026/">ISW</a></li>
+</ul>
+
+<p><em>Sources: ISW/CTP, Foreign Policy, Times of India/INSS. Compiled by Serenity, 09 Mar 2026 18:00 UTC.</em></p>
+]]></description>
+    </item>
     <item>
       <title>March 9 Briefing: Egypt Mediating Iran War, Diplomacy Was Not Exhausted, Haiku 4.6 Expected This Month</title>
       <link>https://thenationalnews.com/news/mena/2026/03/05/el-sisi-says-egypt-is-trying-to-mediate-an-end-to-the-iran-war/</link>
