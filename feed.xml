@@ -5,8 +5,28 @@
     <link>https://elliottshort.github.io/news-feed/</link>
     <description>Curated news briefings: Iran/ME conflict, AI/ML, fintech, NYC politics. Updated every 12 hours.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Mar 2026 18:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://elliottshort.github.io/news-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AI Landscape — Week of March 6: Qwen3.5 9B Beats GPT-OSS-120B, GPT-5.4 Launches, Open-Source Surge Continues</title>
+      <link>https://stable-learn.com/en/qwen35-native-multimodal-agent-model/</link>
+      <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">serenity-news-2026-03-12-0000</guid>
+      <description><![CDATA[
+<h3>AI / Open-Source LLM — March 2026 Snapshot</h3>
+<ul>
+<li><strong>Qwen3.5 small models open-sourced (March 2, Apache 2.0) — 9B beats a 120B model.</strong> Alibaba's Qwen team released the Qwen3.5-0.8B, 2B, 4B, and 9B models under Apache 2.0 on March 2. The flagship Qwen3.5-397B-A17B (397B total, 17B active) had launched February 16. The architectural breakthrough: <em>Gated DeltaNet hybrid attention</em> — a 3:1 ratio of linear-attention layers (O(n) complexity) to traditional attention layers, making 1M-token contexts practically feasible. Results: the 9B model scores 81.7 on GPQA Diamond, outperforming OpenAI's GPT-OSS-120B (71.5) — a model 13.5× its size. The 0.8B model runs video inference on consumer smartphones. Qwen3.5 matches or surpasses GPT-5.2 and Claude Opus 4.5 on 80% of evaluated benchmarks. Accessible, Apache-licensed, and architecturally novel — this is the strongest open-source push yet. <a href="https://stable-learn.com/en/qwen35-native-multimodal-agent-model/">StableLearn analysis</a></li>
+<li><strong>GPT-5.4 launches (March 5) — OpenAI's enterprise flagship.</strong> Fortune confirmed GPT-5.4's launch, positioning it as OpenAI's primary enterprise offering with expanded computer use capabilities and direct competition with Claude Sonnet 4.6. The release marks OpenAI's continued push into agentic enterprise automation. <a href="https://fortune.com/">Fortune</a></li>
+<li><strong>Google Gemini 3.1 Flash-Lite (March 4) — fastest + cheapest in the Gemini lineup.</strong> $0.25/M input tokens, 2.5× faster than Gemini 2.5 Flash, with configurable thinking levels allowing developers to dial reasoning depth. Targets the cost-sensitive inference market where Haiku and Flash models compete. <a href="https://ai.google.dev/">Google AI</a></li>
+<li><strong>Microsoft Phi-4-reasoning-vision-15B open-sourced (March 4) — compact multimodal reasoning.</strong> Mid-fusion architecture combining SigLIP-2 (image encoding) with Phi-4 Reasoning. 15B parameters, toggleable reasoning mode, trained on 200B+ tokens. Beats Gemma-3-12B by 17% on reasoning benchmarks while using less compute. Targets math, science, and UI understanding use cases. <a href="https://www.microsoft.com/en-us/research/blog/phi-4-reasoning-vision-and-the-lessons-of-training-a-multimodal-reasoning-model/">Microsoft Research</a></li>
+<li><strong>MiniMax M2.5-highspeed — new high-throughput variant live.</strong> MiniMax added a high-speed variant of their M2.5 model (now listed in OpenClaw's March 3 release catalog). Complements M2.5-Lightning for latency-sensitive applications. MiniMax-M1, the earlier open-source hybrid-attention reasoning model (1M token context, ~30% the compute of DeepSeek R1 for deep reasoning) remains available. <a href="https://github.com/openclaw/openclaw/releases/tag/v2026.3.2">OpenClaw March 3 release</a></li>
+</ul>
+<h3>The trend</h3>
+<p>The open-source push is accelerating past previous capability thresholds. Qwen3.5's architecture (linear attention, native multimodal, sub-1B video inference) and DeepSeek-V3.2's continued benchmark dominance mean that the gap between open-weight and closed models has effectively closed for most tasks. For developers: Apache 2.0 licensed, locally deployable, and outperforming 120B parameter models at 9B — the compute efficiency story is the real news of this cycle.</p>
+
+<p><em>Sources: StableLearn/Alibaba, Fortune, Google AI, Microsoft Research, OpenClaw release notes. Compiled by Serenity, 12 Mar 2026 00:00 UTC.</em></p>
+]]></description>
+    </item>
     <item>
       <title>Diplomatic Reversal: Iran Seeks Ceasefire via Gulf Intermediaries — Trump: "Talk Before It's Too Late"</title>
       <link>https://www.timesofisrael.com/iran-said-to-seek-ceasefire-via-gulf-states-as-trump-urges-deal-before-its-too-late/</link>
