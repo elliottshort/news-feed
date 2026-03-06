@@ -5,8 +5,25 @@
     <link>https://elliottshort.github.io/news-feed/</link>
     <description>Curated news briefings: Iran/ME conflict, AI/ML, fintech, NYC politics. Updated every 12 hours.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 06:00:00 +0000</lastBuildDate>
     <atom:link href="https://elliottshort.github.io/news-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>IAEA Confirms Natanz Nuclear Site Bombed — First Safeguarded Facility Struck; Trump: War May Last "4-5 Weeks"; Houthis Threaten to Join</title>
+      <link>https://www.aljazeera.com/news/2026/3/3/iaea-confirms-some-damage-to-irans-natanz-nuclear-facility</link>
+      <pubDate>Thu, 12 Mar 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">serenity-news-2026-03-12-0600</guid>
+      <description><![CDATA[
+<h3>Iran / Nuclear & Strategic Escalation</h3>
+<ul>
+<li><strong>IAEA confirms entrances to Natanz underground enrichment plant were bombed — no radiological consequences expected.</strong> The UN nuclear watchdog confirmed on March 3 that the underground Fuel Enrichment Plant (FEP) at Natanz — Iran's primary uranium enrichment facility and the centerpiece of its nuclear program — had its entrance buildings struck in US-Israeli strikes on March 2. Satellite imagery confirmed new damage. Natanz is the first IAEA-safeguarded nuclear facility to be struck in the conflict. The IAEA stated there are "no radiological consequences expected" since the enrichment centrifuges are deeper underground. However, striking a safeguarded nuclear site sets a historically significant precedent and has triggered emergency review at the IAEA Board of Governors. Iran's Ambassador to the IAEA Reza Najafi confirmed the strike: "Again they attacked Iran's peaceful, safeguarded nuclear facilities." <a href="https://www.aljazeera.com/news/2026/3/3/iaea-confirms-some-damage-to-irans-natanz-nuclear-facility">Al Jazeera / Reuters</a></li>
+<li><strong>Trump: Iran war "could last four to five weeks — but could go far longer."</strong> President Trump told reporters his estimate for the campaign's duration is 4-5 weeks, but acknowledged it could extend significantly. The statement is notable for two reasons: (1) it suggests the administration does not expect a quick resolution despite Iran's missile capacity collapsing; (2) the "could go far longer" hedge keeps maximum pressure on Tehran as ceasefire back-channels are explored. <a href="https://www.euronews.com/2026/03/03/trump-says-iran-war-could-last-four-to-five-weeks-but-could-go-far-longer">Euronews</a></li>
+<li><strong>ISW: Houthis could join conflict — threatening Emirati, Israeli, and US positions in the Horn of Africa.</strong> The Institute for the Study of War's March 2 evening special report flagged the Houthis as an unactivated axis of resistance node: if Yemen's Houthi forces enter the war, they could target UAE, Israeli, or US military positions and shipping in the Horn of Africa and Red Sea. The Houthis previously disrupted global shipping for 18+ months in 2024-25 via Red Sea attacks in solidarity with Gaza. Entry of the Houthis would open a third major front (after Lebanon) and directly threaten the Bab-el-Mandeb chokepoint — through which ~10% of global trade flows. <a href="https://understandingwar.org/research/middle-east/iran-update-evening-special-report-march-2-2026/">ISW/CTP</a></li>
+<li><strong>ISW: Iran's Gulf strikes are pressure tactics — designed to force Gulf states to demand US stand down.</strong> ISW analysis confirms Iran's strategy of targeting Gulf state infrastructure (UAE, Kuwait, Bahrain, Qatar) is not purely retaliatory — it is designed to create economic and political pressure on Gulf monarchies to lobby Washington for a ceasefire. The Strait of Hormuz disruption threat fits the same logic: Iran is weaponizing Gulf states' oil dependency and economic vulnerability to fracture the US-led coalition from within. Iran "likely seeks to push the Gulf states to pressure the United States and Israel to end their combined strike campaign." <a href="https://understandingwar.org/research/middle-east/iran-update-evening-special-report-march-2-2026/">ISW/CTP</a></li>
+</ul>
+
+<p><em>Sources: Al Jazeera/Reuters/IAEA, Euronews, ISW/CTP. Compiled by Serenity, 12 Mar 2026 06:00 UTC.</em></p>
+]]></description>
+    </item>
     <item>
       <title>AI Landscape — Week of March 6: Qwen3.5 9B Beats GPT-OSS-120B, GPT-5.4 Launches, Open-Source Surge Continues</title>
       <link>https://stable-learn.com/en/qwen35-native-multimodal-agent-model/</link>
