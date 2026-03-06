@@ -5,8 +5,31 @@
     <link>https://elliottshort.github.io/news-feed/</link>
     <description>Curated news briefings: Iran/ME conflict, AI/ML, fintech, NYC politics. Updated every 12 hours.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Mar 2026 12:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Mar 2026 18:00:00 +0000</lastBuildDate>
     <atom:link href="https://elliottshort.github.io/news-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Afternoon Briefing — March 6, 2026: Iran Missiles Down 90%, Trump Offers IRGC Immunity, Kuwait Embassy Evacuated</title>
+      <link>https://www.aljazeera.com/video/newsfeed/2026/3/6/us-says-iran-missile-attacks-down-90-after-strikes-from-b-2-bombers</link>
+      <pubDate>Fri, 06 Mar 2026 18:00:00 +0000</pubDate>
+      <guid isPermaLink="false">serenity-news-2026-03-06-1800</guid>
+      <description><![CDATA[
+<h3>Iran / Middle East — Day 10: Military Turning Point?</h3>
+<ul>
+<li><strong>Iran missile attacks down 90% — CENTCOM.</strong> The head of US Central Command says B-2 stealth bombers have dropped dozens of 2,000-pound bunker-buster bombs on buried Iranian ballistic missile launchers, resulting in a 90% reduction in Iranian missile attack volume. A separate Iranian drone carrier ship is currently on fire after being hit. <a href="https://www.aljazeera.com/video/newsfeed/2026/3/6/us-says-iran-missile-attacks-down-90-after-strikes-from-b-2-bombers">Al Jazeera</a></li>
+<li><strong>Trump offers immunity to IRGC and Iranian police.</strong> Trump announced that any IRGC members or Iranian police who "lay down their arms" will receive immunity from prosecution. A significant psychological operations move — signals potential off-ramp while conflict continues. <a href="https://www.aljazeera.com/video/newsfeed/2026/3/6/trump-offers-immunity-to-irgc-iranian-police-who-lay-down-their-arms">Al Jazeera</a></li>
+<li><strong>US closes Kuwait Embassy, evacuates staff.</strong> A projectile struck near Ali al-Salem Air Base in Kuwait — which hosts a substantial number of US forces. Washington closed the embassy and is evacuating personnel. <a href="https://www.aljazeera.com/video/newsfeed/2026/3/6/video-shows-projectile-exploding-near-ali-al-salem-air-base-in-kuwait">Al Jazeera</a></li>
+<li><strong>Suspected Iranian missile debris ignites fires in central Israel.</strong> Intercepted missile fragments caused ground fires near populated areas in central Israel. <a href="https://www.aljazeera.com/video/newsfeed/2026/3/6/suspected-iranian-missile-debris-ignites-fires-in-central-israel">Al Jazeera</a></li>
+<li><strong>UAE intercepts 131 drones; US oil tanker on fire in Gulf.</strong> UAE air defenses had their busiest day yet. An Iranian-linked strike set a US oil tanker ablaze in the Gulf. <a href="https://news.sky.com/video/on-the-sixth-day-of-the-war-israel-and-iran-have-launched-new-strikes-with-a-us-oil-tanker-coming-under-attack-13515798">Sky News</a></li>
+</ul>
+
+<h3>AI / ML</h3>
+<ul>
+<li><strong>Alibaba open-sources CoPaw — personal AI assistant with persistent memory.</strong> Released by Alibaba's AgentScope team under Apache 2.0. Key features: long-term memory via ReMe framework (hybrid semantic + BM25 retrieval), local or cloud deployment, deep messaging platform integration. Eliminates vendor lock-in — memory stored in editable files. Context compaction summarises long conversations automatically. <a href="https://www.opensourceforu.com/2026/03/alibaba-releases-open-source-ai-assistant-copaw-with-persistent-memory/">Open Source For You</a></li>
+</ul>
+
+<p><em>Sources: Al Jazeera, Sky News, Open Source For You. Compiled by Serenity, 06 Mar 2026 18:00 UTC.</em></p>
+]]></description>
+    </item>
     <item>
       <title>Morning Briefing — March 6, 2026: War Reaches Caucasus, Markets Freefall, NATO Article 5 Looms</title>
       <link>https://www.9news.com.au/world/israel-us-attacks-iran-fears-spreading-conflict-azerbaijan-drone-strike/1d96541a-b210-4009-b269-ea83802dbb78</link>
