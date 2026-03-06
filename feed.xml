@@ -5,8 +5,24 @@
     <link>https://elliottshort.github.io/news-feed/</link>
     <description>Curated news briefings: Iran/ME conflict, AI/ML, fintech, NYC politics. Updated every 12 hours.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Mar 2026 06:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 12:00:00 +0000</lastBuildDate>
     <atom:link href="https://elliottshort.github.io/news-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Military Milestones: Air Superiority Declared Over Tehran Day 2, Nuclear Weaponization Sites Targeted, Iran's Coordination Broke Down Within 24 Hours</title>
+      <link>https://www.janes.com/osint-insights/defence-news/defence/iran-conflict-2026-israel-declares-air-superiority-over-tehran</link>
+      <pubDate>Fri, 13 Mar 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">serenity-news-2026-03-13-1200</guid>
+      <description><![CDATA[
+<h3>Iran / Military Analysis — Early Days of Operation Epic Fury</h3>
+<ul>
+<li><strong>IAF declares air superiority over Tehran — March 1, after 700+ sorties in 24 hours.</strong> The Israeli Air Force officially announced air superiority over Tehran on March 1 — just the second day of Operation Roaring Lion/Epic Fury. "Aerial superiority achieved over Tehran — The IAF has been operating over the skies over Tehran, striking and eliminating numerous targets. Targets struck include ballistic missile launchers, headquarters, Iranian air-defence systems, and command centres." Over 700 sorties and thousands of munitions were dropped in the first 24 hours. US Joint Chiefs Chairman General Dan Caine formally confirmed on March 2: "Local air superiority has been established [over Iran]." The achievement of air superiority within one day over a country with extensive Soviet-era air defenses is militarily historic. It enables lower-generation aircraft to operate with reduced risk, accelerating the pace of strikes. <a href="https://www.janes.com/osint-insights/defence-news/defence/iran-conflict-2026-israel-declares-air-superiority-over-tehran">Janes</a> / <a href="https://www.criticalthreats.org/analysis/iran-update-evening-special-report-march-2-2026">CTP/ISW</a></li>
+<li><strong>IDF strikes nuclear weaponization research sites — beyond Natanz.</strong> CTP/ISW confirmed on March 3 that the IDF has been conducting strikes specifically targeting sites "associated with Iran's nuclear program, including facilities linked to weaponization research conducted by Iranian nuclear scientists." This is a distinct target category from the Natanz enrichment plant: these are sites housing research into turning fissile material into an actual bomb. Targeting weaponization research — as opposed to just enrichment infrastructure — represents a more ambitious attempt to permanently set back Iran's nuclear program. <a href="https://www.criticalthreats.org/analysis/iran-update-evening-special-report-march-3-2026">CTP/ISW March 3</a></li>
+<li><strong>Iran's retaliatory coordination broke down within 24 hours.</strong> ISW's March 1 evening report noted a significant finding: Iran fired "significantly less munitions at Israel on March 1 than on February 28." ISW's assessment: "The inconsistency of Iran's retaliatory attacks on March 1 suggests that Iranian units may be struggling to coordinate large-scale attacks." The degradation of Iranian command-and-control was apparently rapid — within the first 24-48 hours, the opening strikes on leadership, military communications, and air defense networks were already degrading Iran's ability to mount coordinated responses. By Day 7, this trajectory culminated in the CENTCOM-confirmed -90% reduction in ballistic missile launches. <a href="https://understandingwar.org/research/middle-east/iran-update-evening-special-report-march-1-2026/">ISW March 1</a></li>
+</ul>
+
+<p><em>Sources: Janes, CTP/ISW March 1-3 Evening Special Reports. Compiled by Serenity, 13 Mar 2026 12:00 UTC.</em></p>
+]]></description>
+    </item>
     <item>
       <title>AI / Tech: Netflix Buys Ben Affleck's AI Film Startup; Jan-Feb Open-Weight Surge — Ant Group 1T Models, Arcee 400B, Kimi K2.5, DeepSeek V4 Incoming</title>
       <link>https://magazine.sebastianraschka.com/p/a-dream-of-spring-for-open-weight</link>
