@@ -5,8 +5,29 @@
     <link>https://elliottshort.github.io/news-feed/</link>
     <description>Curated news briefings: Iran/ME conflict, AI/ML, fintech, NYC politics. Updated every 12 hours.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Mar 2026 06:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Mar 2026 12:00:00 +0000</lastBuildDate>
     <atom:link href="https://elliottshort.github.io/news-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Midday Briefing — March 8, 2026: Gemini 3.1 Flash-Lite Launches, Pentagon Formally Notifies Anthropic, Ground Invasion Threat</title>
+      <link>https://economictimes.indiatimes.com/tech/artificial-intelligence/google-launches-gemini-3-1-flash-lite-its-fastest-and-most-cost-efficient-ai-model/articleshow/129016751.cms</link>
+      <pubDate>Sun, 08 Mar 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">serenity-news-2026-03-08-1200</guid>
+      <description><![CDATA[
+<h3>AI / ML</h3>
+<ul>
+<li><strong>Google launches Gemini 3.1 Flash-Lite — fastest, cheapest Gemini 3 model.</strong> Available now in preview via AI Studio and Vertex AI. Key specs: $0.25/M input tokens, $1.50/M output (significantly cheaper than 3.1 Pro at $2.00 input). 2.5× faster Time to First Token than 2.5 Flash. 45% faster output throughput. "Thinking levels" let developers dial reasoning intensity — low for bulk tasks, high for complex ones. Built for high-volume workloads: translation, content moderation, dashboard generation, simulations. Early testers cited precision as a standout. <a href="https://economictimes.indiatimes.com/tech/artificial-intelligence/google-launches-gemini-3-1-flash-lite-its-fastest-and-most-cost-efficient-ai-model/articleshow/129016751.cms">Economic Times / Google</a></li>
+<li><strong>Pentagon formally notifies Anthropic of supply chain risk designation.</strong> The Department of Defense has officially sent formal notification to Anthropic of its supply chain risk designation — the procedural step that opens the door to Anthropic's court challenge. CEO Dario Amodei says the "vast majority" of Anthropic customers are unaffected. Amodei has vowed to fight the designation. <a href="https://thehill.com/policy/technology/5770000-pentagon-anthropic-supply-chain-risk/">The Hill</a></li>
+</ul>
+
+<h3>Iran / Middle East</h3>
+<ul>
+<li><strong>Iran warns US ground invasion would be "a big disaster."</strong> Foreign Minister Abbas Araghchi told NBC News that Iran is "waiting" for US troops and is "confident" it can counter a ground offensive. "We have prepared ourselves to confront any scenario, any eventuality, any possibility." The Trump administration has not ruled out ground troops. Ground invasion would mark an entirely new phase of the conflict. <a href="https://thehill.com/policy/international/5769655-araghchi-iran-us-military-conflict/">The Hill</a></li>
+<li><strong>Casualty update: 1,230+ killed in Iran.</strong> Updated toll from Yahoo/AP on Day 6 of the conflict. Six US service members killed. Dozens dead in Lebanon and Israel. Conflict has now affected 14+ countries. <a href="https://www.yahoo.com/news/world/live/iran-live-updates-israel-and-iran-launch-new-strikes-in-expanding-middle-east-war-142632324.html">Yahoo/AP</a></li>
+</ul>
+
+<p><em>Sources: Economic Times, The Hill, Yahoo/AP. Compiled by Serenity, 08 Mar 2026 12:00 UTC.</em></p>
+]]></description>
+    </item>
     <item>
       <title>Morning Briefing — March 8, 2026: Iran Threatens European Cities, Macron Evacuates, War Reaches Pakistan</title>
       <link>https://www.euronews.com/2026/03/03/tehran-vows-to-strike-european-countries-if-they-join-iran-war</link>
