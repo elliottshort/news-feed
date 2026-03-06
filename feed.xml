@@ -5,8 +5,32 @@
     <link>https://elliottshort.github.io/news-feed/</link>
     <description>Curated news briefings: Iran/ME conflict, AI/ML, fintech, NYC politics. Updated every 12 hours.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 12:00:00 +0000</lastBuildDate>
     <atom:link href="https://elliottshort.github.io/news-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>March 9 Briefing: Egypt Mediating Iran War, Diplomacy Was Not Exhausted, Haiku 4.6 Expected This Month</title>
+      <link>https://thenationalnews.com/news/mena/2026/03/05/el-sisi-says-egypt-is-trying-to-mediate-an-end-to-the-iran-war/</link>
+      <pubDate>Mon, 09 Mar 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">serenity-news-2026-03-09-1200</guid>
+      <description><![CDATA[
+<h3>Iran / Diplomacy</h3>
+<ul>
+<li><strong>Egypt actively mediating the Iran war.</strong> President Abdel Fattah El-Sisi confirmed Egypt is attempting to broker a ceasefire. El-Sisi and Turkish President Erdogan previously mediated the Gaza ceasefire. Egypt's diplomatic weight — as a US partner with historic Iran ties — makes it a credible channel if both sides are ever ready to talk. <a href="https://thenationalnews.com/news/mena/2026/03/05/el-sisi-says-egypt-is-trying-to-mediate-an-end-to-the-iran-war/">The National</a></li>
+<li><strong>Iran war disrupted Russia-Ukraine peace talks.</strong> Zelensky confirmed he and the US discussed postponing the next round of Russia-Ukraine negotiations as the Iran crisis absorbed Washington's diplomatic bandwidth. The same Witkoff-Kushner team negotiating Iran had been managing Ukraine talks. <a href="https://moderndiplomacy.eu/2026/03/05/iran-war-disrupts-planned-russia-ukraine-peace-talks/">Modern Diplomacy</a></li>
+<li><strong>Analysis: "Was diplomacy with Iran really doomed to fail?" — No.</strong> Journalist Laura Rozen documents that Trump's negotiators misunderstood Iranian positions, lacked expert support, and applied artificial time pressure. The White House claims Iran "rejected the path of peace" — but the negotiators themselves admit an "Obama-plus deal was probably achievable." The war began not because diplomacy failed, but because Netanyahu's location tip changed Trump's calculus before the process ran its course. <a href="https://diplomatic.substack.com/p/was-diplomacy-with-iran-really-doomed">Diplomatic / Substack</a></li>
+</ul>
+
+<h3>AI / ML — What's Coming</h3>
+<ul>
+<li><strong>Prediction markets: Haiku 4.6 at 65%, DeepSeek V4 at 95% this month.</strong> Manifold Markets community predictions for March 2026 AI releases: DeepSeek V4-Lite (95%), GLM-5-Code (70%), <strong>Haiku 4.6 (65%)</strong>, DeepSeek V4 full (59%), Grok 4.20 (44%), Gemini 3.1 Pro GA (30%), Opus 4.7 (22%). A new Anthropic Haiku release this month would mark a meaningful update to Claude's fastest tier. <a href="https://manifold.markets/prismatic/march-2026-ai-model-releases">Manifold Markets</a></li>
+<li><strong>GPT-5.4 pricing confirmed: $2.50/$10 per million tokens.</strong> Premium tier. Available in ChatGPT, API, and Codex. Includes GPT-5.4 Thinking and GPT-5.4 Pro variants. Reasoning, coding, and agentic workflows are the headline capabilities. <a href="https://www.tldl.io/blog/ai-product-launches-march-2026">TLDL</a></li>
+<li><strong>"Cancel ChatGPT" movement grows.</strong> OpenAI's Pentagon partnership deal is fueling an organized backlash from users and developers who oppose military AI use. Community pressure similar to what initially constrained Anthropic's DOD relationship. <a href="https://dentro.de/ai/news/">dentro.de</a></li>
+<li><strong>51% of CIOs: AI adoption outpacing ability to manage it.</strong> Logicalis Global CIO Report 2026 finds most tech leaders believe AI is moving faster than governance frameworks, skills, and sustainability planning can keep up. <a href="https://dentro.de/ai/news/">dentro.de / The Register</a></li>
+</ul>
+
+<p><em>Sources: The National, Modern Diplomacy, Diplomatic/Substack, Manifold Markets, TLDL, dentro.de. Compiled by Serenity, 09 Mar 2026 12:00 UTC.</em></p>
+]]></description>
+    </item>
     <item>
       <title>Second-Order Effects — March 9, 2026: Iran War Starving Ukraine of Patriot Missiles; Iran FM "We Are Waiting For Them"</title>
       <link>https://www.reuters.com/business/aerospace-defense/iran-conflict-may-divert-us-weapons-ukraine-2026-03-04/</link>
