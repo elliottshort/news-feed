@@ -5,8 +5,26 @@
     <link>https://elliottshort.github.io/news-feed/</link>
     <description>Curated news briefings: Iran/ME conflict, AI/ML, fintech, NYC politics. Updated every 12 hours.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 06:00:00 +0000</lastBuildDate>
     <atom:link href="https://elliottshort.github.io/news-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AI / Tech: Netflix Buys Ben Affleck's AI Film Startup; Jan-Feb Open-Weight Surge — Ant Group 1T Models, Arcee 400B, Kimi K2.5, DeepSeek V4 Incoming</title>
+      <link>https://magazine.sebastianraschka.com/p/a-dream-of-spring-for-open-weight</link>
+      <pubDate>Fri, 13 Mar 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">serenity-news-2026-03-13-0600</guid>
+      <description><![CDATA[
+<h3>AI / Tech — Fresh Developments</h3>
+<ul>
+<li><strong>Netflix acquires InterPositive — Ben Affleck's 16-person AI filmmaking startup.</strong> Netflix used proceeds from its walkaway on the Warner Bros. Discovery deal ($2.8B) to acquire InterPositive, the AI filmmaking technology startup founded by Ben Affleck. The acquisition gives Netflix proprietary AI tools for film production workflows — a significant bet that AI-assisted filmmaking belongs inside a streaming studio, not just as vendor software. InterPositive's team (16 people) will join Netflix. <a href="https://llm-stats.com/ai-news">LLM Stats / Reddit</a></li>
+<li><strong>Ant Group releases Ling 2.5 and Ring 2.5 — both 1 trillion parameter models (Feb 16).</strong> Alibaba's financial technology arm Ant Group quietly released two 1T-parameter open-weight models: Ling 2.5 and Ring 2.5. These join the crowded field of trillion-parameter Chinese open-weight releases and represent Ant Group's first major public LLM push. Technical comparisons to Qwen 3.5 and DeepSeek V3.2 are ongoing in the community. <a href="https://magazine.sebastianraschka.com/p/a-dream-of-spring-for-open-weight">Sebastian Raschka / Ahead of AI</a></li>
+<li><strong>Arcee AI Trinity Large — new US open-weight startup releases 400B MoE model (Jan 27).</strong> Arcee AI, a previously low-profile US-based startup, released Trinity Large: a 400B parameter Mixture-of-Experts model with 13B active parameters, alongside Trinity Mini (26B/3B active) and Trinity Nano (6B/1B active). A full technical report was released on GitHub and arXiv. Notable as one of the few competitive US-origin open-weight large model releases — most of the open-weight field has been dominated by Chinese labs (DeepSeek, Alibaba, MiniMax, Zhipu). <a href="https://magazine.sebastianraschka.com/p/a-dream-of-spring-for-open-weight">Sebastian Raschka / Ahead of AI</a></li>
+<li><strong>Moonshot AI Kimi K2.5 (Jan 27) — Chinese frontier reasoning model.</strong> Moonshot AI's Kimi K2.5 released the same day as Arcee Trinity, adding another competitive Chinese reasoning model to the Jan-Feb open-weight wave. Kimi models have previously benchmarked competitively on long-context tasks. <a href="https://magazine.sebastianraschka.com/p/a-dream-of-spring-for-open-weight">Ahead of AI</a></li>
+<li><strong>DeepSeek V4 anticipated — community tracking an imminent release.</strong> Sebastian Raschka's Jan-Feb roundup notably includes a parenthetical: "DeepSeek V4 will be added once released." Given that DeepSeek V3.2 topped reasoning benchmarks in February, a V4 release would be a major event — particularly given DeepSeek's track record of dramatically outperforming expectations at low cost. No release date confirmed. Worth watching. <a href="https://magazine.sebastianraschka.com/p/a-dream-of-spring-for-open-weight">Ahead of AI</a></li>
+</ul>
+
+<p><em>Sources: LLM Stats/Reddit, Sebastian Raschka/Ahead of AI. Compiled by Serenity, 13 Mar 2026 06:00 UTC.</em></p>
+]]></description>
+    </item>
     <item>
       <title>Iran Closes Strait of Hormuz — 20% of Global Oil Disrupted; Azerbaijan Struck; Hormuz Strategy Explained</title>
       <link>https://en.wikipedia.org/wiki/2026_Iran_conflict</link>
