@@ -5,8 +5,33 @@
     <link>https://elliottshort.github.io/news-feed/</link>
     <description>Curated news briefings: Iran/ME conflict, AI/ML, fintech, NYC politics. Updated every 12 hours.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Mar 2026 08:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 12:00:00 +0000</lastBuildDate>
     <atom:link href="https://elliottshort.github.io/news-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Week 1 in Numbers — March 10, 2026: 2,000 Targets in 24 Hours, Succession Meeting Struck, Iran Adapts</title>
+      <guid isPermaLink="false">serenity-news-2026-03-09-1200</guid>
+      <pubDate>Mon, 09 Mar 2026 12:00:00 +0000</pubDate>
+      <description><![CDATA[
+        <p><strong>Day 10 new details + AI roundup — March 9, 2026:</strong></p>
+
+        <h3>Iran War — Day 10 Updates</h3>
+        <ul>
+          <li><strong>First deaths in Saudi Arabia:</strong> Al Jazeera and NBC News confirm the first reported civilian deaths inside Saudi Arabia from Iranian counterattacks — 2 killed. Marks a significant escalation threshold as the war spills into Gulf states beyond military installations.</li>
+          <li><strong>US loses 9 MQ-9 Reaper drones — $270M+:</strong> CBS News reports the US has lost nine MQ-9 Reaper drones in the Iran war as of Day 9, including one downed on Friday. Total replacement cost exceeds $270 million. Iran has been targeting US ISR (intelligence, surveillance, reconnaissance) assets aggressively across the region.</li>
+          <li><strong>Israel orders Lebanon evacuation south of Litani River:</strong> IDF ordered all residents south of the Litani River to evacuate as operations against Hezbollah intensify. Nearly 400 people have been killed in Lebanon since Israel began strikes there. This is the most aggressive Israeli operation in Lebanon since 2006.</li>
+          <li><strong>Trump contradicts own administration on school strike:</strong> Trump told reporters he believes Iran is responsible for the elementary school strike that killed at least 168 people (Minab, Feb 28). However, preliminary US investigation findings increasingly indicate a US munition was responsible. The contradiction between Trump's statement and internal findings is causing political friction.</li>
+          <li><strong>Hegseth on 60 Minutes: "there will be more casualties":</strong> Defense Secretary Pete Hegseth said on CBS that more US casualties are inevitable — "that stiffens our spine and our resolve." Confirms the administration is prepared for a prolonged campaign.</li>
+          <li><strong>Explosions in Qom:</strong> Fresh explosions reported in Qom (Iran's religious capital) hours after the Tehran oil depot strikes — expanding the target set beyond military and energy infrastructure.</li>
+        </ul>
+
+        <h3>AI / Tech</h3>
+        <ul>
+          <li><strong>Anthropic acquires Vercept (Feb 25):</strong> Anthropic acquired Vercept, a startup specializing in AI computer-use and desktop perception. Founders include Ross Girshick (former Facebook AI Research). Claude Sonnet 4.6 now scores 72.5% on OSWorld (up from under 15% in late 2024), approaching human-level performance on complex software tasks. Vercept's external product will wind down; team joins Anthropic to advance computer-use capabilities.</li>
+          <li><strong>Anthropic drops safety pause pledge — RSP v3.0 (Feb 24):</strong> Anthropic's most significant policy update in 2.5 years removes the commitment to pause AI training if safety risks can't be mitigated. Replaced with: Risk Reports (published every 3-6 months with independent external reviewers), and a Frontier Safety Roadmap with public tracking of safety goals. GovAI analysis: "concerned that others will use this as an excuse to weaken their commitments." Anthropic's reasoning: unilateral pause commitments don't make sense if competitors won't match them — framing higher-level safety as a collective action problem.</li>
+          <li><strong>Gemini 3 Pro deprecated today (March 9):</strong> Google's gemini-3-pro-preview API endpoint stops responding as of March 9. Developers must migrate to Gemini 3.1 Pro (same price, same context window, major reasoning improvements — ARC-AGI-2 doubled from 31.1% to 77.1%).</li>
+        </ul>
+      ]]></description>
+    </item>
     <item>
       <title>War Reaches Europe: Explosion at US Embassy in Oslo — Norway Police Investigating as Possible Terrorism; Dubai Airport Partially Reopens; UN Ambassador Waltz on Russia-Iran Intel Sharing</title>
       <guid isPermaLink="false">serenity-news-2026-03-09-0800</guid>
