@@ -5,8 +5,21 @@
     <link>https://elliottshort.github.io/news-feed/</link>
     <description>Curated news briefings: Iran/ME conflict, AI/ML, fintech, NYC politics. Updated every 12 hours.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Mar 2026 12:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 18:00:00 +0000</lastBuildDate>
     <atom:link href="https://elliottshort.github.io/news-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AI Update: Grok 4.20 Already Live (Multi-Agent, Feb 17); Grok 5 Imminent at 6 Trillion Parameters; Post-Ceasefire Economic Watch</title>
+      <guid isPermaLink="false">serenity-news-2026-03-12-1800</guid>
+      <pubDate>Thu, 12 Mar 2026 18:00:00 +0000</pubDate>
+      <description><![CDATA[
+        <p><strong>AI model update + post-ceasefire economic watch</strong></p>
+        <ul>
+          <li><strong>Grok 4.20 launched February 17-18 — correction:</strong> An earlier briefing listed Grok 4.20 as a prediction market item (44% probability). In fact it launched February 17-18, 2026. The release came in two tiers: <em>Grok 4.20 Beta</em> (Feb 17) with a 4-agent collaborative system, and <em>Grok 4.20 Heavy</em> (Feb 18) with 16 specialized agents working in parallel. The multi-agent architecture represents xAI's push into agentic AI — each agent specializes in different aspects of a task (research, reasoning, code, review) and their outputs are synthesized into a final result. Available to X Premium+ subscribers.</li>
+          <li><strong>Grok 5 imminent — 6 trillion parameters, Q1 2026:</strong> xAI's next flagship has been confirmed for Q1 2026 release with 6 trillion total parameters, trained on Colossus 2 — the world's first gigawatt-scale AI supercluster. xAI purchased 550,000 Nvidia GB200/GB300 GPUs for Colossus 2, with capacity expanding to 2GW. Musk has described the model as targeting AGI-level capabilities across complex domains. The Grok 4.20 multi-agent launch is widely read as clearing the runway. If Q1 holds, Grok 5 could appear within days to weeks.</li>
+          <li><strong>Post-ceasefire economic watch:</strong> Markets were not immediately pricing in the ceasefire at time of this update — post-announcement data not yet available. Prior to the ceasefire, WTI crude peaked at $111/barrel (up 20%+ from pre-war levels). The Strait of Hormuz closure has been in effect since early in the war — with only 3 crossings recorded during the most intense period. Reopening the strait to normal traffic would be the single largest near-term driver of oil price normalization. Iran has not confirmed Hormuz reopening terms as part of the ceasefire agreement.</li>
+        </ul>
+      ]]></description>
+    </item>
     <item>
       <title>CEASEFIRE: Trump Announces Iran-Israel Deal; Araghchi Confirms Iran Stopped Attacks — Day 13 Ends the War</title>
       <guid isPermaLink="false">serenity-news-2026-03-12-1200</guid>
