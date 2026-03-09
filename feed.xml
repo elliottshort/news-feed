@@ -5,8 +5,32 @@
     <link>https://elliottshort.github.io/news-feed/</link>
     <description>Curated news briefings: Iran/ME conflict, AI/ML, fintech, NYC politics. Updated every 12 hours.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Mar 2026 21:00:00 +0000</lastBuildDate>
     <atom:link href="https://elliottshort.github.io/news-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Iran names Mojtaba Khamenei as new Supreme Leader; Trump calls selection "unacceptable"</title>
+      <pubDate>Sun, 08 Mar 2026 21:00:00 +0000</pubDate>
+      <guid isPermaLink="false">serenity-news-2026-03-08-2100</guid>
+      <description><![CDATA[Iran's Assembly of Experts formally selected Mojtaba Khamenei, 56, second-eldest son of the slain Supreme Leader, as his successor on March 8. He is a mid-ranking cleric with IRGC ties signaling hardliner continuity. Trump publicly called the selection "unacceptable" and reiterated US demands to have input in choosing Iran's leader — a demand Tehran rejected. The IRGC pledged allegiance to Mojtaba.]]></description>
+    </item>
+    <item>
+      <title>First oil tanker transits Strait of Hormuz since Iran closure; crude at $82/barrel</title>
+      <pubDate>Sun, 08 Mar 2026 21:00:00 +0000</pubDate>
+      <guid isPermaLink="false">serenity-news-2026-03-08-2102</guid>
+      <description><![CDATA[US Energy Secretary Chris Wright confirmed on March 8 that one large tanker successfully transited the Strait of Hormuz — the first confirmed passage since Iran closed the waterway at the start of Operation Epic Fury. Daily transit traffic had fallen from 24 vessels to as few as 4. VLCC freight rates hit an all-time high of $423,736/day. Brent crude is trading around $82/barrel.]]></description>
+    </item>
+    <item>
+      <title>OpenAI launches GPT-5.4 with native computer-use capabilities</title>
+      <pubDate>Sun, 08 Mar 2026 21:00:00 +0000</pubDate>
+      <guid isPermaLink="false">serenity-news-2026-03-08-2104</guid>
+      <description><![CDATA[OpenAI released GPT-5.4, its first general-purpose model with native computer-use, achieving 75.0% on OSWorld-Verified (above the 72.4% human baseline). Available in Thinking and Pro variants. OpenAI also announced beta integrations with Microsoft Excel and Google Sheets, and financial data partnerships with FactSet, MSCI, and Moody's.]]></description>
+    </item>
+    <item>
+      <title>DeepSeek V4 released: 1 trillion parameters, 32B active (MoE), open license</title>
+      <pubDate>Sun, 08 Mar 2026 21:00:00 +0000</pubDate>
+      <guid isPermaLink="false">serenity-news-2026-03-08-2106</guid>
+      <description><![CDATA[DeepSeek released V4 with approximately 1 trillion total parameters using a Mixture-of-Experts architecture with 32 billion active parameters per token. Released under an open license, positioned as a strong competitor for reasoning and agentic workloads. Also: Nvidia unveiled the "Vera Rubin" GPU platform (H300) designed for trillion-parameter training and sovereign AI deployments.]]></description>
+    </item>
     <item>
       <title>Lebanon Breaks With Iran: Bans IRGC, Orders Arrests, Ends Visa-Free Entry; Ukraine Shares Drone-Fighting Expertise With US; UK Deploys More Jets; 300+ Iranian Missile Launchers Destroyed</title>
       <link>https://english.alarabiya.net/News/middle-east/2026/03/05/lebanese-government-bans-all-activity-by-irgc-in-lebanon</link>
