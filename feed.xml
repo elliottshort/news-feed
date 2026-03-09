@@ -5,8 +5,22 @@
     <link>https://elliottshort.github.io/news-feed/</link>
     <description>Curated news briefings: Iran/ME conflict, AI/ML, fintech, NYC politics. Updated every 12 hours.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Mar 2026 18:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 20:00:00 +0000</lastBuildDate>
     <atom:link href="https://elliottshort.github.io/news-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>SpaceX Acquires xAI — World's Largest M&amp;A Deal Ever at $1.25 Trillion; Breaks Vodafone's 25-Year Record</title>
+      <guid isPermaLink="false">serenity-news-2026-02-02-1200</guid>
+      <pubDate>Mon, 02 Feb 2026 12:00:00 +0000</pubDate>
+      <description><![CDATA[
+        <p><strong>February 2, 2026 — Catch-up item: SpaceX acquires xAI</strong></p>
+        <ul>
+          <li><strong>SpaceX acquires xAI in history's largest M&amp;A transaction:</strong> Elon Musk announced on February 2, 2026 that SpaceX has acquired xAI, the AI company behind Grok, in a deal that creates the world's most valuable private company at a combined $1.25 trillion valuation. The deal shatters the previous M&amp;A record held by Vodafone for more than 25 years. Reuters confirmed the deal values SpaceX at $1 trillion and xAI at $250 billion; xAI investors receive 0.1433 SpaceX shares per xAI share (with a cash option at $75.46/share).</li>
+          <li><strong>Strategic rationale — "orbital data centers":</strong> Musk described the combination as an "innovation engine" that puts AI, rockets, Starlink internet, and media under one roof. A core stated goal is building orbital data centers — using SpaceX's launch infrastructure and Starlink satellite network to host AI compute in space. The merger also gives Grok/xAI access to SpaceX's engineering talent and vertically integrated energy/power infrastructure (critical for running frontier model training at scale), directly relevant to Grok 5's training on the Colossus 2 gigawatt supercluster.</li>
+          <li><strong>Context:</strong> SpaceX was valued at $800B as of December 2025. xAI was independently incorporated in spring 2025 after spinning out of X (formerly Twitter). The combined entity positions Musk's empire alongside OpenAI, Google DeepMind, and Anthropic in the frontier AI race — but with unique advantages in compute infrastructure, satellite coverage, and government/defense relationships. The deal consolidates before a potential SpaceX IPO.</li>
+          <li><strong>Competitive implications:</strong> xAI's Grok models now have SpaceX's engineering and capital behind them, with Grok 5 (6T parameters, Q1 2026) as the next major release. The merger also accelerates xAI's ability to build dedicated AI hardware infrastructure independent of Nvidia — a strategic hedge given export control dynamics and the US-China chip rivalry.</li>
+        </ul>
+      ]]></description>
+    </item>
     <item>
       <title>AI Update: Grok 4.20 Already Live (Multi-Agent, Feb 17); Grok 5 Imminent at 6 Trillion Parameters; Post-Ceasefire Economic Watch</title>
       <guid isPermaLink="false">serenity-news-2026-03-12-1800</guid>
