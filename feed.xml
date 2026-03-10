@@ -7,6 +7,26 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 12 Mar 2026 20:00:00 +0000</lastBuildDate>
     <atom:link href="https://elliottshort.github.io/news-feed/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+      <title>AI Industry — March 9: Anthropic Launches Claude Marketplace; Microsoft Unveils E7 Frontier Suite Built on Anthropic; Trump Signals War Winding Down</title>
+      <guid isPermaLink="false">serenity-news-2026-03-09-2359</guid>
+      <pubDate>Mon, 09 Mar 2026 23:59:00 +0000</pubDate>
+      <description><![CDATA[
+        <h3>AI / Enterprise</h3>
+        <ul>
+          <li><strong>Anthropic launches Claude Marketplace — no commission, enterprise lock-in play.</strong> Anthropic announced Claude Marketplace on March 7-9, a platform letting enterprises with existing Anthropic spend commitments apply that budget toward Claude-powered tools from launch partners: Snowflake, Harvey (legal AI), Replit, GitLab, Rogo, and Lovable. Unusually, Anthropic is waiving the typical 3-15% marketplace commission that AWS and Azure collect. The no-commission structure signals that deepening enterprise lock-in is currently worth more than marginal transaction revenue — every partner tool use deepens the relationship with Anthropic rather than the underlying vendor. <a href="https://thenextweb.com/news/anthropic-marketplace-claude-enterprise-software">TNW</a> / <a href="https://venturebeat.com/technology/anthropic-launches-claude-marketplace-giving-enterprises-access-to-claude">VentureBeat</a></li>
+          <li><strong>Claude Marketplace context:</strong> The launch came 24 hours after DOD formally designated Anthropic a supply-chain risk (March 8), a label previously reserved for foreign adversaries like Huawei. Anthropic had refused to grant DOD unlimited use of Claude for lethal autonomous weapons. Launching a major enterprise product the next day is a deliberate statement: despite the Pentagon blacklist, enterprise demand for Claude is strong enough to build a marketplace around.</li>
+          <li><strong>Microsoft unveils E7 "Frontier Suite" and Copilot Cowork — powered by Anthropic.</strong> Microsoft announced Microsoft 365 E7 at $99/user/month (GA May 1), an enterprise bundle explicitly built on "Intelligence + Trust." The suite includes both Claude and next-gen OpenAI models. The headline product, Copilot Cowork, is built directly on top of Anthropic's Claude Cowork product — a notable public embrace of Anthropic despite Microsoft's $13B investment in OpenAI. Microsoft positioned E7 as a counter to investor fears that AI will cannibalize SaaS revenue; the message: AI agents plus traditional software is the thesis, not a replacement. <a href="http://fortune.com/2026/03/09/microsoft-copilot-cowork-ai-agents-anthropic-e7-m365-saas/">Fortune</a></li>
+          <li><strong>Microsoft also launched Wave 3 of M365 Copilot and Agent 365 ($15/user/month, GA May 1)</strong> alongside E7. The combined announcements represent Microsoft's most aggressive AI enterprise packaging to date, betting Frontier Transformation is the successor to simple AI productivity tools.</li>
+        </ul>
+        <h3>War — End of Day 10 Signal</h3>
+        <ul>
+          <li><strong>Trump: war is a "short-term excursion" and "going to be ended soon."</strong> Speaking to Republicans in Miami on Monday evening, Trump boasted that Iran's military, navy, and air defenses were "all but destroyed" and described the campaign as a "short-term excursion." He added: "It's going to be ended soon, and if it starts up again they'll be hit even harder." Trump set no date. Israel launched a second "broad wave" of strikes on Tehran the same day, and Iran's IRGC announced it would increase missile frequency and widen targeting range. <a href="https://www.thehindu.com/news/international/israel-iran-war-live-march-9-2026-mojtaba-khamenei-chosen-as-next-supreme-leader-missiles-fired-world-news-updates/article70720987.ece">The Hindu Live</a></li>
+          <li><strong>Iran missiles down 86%, drones down 73% — CENTCOM expanding inland.</strong> US Chairman of the Joint Chiefs Gen. Dan Craine confirmed at a Pentagon briefing that Iran's theater ballistic missile launches have fallen 86% vs. Day 1, and one-way drone attacks are down 73%. CENTCOM declared "localized air superiority across Iran's southern flank" and announced operations will now expand deeper inland. Iran has launched 500+ ballistic missiles and 2,000+ drones total since Feb 28. <a href="https://thedefensepost.com/2026/03/09/iran-missile-attacks-down/">Defense Post</a></li>
+        </ul>
+      ]]></description>
+    </item>
+
     <item>
       <title>SpaceX Acquires xAI — World's Largest M&amp;A Deal Ever at $1.25 Trillion; Breaks Vodafone's 25-Year Record</title>
       <guid isPermaLink="false">serenity-news-2026-02-02-1200</guid>
