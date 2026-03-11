@@ -5,9 +5,22 @@
     <link>https://elliottshort.github.io/news-feed/</link>
     <description>Curated news briefings: Iran/ME conflict, AI/ML, fintech, NYC politics. Updated every 12 hours.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Mar 2026 04:45:24 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 05:12:06 GMT</lastBuildDate>
     <atom:link href="https://elliottshort.github.io/news-feed/feed.xml" rel="self" type="application/rss+xml"/>
                                                                                                   <item>
+      <title><![CDATA[NVIDIA Rubin Platform + GTC 2026: Jensen Huang's 'World-Surprising' Chip Tease — Rubin Delivers 5x Blackwell at 50 PFLOPs; Feynman (TSMC 1.6nm) Expected First Reveal]]></title>
+      <description><![CDATA[NVIDIA's AI hardware roadmap has never moved faster. Two key events define the infrastructure landscape heading into mid-March 2026:
+
+**Rubin Platform (announced CES, Jan 5, 2026 — now shipping H2 2026):**
+NVIDIA unveiled six co-designed chips constituting the Rubin platform: Rubin GPU (336B transistors), Vera CPU (88 Olympus cores, 227B transistors), NVLink 6 Switch, ConnectX-9 SuperNIC, BlueField-4 DPU, and Spectrum-X 102.4T CPO silicon photonics switch. The Vera Rubin Superchip delivers up to 50 PFLOPs with HBM4 memory — 5x the AI compute of Grace Blackwell. Platform yields 10x reduction in inference token cost and 4x fewer GPUs to train MoE models vs Blackwell. Jensen Huang announced it is "in full production," with Microsoft Fairwater superfactories (hundreds of thousands of Rubin NVL72 rack-scale systems) and CoreWeave among first adopters. Red Hat providing full AI stack (RHEL + OpenShift + Red Hat AI) on Rubin. This is the chip underpinning the next two years of frontier model training and inference for OpenAI, Meta, Anthropic, Google, and every major cloud.
+
+**GTC 2026 (March 16–19, San Jose — "Super Bowl of AI"):**
+30,000 in-person, 300,000 virtual attendees. Jensen Huang's keynote March 16 (11 AM PDT). He has promised "a chip the world has never seen" — widely expected to be the first reveal of the Feynman architecture (NVIDIA's 2028 chip, TSMC 1.6nm A16 process with native silicon photonics co-packaged into the processor). Feynman is expected to push well beyond Rubin's 50 PFLOPs with dramatically improved memory bandwidth via HBM4E or next-gen packaging. GTC 2026 will also feature CUDA/CUDA-X updates optimized for long-context LLMs, multimodal, and agentic AI; Isaac Sim and Jetson robotics roadmap (physical AI); and sovereign AI/regional deployment partnerships. Microsoft Fairwater superfactories and CoreWeave Mission Control both built on Rubin NVL72 systems — the hardware powering the next wave of frontier AI inference. Source: NVIDIA investor.com / InsideHPC / WCCFTech / VideoCardz.]]></description>
+      <link>https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Kicks-Off-the-Next-Generation-of-AI-With-Rubin--Six-New-Chips-One-Incredible-AI-Supercomputer/default.aspx</link>
+      <guid>serenity-news-2026-03-15-1400</guid>
+      <pubDate>Mon, 16 Mar 2026 11:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title><![CDATA['Clinejection': First AI-Powered Supply Chain Attack Compromised 4,000 Developer Machines via a Single GitHub Issue Title — Prompt Injection Triggered Claude to Execute Attacker Code]]></title>
       <description><![CDATA[On February 17, 2026, the first confirmed AI-powered software supply chain attack compromised approximately 4,000 developer machines in 8 hours. The attack, dubbed 'Clinejection' by Snyk, exploited Cline CLI's AI issue triage bot (powered by Anthropic's claude-code-action) via prompt injection embedded in a GitHub issue title.
 
