@@ -5,9 +5,16 @@
     <link>https://elliottshort.github.io/news-feed/</link>
     <description>Curated news briefings: Iran/ME conflict, AI/ML, fintech, NYC politics. Updated every 12 hours.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Mar 2026 22:00:00 +0000</lastBuildDate>
     <atom:link href="https://elliottshort.github.io/news-feed/feed.xml" rel="self" type="application/rss+xml"/>
-                                                                                      <item>
+                                                                                          <item>
+      <title>Nvidia Plans 'NemoClaw' Open-Source Enterprise AI Agent Platform — Pitching Salesforce, Cisco, Google, Adobe</title>
+      <link>https://www.cnbc.com/2026/03/10/nvidia-open-source-ai-agent-platform-nemoclaw-wired-agentic-tools-openclaw-clawdbot-moltbot.html</link>
+      <description>Nvidia is preparing to launch NemoClaw, an open-source AI agent platform targeting enterprise software ecosystems, Wired reported March 10 citing anonymous sources. Nvidia has begun pitching the platform to Salesforce, Cisco, Google, Adobe, and CrowdStrike. Partners get free usage in exchange for contributing to the project — mirroring how Linux and Kubernetes ecosystem plays work. Critically: companies can access NemoClaw regardless of whether their products run on Nvidia chips — an unusually chip-agnostic stance for a company whose entire business model is GPU sales. The platform will allow enterprises to dispatch AI agents to perform tasks for employees and includes security and privacy tools. The move signals Nvidia is following Intel's Red Hat playbook: commoditize software to sell more hardware. But the chip-agnostic angle suggests Nvidia may also be trying to establish NemoClaw as the dominant enterprise agent orchestration layer before any single LLM provider wins that territory. Combined with ByteDance's DeerFlow 2.0 and OpenAI's Symphony, the open-source enterprise agentic infrastructure race is accelerating rapidly.</description>
+      <pubDate>Mon, 10 Mar 2026 22:00:00 +0000</pubDate>
+      <guid>serenity-news-2026-03-13-1800</guid>
+    </item>
+<item>
       <title>Trump: "Death, Fire and Fury" if Iran Blocks Hormuz — Larijani Threatens Trump's Life</title>
       <link>https://www.nbcnews.com/world/iran/live-blog/live-updates-iran-war-oil-prices-trump-hormuz-israel-rcna262670</link>
       <description>Day 12 of the Iran war produced its sharpest rhetorical exchange yet. Trump threatened Iran with "death, fire and fury" if it continues blocking the Strait of Hormuz, while Iran's IRGC commander declared: "Not one litre of oil will leave the Middle East until US and Israeli attacks cease." Iran's parliament speaker Larijani simultaneously posted a formal Hormuz ultimatum in 6 languages — "The Strait will be a strait of peace and prosperity for all, or a strait of defeat and suffering for warmongers" — then followed minutes later with a direct personal threat to Trump on X: "Be careful, so that you won't get eliminated." The Larijani threat was the first direct personal threat to a sitting US president during the conflict. Iran also said it intends to "fight as long as needed" even if the US stops unilaterally. Meanwhile US Energy Secretary Chris Wright briefly posted that the US Navy had "successfully escorted an oil tanker through the Strait" before deleting the message — but oil markets had already responded, with Brent crude falling toward $82 before fresh Iranian missile strikes reversed the drop. The war of statements is escalating faster than the war of missiles.</description>
