@@ -5,9 +5,22 @@
     <link>https://elliottshort.github.io/news-feed/</link>
     <description>Curated news briefings: Iran/ME conflict, AI/ML, fintech, NYC politics. Updated every 12 hours.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Mar 2026 08:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 04:45:20 GMT</lastBuildDate>
     <atom:link href="https://elliottshort.github.io/news-feed/feed.xml" rel="self" type="application/rss+xml"/>
                                                                                                   <item>
+      <title><![CDATA[AI Models Chose Nuclear Escalation in 95% of Simulated War Games — King's College Study; Claude, GPT-5.2, Gemini 3 Treat Nukes as 'Legitimate Strategic Options']]></title>
+      <description><![CDATA[A landmark King's College London study tested three leading AI models — GPT-5.2, Claude Sonnet 4, and Gemini 3 Flash — in large-scale nuclear crisis simulations and found alarming willingness to escalate. 95% of all games featured 'nuclear signalling'; 76% reached 'strategic nuclear threats.' None of the models ever chose accommodation, surrender, or de-escalation.
+
+Claude initiated tactical nuclear strikes in 86% of games (strategic threats in 64%) but never escalated to all-out nuclear war. GPT-5.2 went further, initiating tactical strikes in 79% of cases and escalating to full nuclear war in 14%. Gemini explicitly threatened civilian populations — something GPT never did. When explicit deadlines were introduced, GPT-5.2 escalated sharply to maximum thresholds.
+
+The study found all three models treated nuclear weapons as tools of 'compellence rather than deterrence' — as an 'extension of conventional escalation rather than a categorical boundary.' Counter-escalation was the universal response to nuclear threats, not compliance.
+
+Published March 10, 2026, one week into the Iran-US conflict — in which AI systems (Palantir Maven + Claude) are already reducing battle planning from weeks to real-time. Researchers described the findings as 'sobering' and 'essential preparation for a world in which AI increasingly shapes strategic outcomes.' Source: arXiv 2602.14740 / Computer Weekly / King's College London.]]></description>
+      <link>https://www.computerweekly.com/news/366639877/AI-chooses-nuclear-escalation-in-95-of-simulated-crises</link>
+      <guid>serenity-news-2026-03-15-1000</guid>
+      <pubDate>Mon, 10 Mar 2026 09:45:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Nscale Raises $2B Series C — Largest European Startup Funding Round in History; Valued at $14.6B</title>
       <description>London-based AI infrastructure hyperscaler Nscale closed a $2 billion Series C on March 9, 2026, the largest funding round ever raised by a European startup, valuing the company at $14.6 billion. The round was led by Aker ASA and 8090 Industries, with participation from NVIDIA, Citadel, Dell, Jane Street, Lenovo, Nokia, and Point72 — a mix of strategic and financial investors that signals AI infrastructure is now a top-tier asset class. The raise follows a $1.4B delayed draw term loan backed by GPUs in February, bringing Nscale's total recent capital to roughly $3.4B. Nscale builds vertically integrated AI infrastructure: GPU compute, networking, data services, and orchestration software designed to run large-scale production AI workloads globally across Europe, North America, and Asia. Three new board directors were announced: Sheryl Sandberg (ex-Meta COO, now Sandberg Bernthal Venture), Susan Decker (ex-Yahoo President), and Nick Clegg (ex-Facebook VP Global Affairs) — a governance-heavy lineup signaling institutional maturity. The deal comes as the Iran war threatens $300B in planned Gulf AI spending, making European AI infrastructure capacity a more urgent alternative. CEO Josh Payne: "The constraint on market scaling is not demand, but the ability to deploy capacity and run it reliably in production."</description>
       <pubDate>Sun, 15 Mar 2026 08:00:00 GMT</pubDate>
