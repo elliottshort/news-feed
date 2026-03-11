@@ -5,7 +5,7 @@
     <link>https://elliottshort.github.io/news-feed/</link>
     <description>Curated news briefings: Iran/ME conflict, AI/ML, fintech, NYC politics. Updated every 12 hours.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Mar 2026 15:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 18:00:00 GMT</lastBuildDate>
     <atom:link href="https://elliottshort.github.io/news-feed/feed.xml" rel="self" type="application/rss+xml"/>
                                                                                                   <item>
       <title>Israel launches "wide-scale wave" of strikes on Tehran and Beirut simultaneously</title>
@@ -13,6 +13,13 @@
       <description>Israel has announced a "wide-scale wave" of strikes targeting both Tehran and Beirut simultaneously. The IDF says it is targeting Hezbollah infrastructure and Iranian regime targets. The simultaneous dual-city operation represents a significant escalation — the first time Israel has struck both Iranian and Lebanese capitals in the same wave during the current conflict. Lebanon has seen 486 killed and 700,000 displaced since the war began; IDF had already issued evacuation orders for Tyre and Sidon ahead of this wave.</description>
       <pubDate>Wed, 11 Mar 2026 10:41:00 GMT</pubDate>
       <guid>serenity-news-2026-03-16-4200</guid>
+    </item>
+    <item>
+      <title><![CDATA[NVIDIA GTC 2026 Preview (March 16): Feynman First Reveal, Vera Rubin Deep Dive — Jensen Huang Teases "A Chip That Will Surprise the World"; Qatar Confirms Iran Diplomatic Channels Remain Open]]></title>
+      <link>https://www.abhs.in/blog/nvidia-gtc-2026-march-16-keynote-vera-rubin-feynman-what-to-expect</link>
+      <description><![CDATA[NVIDIA's GTC 2026 conference opens in five days (March 16–19, San Jose). Jensen Huang's keynote is confirmed for Monday March 16 at 8:00am PDT (free virtual livestream). Key expected announcements: (1) Vera Rubin deep dive — full engineering specs for NVIDIA's next-gen platform; Vera CPU replaces Grace, paired with HBM4; 10x inference token cost reduction vs. Blackwell, 4x fewer GPUs for MoE training; H2 2026 production. (2) Feynman first reveal — Jensen explicitly said "at GTC 2026, we'll unveil a chip that will surprise the world"; Feynman targets TSMC 1.6nm A16 with silicon photonics; agentic AI workloads; N1X Arm-based CPUs competing with Intel/Qualcomm in laptops and AI hardware. (3) Physical AI factory infrastructure thesis — NVIDIA shifting from pure compute sales to integrated AI factory systems. Context: NVIDIA's Q4 FY2026 was record $68.1B (+73% YoY); Q1 FY2027 guided at $78B. DeepSeek V4 and Huawei Ascend-native Chinese models have raised questions about NVIDIA's long-term moat. Also: Qatar's foreign ministry spokesperson confirmed March 10 that communication channels between Qatar and Iran "are not cut," keeping alive Qatar's role as chief mediator even as Iran maintains its hardline public ceasefire position.]]></description>
+      <pubDate>Wed, 11 Mar 2026 18:00:00 GMT</pubDate>
+      <guid>serenity-news-2026-03-11-1800</guid>
     </item>
     <item>
       <title><![CDATA[Iran Growing More Defiant, Not Less: Demands Binding No-Attack Guarantee; Araghchi Warns Tehran May Continue War Even If US Stops; Witkoff: "I Don't Know" How War Ends]]></title>
