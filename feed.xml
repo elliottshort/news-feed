@@ -5,9 +5,23 @@
     <link>https://elliottshort.github.io/news-feed/</link>
     <description>Curated news briefings: Iran/ME conflict, AI/ML, fintech, NYC politics. Updated every 12 hours.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Mar 2026 20:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://elliottshort.github.io/news-feed/feed.xml" rel="self" type="application/rss+xml"/>
-                                                                                  <item>
+                                                                                      <item>
+      <title>Trump: "Death, Fire and Fury" if Iran Blocks Hormuz — Larijani Threatens Trump's Life</title>
+      <link>https://www.nbcnews.com/world/iran/live-blog/live-updates-iran-war-oil-prices-trump-hormuz-israel-rcna262670</link>
+      <description>Day 12 of the Iran war produced its sharpest rhetorical exchange yet. Trump threatened Iran with "death, fire and fury" if it continues blocking the Strait of Hormuz, while Iran's IRGC commander declared: "Not one litre of oil will leave the Middle East until US and Israeli attacks cease." Iran's parliament speaker Larijani simultaneously posted a formal Hormuz ultimatum in 6 languages — "The Strait will be a strait of peace and prosperity for all, or a strait of defeat and suffering for warmongers" — then followed minutes later with a direct personal threat to Trump on X: "Be careful, so that you won't get eliminated." The Larijani threat was the first direct personal threat to a sitting US president during the conflict. Iran also said it intends to "fight as long as needed" even if the US stops unilaterally. Meanwhile US Energy Secretary Chris Wright briefly posted that the US Navy had "successfully escorted an oil tanker through the Strait" before deleting the message — but oil markets had already responded, with Brent crude falling toward $82 before fresh Iranian missile strikes reversed the drop. The war of statements is escalating faster than the war of missiles.</description>
+      <pubDate>Tue, 10 Mar 2026 22:00:00 +0000</pubDate>
+      <guid>serenity-news-2026-03-12-1000</guid>
+    </item>
+    <item>
+      <title>Ai2 OLMoHybrid: Fully Open Transformer-RNN Cuts Training Cost 49%, Boosts Long-Context Throughput 75%</title>
+      <link>https://awesomeagents.ai/news/olmo-hybrid-ai2-transformer-rnn-open-source/</link>
+      <description>The Allen Institute for AI (Ai2) released OLMo Hybrid on March 5, 2026 — a 7B model that alternates transformer attention layers with Gated DeltaNet linear RNN layers. The result: it matches OLMo 3's accuracy on MMLU while using 49% fewer training tokens (2x data efficiency) and delivering 75% better inference throughput on long-context tasks. Why it matters: pure transformers scale quadratically with context length (doubling context ≈ 4x compute). DeltaNet RNN layers use fixed-size compressed state, scaling linearly. Alternating layers gets the best of both — exact attention where needed, linear scaling everywhere else. Everything is fully open: weights, intermediate checkpoints, training code, and technical report on HuggingFace. First fully open hybrid architecture at this quality level. As inference costs dominate AI deployment economics, hybrid architectures like OLMo Hybrid may represent the next major efficiency frontier — especially for long-context agentic use cases.</description>
+      <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>serenity-news-2026-03-12-1100</guid>
+    </item>
+<item>
       <title>Iran Rejects US Talks, Demands Guarantees — Araghchi: "We'll Fight As Long As Needed"</title>
       <link>https://www.reuters.com/world/asia-pacific/iran-says-oil-blockade-will-continue-until-attacks-end-trump-threatens-hit-2026-03-10/</link>
       <description>Iranian Foreign Minister Abbas Araghchi ruled out negotiations with Washington on March 10 (Day 12), saying talks are "no longer on Tehran's agenda" after the US struck during previous diplomatic contacts. "We are prepared to continue attacking with our missiles as long as needed," he told PBS News, directly contradicting Trump's prediction the war would end "very soon." Deputy FM Gharibabadi set Iran's ceasefire bar: "We will only end the war under conditions where we are certain it won't happen again" — demanding binding security guarantees, not just a halt. China, Russia and France have contacted Tehran about ceasefire mediation. Meanwhile the Pentagon declared March 10 "our most intense day of strikes" and Iran launched fresh salvos at Israel, Qatar's Al Udeid base, and Erbil. The gap between Trump's optimism and Iran's hardened posture widened sharply.</description>
