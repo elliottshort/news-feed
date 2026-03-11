@@ -5,9 +5,23 @@
     <link>https://elliottshort.github.io/news-feed/</link>
     <description>Curated news briefings: Iran/ME conflict, AI/ML, fintech, NYC politics. Updated every 12 hours.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 01:00:00 +0000</lastBuildDate>
     <atom:link href="https://elliottshort.github.io/news-feed/feed.xml" rel="self" type="application/rss+xml"/>
-                                                  <item>
+                                                      <item>
+      <title>Google Deploys Gemini AI Agents Across Pentagon's 3 Million Employees for Unclassified Work</title>
+      <link>https://www.bloomberg.com/news/articles/2026-03-10/google-to-provide-pentagon-with-ai-agents-for-unclassified-work</link>
+      <description>Google is rolling out Gemini AI agents to the Department of Defense's 3 million civilian and military employees, expanding its Pentagon AI footprint amid the ongoing Anthropic blacklist standoff. The agents will initially operate on unclassified networks, automating tasks like summarizing meeting notes, building budgets, and checking proposed actions against the national defense strategy. Eight pre-built agents launch immediately; DoD staff can also build custom agents using natural language via Google's "Agent Designer" (equivalent to Gems). Emil Michael, Under Secretary of Defense for Research and Engineering, confirmed talks are already underway to expand access to classified and top-secret networks. Context: 1.2 million DoD employees have already used Gemini via GenAI.mil, running 40 million prompts and uploading 4 million documents since December. The rollout comes directly after the Pentagon designated Anthropic a "supply chain risk" (March 3) and rushed deals with OpenAI and xAI — Google is now the largest AI agent deployment in the US military. Notably, Google quietly altered its own AI Principles on military use in early February, enabling this expansion after internal backlash over previous Pentagon work in 2018.</description>
+      <pubDate>Wed, 11 Mar 2026 01:00:00 +0000</pubDate>
+      <guid>serenity-news-2026-03-12-0100</guid>
+    </item>
+    <item>
+      <title>IDF Strikes Nuclear Laboratories in Tehran and Isfahan in Most Intensive Wave Yet — 170+ Munitions Deployed</title>
+      <link>https://israel-alma.org/daily-report-the-second-iran-war-march-10-2026-1800/</link>
+      <description>Israeli Air Force fighter jets struck nuclear laboratories in Tehran as part of a wave using more than 170 munitions across Tehran, Isfahan, and Shiraz, according to the Alma Research and Education Center's daily war report (March 10, 18:00). The nuclear labs struck had previously been targeted during the June 2025 Twelve-Day War — their re-targeting signals the same or reconstituted facilities are still operational. Additional targets in the wave: a central IRGC headquarters responsible for launching UAVs (in Tehran), the IRGC Quds Force HQ in Tehran responsible for proxy operations and weapons transfers, a missile production and storage site in Isfahan (targeting Israeli aircraft), multiple Iranian air defense systems in Isfahan, the Shahramfar IRGC base in Sanandaj (Iranian Kurdistan), and infrastructure in Khorramabad used as gathering sites or weapons storage. Strikes also reported near Mehrabad Airport in Tehran. This represents the most systematic targeting of nuclear infrastructure since the war began Feb 28 — going beyond the June 2025 strikes in scope by hitting laboratories (not just centrifuge halls). The IAEA has been unable to access Iranian nuclear sites since the war began; Iran holds an estimated 440.9kg of 60%-enriched uranium at Isfahan, with the fate of the stockpile unknown.</description>
+      <pubDate>Wed, 11 Mar 2026 00:45:00 +0000</pubDate>
+      <guid>serenity-news-2026-03-12-0045</guid>
+    </item>
+<item>
       <title>Saudi Arabia Intercepts Six Ballistic Missiles Aimed at Prince Sultan Air Base</title>
       <description>Saudi Arabia's Defence Ministry confirmed it intercepted and destroyed six ballistic missiles heading for Prince Sultan Air Base in the east of the country. The ministry also reported intercepting several drones, including two near the northeastern city of Hafar Al-Batin. The ministry did not specify the source of the projectiles. Prince Sultan Air Base is a key US military facility that has been used in the ongoing US-Israeli campaign against Iran. The intercepts mark a continuation of overnight Iranian strikes on Gulf military infrastructure as Day 12 transitions into Day 13 of the conflict.</description>
       <pubDate>Tue, 10 Mar 2026 23:49:00 +0000</pubDate>
