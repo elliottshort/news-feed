@@ -5,9 +5,24 @@
     <link>https://elliottshort.github.io/news-feed/</link>
     <description>Curated news briefings: Iran/ME conflict, AI/ML, fintech, NYC politics. Updated every 12 hours.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Mar 2026 05:12:06 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 05:31:11 GMT</lastBuildDate>
     <atom:link href="https://elliottshort.github.io/news-feed/feed.xml" rel="self" type="application/rss+xml"/>
                                                                                                   <item>
+      <title><![CDATA[Mira Murati's Thinking Machines Lab + NVIDIA: Gigawatt-Scale Vera Rubin Deal — NVIDIA Makes Equity Investment; 1GW Rubin Deployment Targeted 2027]]></title>
+      <description><![CDATA[Former OpenAI CTO Mira Murati has emerged from stealth with Thinking Machines Lab, and her first major public move is a gigawatt-scale compute deal with NVIDIA.
+
+Announced March 10, 2026: NVIDIA and Thinking Machines Lab signed a multiyear strategic partnership to deploy at least one gigawatt of next-generation NVIDIA Vera Rubin systems — enough compute to train the largest frontier models in the world. Deployment is targeted for early 2027, when Rubin ships at full scale. NVIDIA also made a "significant investment" (equity stake) in Thinking Machines Lab.
+
+The partnership covers three areas: (1) frontier model training at scale on Vera Rubin; (2) co-designing training and serving systems optimized for NVIDIA architectures; (3) broadening access to frontier AI and open models for enterprises, research institutions, and the scientific community.
+
+Murati's stated vision centers on "AI that people can shape and make their own" — positioning Thinking Machines as a safety-forward frontier lab distinct from OpenAI's more closed, commercialized direction. Jensen Huang: "Thinking Machines has brought together a world-class team to advance the frontier of AI." Murati: "NVIDIA's technology is the foundation on which the entire field is built. This partnership accelerates our capacity to build AI that expands human potential."
+
+Context: Murati resigned from OpenAI in September 2024. Thinking Machines Lab has assembled senior AI researchers. The 1-gigawatt Rubin commitment matches the scale of xAI's Colossus 2 cluster — signaling Thinking Machines is competing for frontier model leadership. Vera Rubin delivers 50 PFLOPs per superchip (5x Blackwell), making 1 GW equivalent to the largest training infrastructure deployments in the world. Source: NVIDIA Blog / Thinking Machines Lab.]]></description>
+      <link>https://blogs.nvidia.com/blog/nvidia-thinking-machines-lab/</link>
+      <guid>serenity-news-2026-03-15-1600</guid>
+      <pubDate>Mon, 10 Mar 2026 09:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title><![CDATA[NVIDIA Rubin Platform + GTC 2026: Jensen Huang's 'World-Surprising' Chip Tease — Rubin Delivers 5x Blackwell at 50 PFLOPs; Feynman (TSMC 1.6nm) Expected First Reveal]]></title>
       <description><![CDATA[NVIDIA's AI hardware roadmap has never moved faster. Two key events define the infrastructure landscape heading into mid-March 2026:
 
