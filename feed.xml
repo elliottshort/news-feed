@@ -2,6 +2,60 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
         <item>
+      <title><![CDATA[Lebanon: IDF Prepares Ground Assault, 14% Evacuated — IEA 400M-Barrel Release Fails to Move Oil — UN: 4M Displaced — Grok 5 (6T Params) Imminent — GTC TOMORROW: Vera Rubin 10x, Rubin CPX, Feynman]]></title>
+      <link>https://elliottshort.github.io/news-feed/</link>
+      <description><![CDATA[
+<p><strong>Day 16 | March 15, 2026 — 06:00 UTC</strong></p>
+
+<h3>LEBANON: IDF GROUND ASSAULT SIGNALED — 14% OF COUNTRY EVACUATED</h3>
+<p>Israeli PM Netanyahu's exact words at his March 12 press conference regarding Lebanon: <em>"How will we do it? On the ground. With ground forces and other things."</em> Defense Minister Katz instructed the IDF to prepare for expanded Lebanon operations after Hezbollah fired a heavy overnight barrage. Katz warned Lebanese President Aoun: "if your government cannot prevent Hezbollah from attacking, Israel would do it ourselves."</p>
+<p>Scale of the displacement:</p>
+<ul>
+<li>Norwegian Refugee Council: Israeli evacuation orders now cover ~1,470 km² — <strong>14% of Lebanon's entire territory</strong></li>
+<li>UN peacekeeping (UNIFIL): Ground incursions and roadblocks by IDF forces reported in southern Lebanon</li>
+<li>Lebanon death toll: ~800 killed, 850,000+ displaced</li>
+<li>Hezbollah's political ally <strong>Amal Movement</strong> voted in favor of Lebanese cabinet decision to ban Hezbollah military activity — the first major fracture since 2005</li>
+</ul>
+
+<h3>IEA RECORD 400M-BARREL EMERGENCY RELEASE — MARKET UNIMPRESSED</h3>
+<p>The IEA's 32-member countries unanimously agreed (March 11) to release 400 million barrels of oil — the <strong>largest emergency stockpile release in the agency's 50-year history</strong>. The US is contributing 172 million barrels from the Strategic Petroleum Reserve starting this week (120-day delivery timeline).</p>
+<p>Market verdict: Brent stayed above $100. Analysis from Rapidan Energy Group: "IEA drawdowns can at best only offset a fraction of the roughly 15 million barrels per day net supply loss." Bob McNally: "Oil prices likely to keep rising until either a ceasefire or military degradation of Iran's attack capabilities allows tanker traffic to resume." Analysts flagging risk this crisis "could last for months instead of weeks."</p>
+
+<h3>UN: 4 MILLION DISPLACED; UAE ARRESTS 21 FOR FILMING STRIKES</h3>
+<p>The UN refugee agency reports up to 4 million people have been displaced inside Iran and Lebanon combined since February 28. Separately, the UAE arrested 21 people under its cybercrime laws for circulating videos of drone and missile activity online — a sign of Gulf state anxiety about the conflict's information environment.</p>
+
+<h3>BBC VERIFY: IRANIAN USV ATTACK AUTHENTICATED</h3>
+<p>BBC Verify authenticated footage of the Iranian unmanned surface vehicle (USV) attack on SAFESEA VISHNU off Basra (March 11): video shows the boat ramming the tanker, a massive explosion, and crew members celebrating. Indian authorities confirmed: "unmanned speed boat carrying explosives rammed into it, resulting in a major fire." 1 crew member died; 38 rescued. 3 crew from the MAYUREE NAREE remain missing in Hormuz. The USV program is now confirmed as a frontline offensive capability beyond the Strait.</p>
+
+<hr/>
+
+<h3>AI: GROK 5 IMMINENT — 6 TRILLION PARAMETERS ON COLOSSUS 2</h3>
+<p>xAI's Grok 5 — the largest publicly announced AI model in history — is in final training stages on Colossus 2 (1GW supercluster, confirmed operational December 2025). Key specs:</p>
+<ul>
+<li><strong>6 trillion parameters</strong> (Mixture-of-Experts) — roughly 3x GPT-5.4's estimated 1.8T</li>
+<li>Musk: "10% and rising" probability of achieving human-level AGI</li>
+<li>Public beta: estimated March–April 2026; full API Q2 2026</li>
+<li>Native video understanding, real-time X data, 68M English posts/day as live training signal</li>
+<li>Manifold prediction markets: 36% probability of release before May 1</li>
+</ul>
+<p>The Grok 4.20 multi-agent series (4-agent/16-agent, released Feb-March) is widely interpreted as a public runway test for Grok 5's full multi-agent architecture. Colossus 2's 2GW expansion is another signal.</p>
+
+<h3>AI: GTC KEYNOTE TOMORROW — Vera Rubin 10x, Rubin CPX, Feynman</h3>
+<p><strong>Jensen Huang keynote: Monday March 16, 11am PT (SAP Center, San Jose)</strong> — free livestream at nvidia.com. What's expected:</p>
+<ul>
+<li><strong>Vera Rubin:</strong> 10x inference cost reduction vs Blackwell; 4x fewer GPUs for MoE model training; first products H2 2026</li>
+<li><strong>Rubin CPX:</strong> Processes 1 million tokens in a single shot — "enough to read an entire codebase"</li>
+<li><strong>Feynman architecture:</strong> Built on TSMC's 1.6nm A16 process with silicon photonics integration — Jensen's "chip that will surprise the world"</li>
+<li><strong>OpenClaw + DGX Spark:</strong> 310K star agent platform demo; always-on personal AI computer</li>
+</ul>
+<p>A 10x inference cost reduction means today's "expensive" AI use cases become next year's baseline infrastructure. The implications for autonomous coding, medical AI, and real-time military target analysis are significant across every domain touched by this war.</p>
+
+<p><em>GTC coverage will follow Monday. Next update ~12:00 UTC March 15. Shabdis arrives Chabahar today (March 16).</em></p>
+      ]]></description>
+      <pubDate>Sun, 15 Mar 2026 06:00:00 +0000</pubDate>
+      <guid>serenity-news-2026-03-15-0600</guid>
+    </item>
+<item>
       <title><![CDATA[Putin Offers Trump Iran Exit Ramp — IDF Prepares Lebanon Ground Expansion — Iranian USVs Hit Two Ships — Grok-4.20 Multi-Agent Beta (16 Agents) — Russian Oil Sanctions Waived]]></title>
       <link>https://elliottshort.github.io/news-feed/</link>
       <description><![CDATA[
@@ -201,7 +255,7 @@
     <link>https://elliottshort.github.io/news-feed/</link>
     <description>Curated news briefings: Iran/ME conflict, AI/ML, fintech, NYC politics. Updated every 12 hours.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 14 Mar 2026 18:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Mar 2026 06:00:00 +0000</lastBuildDate>
     <atom:link href="https://elliottshort.github.io/news-feed/feed.xml" rel="self" type="application/rss+xml"/>
                                                                                                                             <item>
     <title>Iran war Day 13: Michigan synagogue attack as markets crash; KC-135 crew fate unknown; IEA warns of largest oil disruption in history</title>
