@@ -1,7 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-        <item>
+          <item>
+    <title>Shabdis Arrives Chabahar; Mojtaba Vows Revenge; NVIDIA NemoClaw Debuts at GTC Tomorrow</title>
+    <link>https://elliottshort.github.io/news-feed/</link>
+    <description><![CDATA[
+      <h2>Iran–US War: Day 16 Noon Update — March 15, 2026</h2>
+
+      <h3>Shabdis Arrives Chabahar — No Interdiction</h3>
+      <p>The Iranian cargo ship <strong>Shabdis</strong>, which departed Gaolan Port in Zhuhai, China, has arrived at Chabahar, Iran, as anticipated. The vessel — operated by the sanctioned Islamic Republic of Iran Shipping Lines (IRISL) — is suspected of carrying sodium perchlorate, a key precursor for solid rocket fuel. Carnegie Endowment fellow Isaac Kardon: "Given the track record, the most parsimonious explanation is that they're loading the same commodity they've been shuttling for the past year-plus." The second vessel, <strong>Barzin</strong>, is on course for Bandar Abbas with ETA March 20. Neither ship has been intercepted despite active US operations. The delivery represents a meaningful resupply of Iran's missile propellant stockpile.</p>
+
+      <h3>Mojtaba's First Statement: "Avenge the Blood," Close All US Bases</h3>
+      <p>Iran's new Supreme Leader Mojtaba Khamenei issued his first public statement since assuming power, read on-air by an Iranian state TV anchor — Khamenei has not appeared in person or on camera since his appointment. The statement: Iran will not "refrain from avenging the blood of its martyrs"; the Strait of Hormuz blockade must continue; and all US military bases in the Middle East "must close immediately — those bases will be attacked." Trump responded: "I think he probably is [alive] — I think he is damaged." Israeli intelligence says Khamenei was injured in the strike that killed his father. Per CNBC, oil prices extended gains following the comments. Iran has warned Brent could reach $200/bbl.</p>
+
+      <h3>Iran Cluster Missiles Breach Israeli Defenses — 70 Bomblets Over Central Israel</h3>
+      <p>Haaretz reports 11 Iranian cluster missiles have penetrated Israeli defenses during the 16-day campaign; one dropped at least 70 bomblets over central Israel. No fatalities reported in that strike, but the penetrations are a notable failure for Israel's multi-layer air defense network, which Hegseth claimed is stopping 90%+ of missiles. The Fattah-2 hypersonic (Mach 13-15) has been flagged as a persistent gap in Iron Dome capability.</p>
+
+      <h3>Lebanon: Israel Prepares Northern Expansion</h3>
+      <p>IDF continues strikes on south Beirut with renewed mass evacuation orders. Israel has instructed ground forces to prepare for further incursions into northern Lebanon, extending beyond the border zones already under Israeli control. Amal Movement's vote to ban Hezbollah military activity continues to deepen the fracture in Hezbollah's domestic coalition. UN report: 120+ rockets fired from Lebanon toward Israel in a single 24-hour period.</p>
+
+      <h3>NVIDIA NemoClaw: Enterprise AI Agent Platform Debuts at GTC Tomorrow</h3>
+      <p>NVIDIA will formally launch <strong>NemoClaw</strong> at Jensen Huang's GTC 2026 keynote tomorrow (March 16, 11am PT, SAP Center). NemoClaw is an open-source, hardware-agnostic enterprise AI agent platform built on NVIDIA's NeMo framework, Nemotron models, and NIM microservices — engineered for companies that need agents with enterprise-grade security, audit compliance (GDPR/HIPAA/CCPA), and RBAC. Critically, it runs on any hardware — NVIDIA, AMD, Intel — breaking from CUDA lock-in. The platform targets the enterprise gap left by consumer-focused OpenClaw. NVIDIA has discussed partnerships with Salesforce, Cisco, Google, Adobe, and CrowdStrike (per Wired; none confirmed). Also formal at tomorrow's keynote: Vera Rubin GPU (10x inference cost vs. current gen), Rubin CPX (1M token context), and Feynman first-look (TSMC A16 1.6nm). Livestream free at nvidia.com/gtc.</p>
+
+      <h3>Oil + Hormuz: $200 Threat, IEA Release Failing</h3>
+      <p>Iran doubled down on its $200/bbl warning. The IEA's announced 400M-barrel emergency release — the largest in history — has failed to push Brent below $100. Analysts broadly agree it cannot compensate for the effective closure of Hormuz, through which ~20% of global oil normally flows. 500+ tankers remain bottled. Iraq shut all oil terminal operations following tanker attacks near Basra. The US 30-day OFAC license for Russian oil at sea runs through April 11.</p>
+    ]]></description>
+    <pubDate>Sun, 15 Mar 2026 12:00:00 +0000</pubDate>
+    <guid>serenity-news-2026-03-15-1201</guid>
+  </item>
+<item>
       <title><![CDATA[Lebanon: IDF Prepares Ground Assault, 14% Evacuated — IEA 400M-Barrel Release Fails to Move Oil — UN: 4M Displaced — Grok 5 (6T Params) Imminent — GTC TOMORROW: Vera Rubin 10x, Rubin CPX, Feynman]]></title>
       <link>https://elliottshort.github.io/news-feed/</link>
       <description><![CDATA[
@@ -255,7 +282,7 @@
     <link>https://elliottshort.github.io/news-feed/</link>
     <description>Curated news briefings: Iran/ME conflict, AI/ML, fintech, NYC politics. Updated every 12 hours.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Mar 2026 06:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Mar 2026 12:01:00 +0000</lastBuildDate>
     <atom:link href="https://elliottshort.github.io/news-feed/feed.xml" rel="self" type="application/rss+xml"/>
                                                                                                                             <item>
     <title>Iran war Day 13: Michigan synagogue attack as markets crash; KC-135 crew fate unknown; IEA warns of largest oil disruption in history</title>
