@@ -2,6 +2,55 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
         <item>
+      <title><![CDATA[Putin Offers Trump Iran Exit Ramp — IDF Prepares Lebanon Ground Expansion — Iranian USVs Hit Two Ships — Grok-4.20 Multi-Agent Beta (16 Agents) — Russian Oil Sanctions Waived]]></title>
+      <link>https://elliottshort.github.io/news-feed/</link>
+      <description><![CDATA[
+<p><strong>Day 15 | March 14, 2026 — 18:00 UTC</strong></p>
+
+<h3>DIPLOMACY: PUTIN OFFERS TRUMP IRAN EXIT RAMP</h3>
+<p>In a March 9 phone call — their first of 2026 — Putin proposed to Trump ideas for "a quick political and diplomatic end to the Iranian conflict," citing contacts with Gulf state leaders and the Iranian president (Kremlin aide Ushakov). Trump: "Putin wants to be helpful on Iran." March 10: Kremlin spokesman Peskov confirmed "many of these proposals are still on the table."</p>
+<p>Context: Trump envoy Steve Witkoff told Russia to stop supplying intelligence to Iran (WaPo: Moscow giving Tehran US military asset locations including warships/aircraft). Peskov declined to comment — but confirmed Witkoff is "in constant contact with Russian interlocutors" on "the most sensitive issues."</p>
+<p>Putin's dual play: publicly condemning the war while benefiting from oil price surge, offering mediation while giving Iran targeting data. The back-channel is real. Whether it produces anything depends on Iran accepting conditions.</p>
+
+<h3>IDF PREPARES LEBANON GROUND EXPANSION</h3>
+<p>Per ISW (March 12): Israeli Defense Minister Katz and PM Netanyahu instructed the IDF to prepare for "an expansion of IDF activity in Lebanon." Hezbollah simultaneously claimed 27 attacks on IDF in an 18-hour window — the highest since the war began. If Israel opens a major Lebanon ground operation, the war's geographic scope would significantly expand.</p>
+
+<h3>IRANIAN USVs HIT TWO SHIPS OFF BASRA</h3>
+<p>ISW (March 12): Suspected Iranian unmanned surface vessels (USVs) struck the US-owned SAFESEA VISHNU (Marshall Islands-flagged) and the ZEFYROS (Malta-flagged) off the coast of Basra, Iraq overnight March 11-12. Iran's USV program — first confirmed earlier in this conflict — is now an active threat beyond the Strait of Hormuz into Iraqi coastal waters.</p>
+
+<h3>PARCHIN NUCLEAR COMPLEX STRUCK</h3>
+<p>IDF struck the Taleghan 2 site at Iran's Parchin military complex (Tehran Province) on March 12. Taleghan 2 was previously used to test explosives needed to detonate a nuclear device. This confirms the campaign now includes direct targeting of Iran's nuclear weapons development infrastructure.</p>
+
+<h3>RUSSIAN OIL SANCTIONS — EUROPE PUSHES BACK</h3>
+<p>US Treasury Secretary Bessent's 30-day Russian oil sanctions waiver (announced March 13) is drawing sharp European resistance: German Chancellor Merz called it "wrong"; Macron said it "in no way" justified the relief; Canadian PM Carney wants Russia shadow fleet sanctions maintained. UK Foreign Secretary Cooper declined to criticize the US decision but called Russia and Iran a joint threat "hijacking the global economy." Average US fuel prices up 65 cents/gallon in a month; Brent remains ~$100.</p>
+
+<hr/>
+
+<h3>AI: xAI GROK-4.20 MULTI-AGENT BETA — UP TO 16 PARALLEL AGENTS</h3>
+<p>xAI released Grok-4.20 Multi-Agent Beta on March 9 (available via OpenRouter, grok.com). The standout feature: reasoning effort levels directly control agent count:</p>
+<ul>
+<li>Low/medium effort: 4 agents working in parallel</li>
+<li>High/xhigh effort: 16 agents in parallel</li>
+<li>2M context window; $2/M input, $6/M output; multimodal</li>
+</ul>
+<p>Also released March 9: Grok-4.20 Non-Reasoning and Grok-4.20 Reasoning as separate variants. All three accessible via API/OpenRouter. xAI's data moat: 68M English posts/day from X's firehose for real-time signal ingestion.</p>
+
+<h3>AI: OPENCLAW HITS 310K GITHUB STARS</h3>
+<p>OpenClaw v2026.3.12 shipped March 13 — the open-source always-on AI assistant framework now stands at <strong>310,000 GitHub stars</strong>, making it one of the fastest-growing projects in history. This release brings:</p>
+<ul>
+<li>Dashboard v2: modular overview, chat, config, agent, and session views + command palette + mobile tabs</li>
+<li>GPT-5.4 fast mode + Claude fast mode (maps to Anthropic's service_tier API)</li>
+<li>Kubernetes starter deploy path with raw manifests</li>
+<li>Agent <code>sessions_yield</code>: orchestrators can end turns immediately, carrying hidden follow-up payload into next session</li>
+<li>Security fixes: short-lived bootstrap tokens, disabled implicit workspace plugin auto-load</li>
+</ul>
+
+<p><em>Next update ~06:00 UTC March 15. Shabdis ETA Chabahar tomorrow. GTC keynote Monday 11am PT.</em></p>
+      ]]></description>
+      <pubDate>Sat, 14 Mar 2026 18:00:00 +0000</pubDate>
+      <guid>serenity-news-2026-03-14-1801</guid>
+    </item>
+<item>
       <title><![CDATA[BDA Update: 6,000 Targets Struck, 10K+ IRGC KIA/WIA, Missile Crews Deserting — Israel Hits Quds Day Rally — Microsoft Phi-4-Reasoning-Vision, GTC Mystery Chip]]></title>
       <link>https://elliottshort.github.io/news-feed/</link>
       <description><![CDATA[
@@ -152,7 +201,7 @@
     <link>https://elliottshort.github.io/news-feed/</link>
     <description>Curated news briefings: Iran/ME conflict, AI/ML, fintech, NYC politics. Updated every 12 hours.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 14 Mar 2026 12:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Mar 2026 18:00:00 +0000</lastBuildDate>
     <atom:link href="https://elliottshort.github.io/news-feed/feed.xml" rel="self" type="application/rss+xml"/>
                                                                                                                             <item>
     <title>Iran war Day 13: Michigan synagogue attack as markets crash; KC-135 crew fate unknown; IEA warns of largest oil disruption in history</title>
