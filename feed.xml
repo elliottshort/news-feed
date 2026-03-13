@@ -5,9 +5,31 @@
     <link>https://elliottshort.github.io/news-feed/</link>
     <description>Curated news briefings: Iran/ME conflict, AI/ML, fintech, NYC politics. Updated every 12 hours.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Mar 2026 19:52:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 00:04:00 +0000</lastBuildDate>
     <atom:link href="https://elliottshort.github.io/news-feed/feed.xml" rel="self" type="application/rss+xml"/>
                                                                                                                         <item>
+      <title>Day 13: KC-135 Crashes in Iraq; Iran Cyberattack Hits US Hospitals; Hezbollah 200+ Rockets; Navy Abandons Hormuz Escort Plan</title>
+      <link>https://elliottshort.github.io/news-feed/</link>
+      <description><![CDATA[
+<p><strong>KC-135 STRATOTANKER DOWN IN WESTERN IRAQ — CREW STATUS UNKNOWN</strong></p>
+<p>A US Air Force KC-135 Stratotanker crashed in western Iraq late Thursday during Operation Epic Fury. CENTCOM confirmed a mid-air incident involving two KC-135s; one went down, the other diverted safely to Ben Gurion Airport. "Not due to hostile or friendly fire," CENTCOM said, with rescue efforts ongoing. KC-135s carry crews of 6 with no ejection seats. This is the fourth US aircraft lost in the war and the first KC-135 crash since 2013. [<a href="https://breakingdefense.com/2026/03/kc-135-tanker-involved-in-epic-fury-goes-down-in-iraq-centcom/">Breaking Defense</a> | <a href="https://www.twz.com/air/kc-135-tanker-crashes-in-iraq-during-operation-epic-fury-sortie">The War Zone</a>]</p>
+
+<p><strong>IRAN CYBER WAR HITS US HOSPITALS: STRYKER ATTACK DISRUPTS EMERGENCY EMS</strong></p>
+<p>Iran-linked hacking group Handala wiped 200,000+ systems at medical device giant Stryker (56K employees, 61 countries), seizing 50TB of data in apparent retaliation for the Minab school strike (168 killed). Stryker filed an SEC 8-K disclosing a "global network disruption to our Microsoft environment." The attack knocked out LifeNet — an EMS ECG transmission system used by first responders — across most of Maryland. Cybersecurity experts say Handala's targeting and tactics are "consistent with Iranian state actors." Stryker shares fell 3.6%. [<a href="https://www.aljazeera.com/news/2026/3/11/iran-linked-hackers-hit-medical-giant-stryker-in-retaliatory-cyberattack">Al Jazeera</a> | <a href="https://www.reuters.com/technology/stryker-shares-fall-after-report-suspected-iran-linked-cyberattack-2026-03-11/">Reuters</a>]</p>
+
+<p><strong>HEZBOLLAH 200+ ROCKETS; ISRAEL EXPANDS LEBANON CAMPAIGN</strong></p>
+<p>Hezbollah fired 200+ rockets and missiles into northern Israel overnight March 12-13 — the largest single barrage since Day 1 — sending millions to shelters and drawing direct hits in Upper Galilee. IRGC-Hezbollah joint missile operation confirmed. Israel announced it is preparing to expand its ground incursion into southern Lebanon. In a striking break, Lebanese President Aoun publicly denounced Hezbollah and called for direct Lebanon-Israel talks. Lebanon toll: ~820,000 displaced, ~700 killed. [<a href="https://www.bloomberg.com/news/articles/2026-03-12/israel-expands-war-on-hezbollah-in-lebanon-as-crisis-grows">Bloomberg</a>]</p>
+
+<p><strong>US NAVY: HORMUZ ESCORTS "TOO DANGEROUS — FOR NOW"</strong></p>
+<p>Behind closed doors, US Navy commanders told officials that actively escorting commercial vessels through the Strait of Hormuz is too dangerous at current threat levels, per gCaptain. 19 commercial ships struck since Feb. 28; only 5 tankers departed the Gulf in 24 hours. Trump pivoted Thursday from his "drill baby drill" posture: "When oil prices go up, we make a lot of money" — framing the crisis as a US revenue windfall. Brent settled at $100.46. S&amp;P 500 fell 1.5%, Dow -739 pts. [<a href="https://gcaptain.com/behind-closed-doors-u-s-navy-says-hormuz-escorts-are-too-dangerous-for-now/">gCaptain</a> | <a href="https://apnews.com/article/oil-stocks-markets-iran-crude-trump-45f78a8cfe9a5c7e1a2279150a2f90f1">AP</a>]</p>
+
+<p><em>Day 13 war summary: 4 US aircraft lost total; ~140 US wounded (8 severely); 8 KIA; Iran 1,348+ killed, 3.2M displaced; 19 commercial vessels struck; Hormuz 90%+ shut. No ceasefire path — Mojtaba vows Hormuz stays closed. NVIDIA Nemotron 3 Super (120B/12B active, 5x throughput, open weights) launched March 11 for agentic AI.</em></p>
+]]>
+</description>
+      <pubDate>Fri, 13 Mar 2026 00:04:00 +0000</pubDate>
+      <guid>serenity-news-2026-03-13-0000</guid>
+    </item>
+    <item>
       <title>Mojtaba Khamenei Breaks Silence: Hormuz Must Stay Closed, US Bases Will Be Attacked — Day 13</title>
       <description><![CDATA[Iran's newly appointed Supreme Leader Mojtaba Khamenei (56) issued his first public statement since taking power March 9 — read by a state TV anchor, with no camera appearance, consistent with Israeli intelligence assessments that he was wounded in the February 28 opening strikes. The statement was maximalist and escalatory: (1) "The leverage of closing the Strait of Hormuz must continue to be used." (2) All US military bases in the Middle East "should be shut down immediately — or they will be attacked." (3) Gulf states should evict US forces, calling US protection "nothing more than a lie." (4) Called on Houthi forces in Yemen and Iraqi militias to "help the Islamic revolution." The statement signals leadership continuity and a hardening war posture, ruling out any imminent ceasefire under pressure. Separately: Iran's UN Ambassador reported at least 1,348 Iranian civilians killed; UNHCR counts 3.2 million displaced; UNICEF says 1,100 children among casualties. US forces have now struck 28 Iranian mine-laying vessels (up from 16 on March 11). Three more commercial vessels were hit in the Strait on March 12, bringing the total to 14 struck since February 28. Hormuz remains effectively closed to oil traffic. Sources: AP, NBC News, Al Jazeera, CNBC, UNHCR, UNICEF — March 12, 2026.]]></description>
       <pubDate>Thu, 12 Mar 2026 21:00:00 +0000</pubDate>
