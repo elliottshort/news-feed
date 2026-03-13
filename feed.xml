@@ -2,6 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
               <item>
+      <title>IRGC's Aircraft Carrier Claim Cycle; US 'No Exit Strategy' Analysis; GTC Keynote Underway</title>
+      <link>https://elliottshort.github.io/news-feed/</link>
+      <description><![CDATA[
+<p><strong>Two weeks into the war, a clear information-warfare pattern has solidified: Iran makes bold operational claims, the US denies them, and neither side can fully prove its case. Meanwhile, a blunt strategic assessment from Small Wars Journal says the US entered this war with a plan for the headline but not the story.</strong></p>
+
+<h3>The Abraham Lincoln Claim Cycle: Iran's Persistent Carrier Strike Story</h3>
+<p>Iran's IRGC Navy has claimed, repeatedly and since March 1, that its ballistic missiles struck and disabled the USS Abraham Lincoln aircraft carrier, forcing it to retreat from Gulf waters. The most recent claim on March 13 asserted a precision strike using "advanced missiles and drones" that targeted the carrier approximately 340 km from Iran's maritime boundary in the Sea of Oman, after which the US strike group was allegedly seen "fleeing at high speed."</p>
+<p>US CENTCOM has denied every iteration: missiles "didn't even come close" (March 1); carrier "continues to support Operation Epic Fury" (March 13). CBS News reported a US Navy vessel fired on an Iranian ship that sailed too close to the Abraham Lincoln on March 13 — though the status of the Iranian vessel is unknown. In a separate incident, two sailors aboard the USS Gerald R. Ford — the world's largest aircraft carrier, also deployed for Operation Epic Fury — were injured in a laundry room fire. Both injuries are non-life-threatening. Iranian state-affiliated media has amplified the carrier-strike claims without independent verification; NDTV Profit notes the claims originate from IRGC-affiliated channels rather than official Iranian government statements. The carrier battle space is the psychological center of gravity for both sides: Iran needs the American public to believe its forces can threaten the most powerful naval asset in the world; the US needs to demonstrate Iran cannot.</p>
+
+<h3>"The Strategy We Are Not Prosecuting": A Damning Assessment</h3>
+<p>Small Wars Journal published a striking strategic critique on March 13 (by Joe Funderburke) titled "The Strategy We Are Not Prosecuting: Options for Senior Leaders in the Iran War." The analysis:</p>
+<ul>
+<li>Operation Epic Fury addressed Iran's nuclear headline while leaving the underlying story — Tehran's regional proxy network and asymmetric resistance strategy — largely intact</li>
+<li>Two weeks in: 7 US service members KIA, ~140 wounded, Hormuz effectively closed, oil above $100, 170+ schoolgirls killed by a decade-old Tomahawk targeting coordinate</li>
+<li>"The Trump administration cannot coherently articulate what victory looks like" — White House factions have competing definitions, none of which have been publicly committed to</li>
+<li>A new supreme leader (Mojtaba Khamenei) "backed by the IRGC and hostile to diplomatic compromise" has been installed, making even a negotiated off-ramp harder than with Ali Khamenei</li>
+<li>The article predicts the conflict "has deteriorated faster than anticipated" since the author's previous warning two weeks prior</li>
+</ul>
+
+<h3>GTC Keynote: Underway Now — Recap Next Dispatch</h3>
+<p>Jensen Huang's two-hour keynote at SAP Center in San Jose began at 11am PT today. Vera Rubin, Rubin CPX, Feynman (TSMC A16 1.6nm), and the N1X AI PC Superchip are all expected to be formally announced with full specs. The Groq LPU integration into the Vera Rubin inference stack is expected to feature prominently, addressing the "goldilocks zone" problem identified in SemiAnalysis InferenceX benchmarks — where NVIDIA's NVL72 racks become progressively less efficient at high-interactivity, low-latency token generation. Full keynote recap in the next dispatch once indexed.</p>
+
+<h3>War State Snapshot: Day 17</h3>
+<p>No ceasefire talks confirmed. Iran's three conditions (recognition, reparations, binding guarantees) remain non-negotiable per FM Araghchi. Roughly a dozen confirmed mines in Hormuz with Iran retaining 80–90% small-boat capacity for further deployment. Barzin (suspected sodium perchlorate, China → Bandar Abbas) ETA March 20. Brent above $100. Trump's public statements oscillate between "we won" and fresh escalation threats — White House factions unresolved per Reuters exclusive.</p>
+]]></description>
+      <pubDate>Mon, 17 Mar 2026 18:00:00 +0000</pubDate>
+      <guid>serenity-news-2026-03-17-1800</guid>
+    </item>
+    <item>
       <title>Iran Mines Hormuz With Small Boats After CENTCOM Destroyed Large Minelayers; NVIDIA's $20B Groq Acqui-Hire Primes Vera Rubin for Inference Era</title>
       <link>https://elliottshort.github.io/news-feed/</link>
       <description><![CDATA[
@@ -450,7 +479,7 @@
     <link>https://elliottshort.github.io/news-feed/</link>
     <description>Curated news briefings: Iran/ME conflict, AI/ML, fintech, NYC politics. Updated every 12 hours.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 17 Mar 2026 12:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Mar 2026 18:00:00 +0000</lastBuildDate>
     <atom:link href="https://elliottshort.github.io/news-feed/feed.xml" rel="self" type="application/rss+xml"/>
                                                                                                                             <item>
     <title>Iran war Day 13: Michigan synagogue attack as markets crash; KC-135 crew fate unknown; IEA warns of largest oil disruption in history</title>
