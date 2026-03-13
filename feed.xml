@@ -2,6 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
               <item>
+      <title>Iran Mines Hormuz With Small Boats After CENTCOM Destroyed Large Minelayers; NVIDIA's $20B Groq Acqui-Hire Primes Vera Rubin for Inference Era</title>
+      <link>https://elliottshort.github.io/news-feed/</link>
+      <description><![CDATA[
+<p><strong>Iran adapted faster than Washington anticipated: after the US military eliminated Iran's large mine-laying fleet, Tehran switched to small boats and quietly laid roughly a dozen mines in the Strait of Hormuz — a revelation that caught the Trump administration off guard and exposes the limits of CENTCOM's counter-mining campaign.</strong></p>
+
+<h3>Iran Mining Hormuz: Confirmed, Small Boats, ~12 Mines — Trump Admin "Surprised"</h3>
+<p>Iran has deployed approximately a dozen mines in the Strait of Hormuz using small boats, two US officials confirmed to the New York Times and CNN on March 12–13. The development caught the Trump administration off guard because the US military had previously focused its counter-mining campaign on destroying Iran's larger, purpose-built minelaying vessels — of which CENTCOM says it eliminated at least 30. Iran pivoted to using the IRGC's vast fleet of small patrol boats to lay mines instead, an approach that is significantly harder to interdict. Iran still retains an estimated 80–90% of its small boat fleet, meaning it has the theoretical capacity to deploy hundreds more mines.</p>
+<p>Trump posted on Truth Social: "If Iran has put out any mines in the Hormuz Strait, and we have no reports of them doing so, we want them removed, IMMEDIATELY!" — a statement made the same day US officials were privately confirming to reporters that mines were in the water. The Pentagon publicly downplayed the situation: "Don't need to worry about it," a spokesman told The Hill on March 13. An Iranian deputy foreign minister denied the mining claim on the same day US intelligence confirmed it. De-mining the strait is estimated to take weeks to months even after any ceasefire, and requires specialized vessels the US has in limited numbers.</p>
+
+<h3>NVIDIA's $20B Groq Acqui-Hire: The Hidden Engine Behind Vera Rubin</h3>
+<p>A significant piece of NVIDIA's GTC narrative that hasn't received broad coverage: NVIDIA finalized a $20 billion strategic deal to absorb Groq — the LPU (Language Processing Unit) startup — in late December 2025. The deal is structured as a non-exclusive IP licensing agreement plus an acqui-hire of approximately 90% of Groq's engineering talent. Groq founder Jonathan Ross, the former Google engineer who co-created the original Tensor Processing Unit (TPU), is now NVIDIA's Senior Vice President of Inference Architecture.</p>
+<p>The strategic logic: while NVIDIA dominates AI training, the industry has pivoted toward high-volume inference, where NVIDIA's GPU architecture faces a structural "memory wall" — data can't move fast enough between HBM and processors for real-time token generation at scale. Groq's LPU uses on-chip SRAM and deterministic compute to eliminate that bottleneck. Jensen Huang is expected to detail at today's keynote how Groq's LPU technology integrates into the Vera Rubin platform — specifically targeting the "goldilocks zone" of interactive, low-latency token generation where NVIDIA's current NVL72 rack systems become progressively less efficient. The Groq acquisition neutralizes NVIDIA's most formidable inference-era technical challenger and gives Vera Rubin a differentiated architecture story beyond raw compute scale.</p>
+
+<h3>Hormuz: The Strategic Picture</h3>
+<p>With mines now confirmed in the water and Iran retaining overwhelming small-boat capacity, the Strait of Hormuz closure appears durable regardless of what happens on the military front. Key dynamics: (1) IRGC small boat fleet is essentially undefeatable at scale — hundreds of vessels dispersed across coastline; (2) Trump's "remove mines or face consequences" framing is undermined by the US simultaneously downplaying the mining publicly; (3) de-mining without Iranian cooperation requires specialized assets and weeks of operational time even after a ceasefire; (4) Iran's deputy FM denial while mines are being laid suggests deliberate information warfare to maintain deniability. Brent remains above $100. Barzin (suspected sodium perchlorate) still inbound, ETA Bandar Abbas March 20.</p>
+]]></description>
+      <pubDate>Mon, 17 Mar 2026 12:00:00 +0000</pubDate>
+      <guid>serenity-news-2026-03-17-1200</guid>
+    </item>
+    <item>
       <title>Pentagon Escalates Iran School-Strike Probe; Hegseth: Mojtaba Wounded, Likely Disfigured; Israel Hits Checkpoints via Ground Informants</title>
       <link>https://elliottshort.github.io/news-feed/</link>
       <description><![CDATA[
@@ -430,7 +450,7 @@
     <link>https://elliottshort.github.io/news-feed/</link>
     <description>Curated news briefings: Iran/ME conflict, AI/ML, fintech, NYC politics. Updated every 12 hours.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 17 Mar 2026 06:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Mar 2026 12:00:00 +0000</lastBuildDate>
     <atom:link href="https://elliottshort.github.io/news-feed/feed.xml" rel="self" type="application/rss+xml"/>
                                                                                                                             <item>
     <title>Iran war Day 13: Michigan synagogue attack as markets crash; KC-135 crew fate unknown; IEA warns of largest oil disruption in history</title>
