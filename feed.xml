@@ -1,7 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-          <item>
+            <item>
+    <title>First French Soldier Killed in Erbil; Dubai DIFC Hit; GTC Keynote Eve — Jensen's "World-Surprising" Chip Tomorrow</title>
+    <link>https://elliottshort.github.io/news-feed/</link>
+    <description><![CDATA[
+      <h2>Iran–US War: Day 16 Evening Update — March 15, 2026</h2>
+
+      <h3>First French Death: CWO Arnaud Frion Killed in Erbil Drone Strike</h3>
+      <p>French President Emmanuel Macron confirmed the first French military fatality of the war: Chief Warrant Officer <strong>Arnaud Frion</strong> of the 7th Chasseurs Alpins Battalion was killed in a drone strike on a counterterrorism training base at Mala Qara, ~40km from Erbil in Iraqi Kurdistan. Several other soldiers were wounded. The strike involved two drones and was claimed by <strong>Islamic Resistance in Iraq</strong> (Ashab Alkahf faction), which had pre-warned that French interests were now targets after a French carrier arrived in CENTCOM's operational area. Macron: "Their presence in Iraq is strictly within the framework of the fight against terrorism. The war in Iran cannot justify such attacks." France has stationed troops in the region since 2015 as part of the anti-ISIS coalition. This is the first NATO-member fatality of the war and marks a significant political escalation — Italy withdrew from Erbil days earlier, but France stayed. Iraq is now a confirmed second battlefield, with pro-Iranian groups targeting all foreign military presence.</p>
+
+      <h3>Dubai Financial District Struck — Black Smoke Near Burj Khalifa</h3>
+      <p>A kamikaze drone breached UAE air defenses over central Dubai on March 13, with debris from an intercepted projectile striking a building in the <strong>Dubai International Financial Centre (DIFC)</strong> — one of the world's premier financial hubs, located steps from the Burj Khalifa. Black smoke was visible over the financial district. UAE authorities confirmed the interception but acknowledged debris reached a building in the Al Quoz area. "An explosion at the Dubai International Financial Centre, right next to my building," one witness wrote on X. This comes after UAE air defenses had already intercepted 10 ballistic missiles and 26 drones in preceding days. Financial markets traders in DIFC — home to hundreds of hedge funds, banks and asset managers — reported buildings shaking. The strike signals Iran's willingness to target global financial infrastructure.</p>
+
+      <h3>Axis of Resistance: First Simultaneous Hezbollah-IRGC Barrage; Iraqi Militia Surge</h3>
+      <p>Reuters and AL-Monitor confirm Hezbollah and Iran's IRGC conducted their <strong>first-ever simultaneous coordinated rocket barrage</strong> on Israel — Hezbollah firing 200 rockets in coordination with IRGC operations. Israeli defenses intercepted all but two. The joint execution demonstrates a new level of operational coordination across the Axis of Resistance. Separately, Iraqi Shi'a militias — including Kata'ib Hezbollah and Harakat al-Nujaba — have significantly stepped up drone and missile attacks on US interests in Iraq over the past 3-4 days. CENTCOM has responded with targeted strikes on militia command infrastructure in Iraq. The Axis, though weakened by 16 days of strikes, is demonstrating it can sustain and even accelerate multi-front operations.</p>
+
+      <h3>Iran Targets Turkish Base Hosting US Troops</h3>
+      <p>Video verified by Al Jazeera shows a projectile landing near a Turkish military base in northern Iraq that also hosts US troops. No casualties have been reported but the incident expands Iran's targeting to NATO-member military infrastructure. Turkey has not formally entered the conflict and maintains back-channel communication with Tehran.</p>
+
+      <h3>GTC Eve: Jensen's "World-Surprising Chip" — Keynote Tomorrow 11am PT</h3>
+      <p>NVIDIA GTC 2026 opens tomorrow. Jensen Huang delivers the keynote at 11am PT (2pm ET) at the SAP Center, San Jose — 30,000 in person, 300,000+ livestream at nvidia.com/gtc. NVIDIA's market cap is ~$4.6 trillion, making this "the Super Bowl of AI" with more financial stakes than any prior GTC.</p>
+      <p><strong>What Jensen has teased:</strong> "Several new chips the world has never seen before." Industry consensus is the "surprise" is a dual-pronged move into consumer AI and infrastructure: the <strong>N1X AI PC Superchip</strong> — co-developed with a partner, built with Silicon Photonics for hybrid on-device/cloud inference — alongside the confirmed <strong>Vera Rubin</strong> GPU (10x inference cost reduction vs. current gen), <strong>Rubin CPX</strong> (1M-token context), and the first architectural look at <strong>Feynman</strong> (TSMC A16 1.6nm, purpose-built for AI agent long-term memory and reasoning). NemoClaw — NVIDIA's open-source enterprise AI agent platform — formally launches tomorrow. At GTC Park (March 16-19, 8am-5pm), attendees can "Build-a-Claw" — customizing and deploying personal AI agents on-site using OpenClaw, with NVIDIA DGX Spark hardware available to buy.</p>
+
+      <h3>War Economy: Barzin Still En Route, Dubai Tankers Frozen</h3>
+      <p>The second Chinese rocket-fuel ship, <strong>Barzin</strong>, continues toward Bandar Abbas with ETA March 20. No US interdiction action taken on Shabdis (which arrived Chabahar this morning) or Barzin. The US 30-day OFAC license for Russian oil at sea runs through April 11. Brent remains above $100 with the IEA's 400M-barrel release having failed to break the psychological floor. Shipping frozen across the Gulf — 500+ tankers bottled — with tanker owners now citing "act of war" insurance clauses to exit voyages without penalty.</p>
+    ]]></description>
+    <pubDate>Sun, 15 Mar 2026 18:00:00 +0000</pubDate>
+    <guid>serenity-news-2026-03-15-1801</guid>
+  </item>
+<item>
     <title>Shabdis Arrives Chabahar; Mojtaba Vows Revenge; NVIDIA NemoClaw Debuts at GTC Tomorrow</title>
     <link>https://elliottshort.github.io/news-feed/</link>
     <description><![CDATA[
@@ -282,7 +310,7 @@
     <link>https://elliottshort.github.io/news-feed/</link>
     <description>Curated news briefings: Iran/ME conflict, AI/ML, fintech, NYC politics. Updated every 12 hours.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Mar 2026 12:01:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Mar 2026 18:01:00 +0000</lastBuildDate>
     <atom:link href="https://elliottshort.github.io/news-feed/feed.xml" rel="self" type="application/rss+xml"/>
                                                                                                                             <item>
     <title>Iran war Day 13: Michigan synagogue attack as markets crash; KC-135 crew fate unknown; IEA warns of largest oil disruption in history</title>
