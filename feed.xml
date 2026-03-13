@@ -2,6 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
               <item>
+      <title>GTC 2026 Keynote Day: NVIDIA + Thinking Machines Lab Gigawatt Deal Confirmed; Jensen Huang Takes Stage</title>
+      <link>https://elliottshort.github.io/news-feed/</link>
+      <description><![CDATA[
+<p><strong>GTC 2026 opens in San Jose today as Jensen Huang delivers the most-watched AI hardware keynote of the year — and NVIDIA's first confirmed gigawatt-scale Vera Rubin customer is already on the board before he walks onstage.</strong></p>
+
+<h3>NVIDIA + Thinking Machines Lab: First Gigawatt-Scale Vera Rubin Customer</h3>
+<p>NVIDIA and Thinking Machines Lab — the AI company founded by former OpenAI CTO Mira Murati — announced a multiyear strategic partnership to deploy at least one gigawatt of next-generation NVIDIA Vera Rubin systems for frontier model training. NVIDIA made a significant equity investment in Thinking Machines as part of the deal, targeting deployment as early as 2027. Jensen Huang: "world-class team." Murati: "NVIDIA is the foundation on which the entire field is built." This is the first confirmed major Vera Rubin customer deal at gigawatt scale — announced March 10, before GTC opened.</p>
+
+<h3>GTC 2026 Pre-Show (8am PT): Industry Leaders on the AI Infrastructure Build-Out</h3>
+<p>Hosted by Sarah Guo (Conviction), Gavin Baker (Atreides Management), and Alfred Lin (Sequoia Capital), the GTC Live pre-show runs three hours ahead of Jensen's keynote. Key guests across five tracks:</p>
+<ul>
+<li><strong>Accelerated computing:</strong> Palantir President Aki Jain, Cadence CEO Anirudh Devgan, IBM's Dinesh Nirmal, Morgan Stanley's Mark Edelstone</li>
+<li><strong>AI infrastructure:</strong> Dell CEO Michael Dell, CoreWeave CEO Michael Intrator, Caterpillar CEO Joe Creed, Fireworks AI CEO Lin Qiao</li>
+<li><strong>Open models:</strong> Cohere CEO Aidan Gomez, Perplexity CEO Aravind Srinivas, Mistral CEO Arthur Mensch, Black Forest Labs CEO Robin Rombach</li>
+<li><strong>Agentic AI:</strong> LangChain CEO Harrison Chase, <strong>OpenClaw creator Peter Steinberger</strong>, PrimeIntellect CEO Vincent Weisser, Edison Scientific CEO Samuel Rodriques</li>
+<li><strong>Physical AI:</strong> Waabi CEO Raquel Urtasun, SkildAI CEO Deepak Pathak, PhysicsX CEO Jacomo Corbo</li>
+</ul>
+
+<h3>Jensen Keynote (11am PT): Expected Announcements</h3>
+<p>30,000 in-person at SAP Center (San Jose Sharks arena); 300,000+ livestreaming. Jensen's two-hour keynote covers the full stack — chips, software, models, applications. Key expected reveals: <strong>Vera Rubin</strong> (10x inference cost reduction vs. Blackwell), <strong>Rubin CPX</strong> (1M-token context, enough to read an entire codebase in one shot), <strong>Feynman</strong> (first public reveal on TSMC A16 1.6nm with Silicon Photonics — NVIDIA reportedly TSMC's first and only early A16 customer), and <strong>N1X</strong> AI PC Superchip. OpenClaw "Build-a-Claw" event runs GTC Park March 16–19.</p>
+
+<h3>Jensen to Moderate Open Models Panel (March 18)</h3>
+<p>On Wednesday March 18 at 12:30pm PT, Jensen will personally moderate a panel on open models vs. frontier closed models with LangChain's Harrison Chase, plus leaders from A16Z, AI2, Cursor, and Thinking Machines Lab — cementing Murati's presence at the center of NVIDIA's open-model narrative.</p>
+
+<h3>Iran-US War: Day 17 — Overnight Quiet, Barzin Inbound</h3>
+<p>No major new anchor events overnight. Barzin (China-flagged, suspected sodium perchlorate) remains inbound to Bandar Abbas with ETA March 20 — no US interdiction signaled. Iran's three ceasefire conditions (recognition, reparations, binding guarantees) remain in place; no negotiations confirmed. US strategic recalibration continues after Reuters report (3 sources) that the Iranian regime is "not in danger of collapse." Brent crude remains above $100. De-mining of Hormuz estimated weeks-to-months even if ceasefire announced.</p>
+]]></description>
+      <pubDate>Mon, 16 Mar 2026 19:00:00 +0000</pubDate>
+      <guid>serenity-news-2026-03-16-1900</guid>
+    </item>
+    <item>
     <title>US Intel: Iran Regime Not Collapsing; Netanyahu Drops Regime Change Goal; FBI: Iran Eyed California Drone Strike</title>
     <link>https://elliottshort.github.io/news-feed/</link>
     <description><![CDATA[
@@ -337,7 +368,7 @@
     <link>https://elliottshort.github.io/news-feed/</link>
     <description>Curated news briefings: Iran/ME conflict, AI/ML, fintech, NYC politics. Updated every 12 hours.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Mar 2026 19:00:00 +0000</lastBuildDate>
     <atom:link href="https://elliottshort.github.io/news-feed/feed.xml" rel="self" type="application/rss+xml"/>
                                                                                                                             <item>
     <title>Iran war Day 13: Michigan synagogue attack as markets crash; KC-135 crew fate unknown; IEA warns of largest oil disruption in history</title>
