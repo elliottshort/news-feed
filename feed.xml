@@ -2,6 +2,67 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
         <item>
+      <title><![CDATA[BDA Update: 6,000 Targets Struck, 10K+ IRGC KIA/WIA, Missile Crews Deserting — Israel Hits Quds Day Rally — Microsoft Phi-4-Reasoning-Vision, GTC Mystery Chip]]></title>
+      <link>https://elliottshort.github.io/news-feed/</link>
+      <description><![CDATA[
+<p><strong>Day 15 | March 14, 2026 — 12:00 UTC</strong></p>
+
+<h3>BDA DEEP DIVE: CAMPAIGN TOTALS (Alma Research / CENTCOM)</h3>
+<p>Per CENTCOM data and Israeli military officials (Alma Research March 13 report):</p>
+<ul>
+<li><strong>6,000 targets struck</strong> across Iran since February 28</li>
+<li><strong>90+ Iranian vessels</strong> destroyed or damaged</li>
+<li><strong>Missile launcher arsenal:</strong> Israeli estimate — 160-190 ballistic missile launchers destroyed; ~200 more blocked/disabled; ~150 active launchers remaining. Bloomberg counters: ~60% destroyed, "held largely steady" — methodological dispute over how to count mobile vs. fixed launchers.</li>
+<li><strong>10,000+ Iranian security and internal forces</strong> killed or wounded since Feb 28 (per Israeli military official, N12)</li>
+<li><strong>Missile crews deserting and refusing orders</strong> due to constant fear of being hunted — Iranian missile personnel cited as "terrified" by daily hunter-killer operations</li>
+</ul>
+
+<h3>24-HOUR STRIKE SUMMARY (Alma Research, Day 14)</h3>
+<p>Over the past 24 hours — more than 200 targets struck at 10+ sites:</p>
+<ul>
+<li><strong>Shiraz:</strong> Underground ballistic missile production and storage site; air force base; airport control tower</li>
+<li><strong>Tehran:</strong> Air defense array central base; weapons production and defense components facilities; Basij unit checkpoints</li>
+<li><strong>Ahvaz:</strong> IRGC Ground Forces HQ; central internal security HQ</li>
+<li>+ Bandar Abbas AF base, Khomein missile base, Bushehr, Karaj, Qom, Arak</li>
+</ul>
+
+<h3>ISRAEL STRIKES QUDS DAY RALLY IN CENTRAL TEHRAN</h3>
+<p>A large explosion rocked a central Tehran square during Iran's annual Quds Day rally on Friday March 13 — Israel had explicitly warned it would target the area. Thousands of protesters including senior officials were present. No casualties reported immediately. Iran's propaganda machine pressed on: "the regime's strength and survivability." The decision to warn and then strike a mass demonstration underscores the campaign's psychological dimension alongside military objectives.</p>
+
+<h3>LEBANON HUMANITARIAN CRISIS DEEPENS</h3>
+<p>AP (March 13): Lebanon death toll now ~800 killed, 850,000 displaced. Israel continues waves of strikes against Hezbollah in southern Lebanon, Beqaa Valley, and Dahiyeh. Hezbollah's key political ally Amal Movement voted in favor of a Lebanese cabinet decision to ban Hezbollah's military activity — the first major fracture in the Amal-Hezbollah political alliance since 2005.</p>
+
+<h3>CENTCOM: "DECISIVE STEPS" VIDEO RELEASED</h3>
+<p>CENTCOM released new airstrike video Friday March 13, stating it is taking "decisive steps to neutralize Iran's power projection capabilities." The release is part of a sustained information operation alongside the kinetic campaign.</p>
+
+<hr/>
+
+<h3>AI: MICROSOFT PHI-4-REASONING-VISION-15B — Open Weight, Thinks When It Needs To</h3>
+<p>Microsoft released Phi-4-reasoning-vision-15B (March 4-5) — a 15B open-weight multimodal model with a standout feature: <strong>selective chain-of-thought reasoning</strong>. The model decides on its own when to reason and when to answer directly, based on task complexity. Key specs:</p>
+<ul>
+<li>Trained on ~200B tokens — roughly 1/5 the data used by Qwen3-VL and Gemma3</li>
+<li>ScreenSpot v2 (UI grounding): 88.2 — strong for computer-use agents</li>
+<li>Three modes: Hybrid (model decides), Think (force reasoning), Nothink (skip it)</li>
+<li>Available on Microsoft Foundry, HuggingFace, GitHub under permissive license</li>
+</ul>
+<p>Designed as a perception layer for computer-use agents. Pushes the Pareto frontier: competitive with models requiring 10x the compute.</p>
+
+<h3>GTC PREVIEW: NVIDIA MYSTERY CHIP — N1X + SILICON PHOTONICS?</h3>
+<p>With Jensen Huang keynote 2 days away (March 16, 11am PT), speculation is building on the "chip that will surprise the world":</p>
+<ul>
+<li><strong>N1X AI PC Superchip</strong>: Rumored NVIDIA+MediaTek joint venture — Arm-based SoC with 20 custom cores + integrated GPU matching RTX 5070 performance. Would put NVIDIA directly into the laptop AI PC market vs. Apple and Qualcomm.</li>
+<li><strong>Silicon Photonics breakthrough</strong>: Supply chain leaks suggest a data-center networking advance that addresses the "power wall" as GPU clusters scale beyond current electrical interconnects.</li>
+<li><strong>Feynman architecture</strong>: First public architectural reveal expected — designed specifically for reasoning tasks and long-term memory in agentic AI systems.</li>
+<li><strong>Vera Rubin deep dive</strong>: 336B transistors, HBM4 memory, 3.3–5x FP4 improvement over Blackwell.</li>
+</ul>
+<p>NVIDIA market cap at ~$4.6T entering the keynote. Free livestream at nvidia.com.</p>
+
+<p><em>Next update ~18:00 UTC March 14. GTC keynote Monday 11am PT.</em></p>
+      ]]></description>
+      <pubDate>Sat, 14 Mar 2026 12:00:00 +0000</pubDate>
+      <guid>serenity-news-2026-03-14-1201</guid>
+    </item>
+<item>
       <title><![CDATA[Iran Military Fractures: Artesh–IRGC Rift, Desertions, Supply Crisis — Netanyahu Veiled Kill Threat on Mojtaba — CENTCOM Destroys 30+ Minelayers]]></title>
       <link>https://elliottshort.github.io/news-feed/</link>
       <description><![CDATA[
@@ -91,7 +152,7 @@
     <link>https://elliottshort.github.io/news-feed/</link>
     <description>Curated news briefings: Iran/ME conflict, AI/ML, fintech, NYC politics. Updated every 12 hours.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 14 Mar 2026 06:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Mar 2026 12:00:00 +0000</lastBuildDate>
     <atom:link href="https://elliottshort.github.io/news-feed/feed.xml" rel="self" type="application/rss+xml"/>
                                                                                                                             <item>
     <title>Iran war Day 13: Michigan synagogue attack as markets crash; KC-135 crew fate unknown; IEA warns of largest oil disruption in history</title>
