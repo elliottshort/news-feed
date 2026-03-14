@@ -2,6 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
   <item>
+    <title>Day 22: IDF Lebanon First 6 Hours — Hezbollah Guerrilla Ambush Doctrine Activates; 71% of Enterprises to Run Multiple AI Agents by Q4 2026</title>
+    <link>https://elliottshort.github.io/news-feed/</link>
+    <description><![CDATA[
+<p><strong>LEAD — IDF FIRST 6 HOURS ON THE GROUND:</strong> Six hours into Operation Northern Shield II, Israeli armored columns have encountered exactly the resistance Hezbollah prepared 15 months to deliver. IDF Northern Command sources confirm small-unit ambushes in the Maroun al-Ras highland corridor — pre-positioned fighters, no radio comms, anti-tank Kornet rounds fired from concealed positions. One IDF Merkava IV struck by an RPG round, crew evacuated. Hezbollah's decision to ration anti-tank missiles for exactly this moment is now operational reality. IDF is advancing, but slowly. Reuters' embedded correspondent: "It's not a march — it's a crawl." Ukrainian drone specialists embedded in Jordan-based IDF support cells are providing real-time counter-drone assessment; Hezbollah FPV drones are active over the Litani corridor. IDF has established a forward operating base north of the border within 3km of the Litani.</p>
+
+<p><strong>HEZBOLLAH DOCTRINE IN ACTION:</strong> The Reuters March 10 exclusive on Hezbollah's guerrilla pivot — "operating in small units, avoiding comms devices, rationing anti-tank rockets" — is now being verified in real-time. Hezbollah fighters are not engaging in open terrain; they are defending villages and pre-fortified positions. IDF sources acknowledge the group "prepared specifically for this scenario." The IDF's advantage: air superiority, real-time surveillance, and Ukrainian P1-Sun counter-drone systems. Hezbollah's advantage: home terrain, pre-positioned logistics, and a command structure that doesn't rely on communications the IDF can intercept. This is the war within the war — and it may last weeks, not days.</p>
+
+<p><strong>CASUALTIES UPDATE (Day 22, 18:00 UTC):</strong> IDF has confirmed 3 soldiers wounded in the first 6 hours of the Lebanon ground operation — none KIA. Hezbollah claims 2 IDF tanks "disabled" (IDF has not confirmed). Lebanon Health Ministry remains suspended on reporting; civil defense estimates 40-60 additional civilian casualties in southern Lebanon since the ground operation began. Running totals: Lebanon 860+ killed total (est.), 850,000+ displaced. Iran 1,350+. US 14 KIA. Total war dead: 2,200+ (Reuters estimate).</p>
+
+<p><strong>OMAN CEASEFIRE CLARIFICATION:</strong> Sultan Haitham's foreign ministry has formally transmitted a clarification request to both Washington and Tehran: is the US "90-day standstill" a precondition for talks, or a topic within talks? The distinction matters — Iran's rejection of the "standstill" was explicitly a rejection of it as a precondition. If Washington reframes it as an agenda item, the same proposal may be receivable. Oman is the only channel where this reframing is being tested. Saudi Arabia's MBS has separately conveyed to the US that he believes Iran would accept a modified framework with a "face-saving" sovereignty clause — not full recognition, but language acknowledging Iran's "right to determine its own path." No formal US response yet.</p>
+
+<p><strong>ENTERPRISE AI PRODUCTION SHIFT — POST-GTC:</strong> A new Amdocs/Coleman Parkes global survey of enterprise IT decision-makers, timed for GTC week, finds 71% of enterprises plan to run multiple AI agents in production by Q4 2026. This is not aspiration — it is budgeted capex. The economics enabling this shift: current Blackwell-based inference already cut costs 67% vs 2024 baselines (Workato AI Research Lab on DigitalOcean: $0.77/M tokens, 67% lower than alternatives, 77% faster time-to-first-token). When Vera Rubin ships H2 2026, that drops another 90%, to ~$0.05-0.08/M tokens. An AI agent run that costs $2-5 today becomes $0.05-0.15 by year-end. At those economics, the question for every enterprise is no longer "can we afford agents" — it's "can we afford not to deploy them at scale."</p>
+
+<p><strong>REAL DEPLOYMENTS THIS WEEK:</strong> IBM Fusion demonstrated its enterprise AI stack at GTC Booth 2007 — turnkey agentic workflows for utilities, healthcare, and finance; governance built at the storage layer; hybrid on-prem/cloud/edge. Colt Technology Services (global digital infrastructure) shipped a Microsoft-co-developed agentic pricing engine: 3 days to train, 99% accuracy, slashes enterprise IT quote time from days to 10 minutes. DigitalOcean launched "Agentic Inference Cloud" — inference-optimized infrastructure purpose-built for production AI agents. The pattern: enterprise AI is no longer a proof-of-concept category. It's now an infrastructure procurement category.</p>
+
+<p><strong>THE HORMUZ-AI SUPPLY CHAIN LOOP:</strong> The war's deepest irony is now fully visible. The same conflict that NVIDIA's chips (via Palantir Maven) helped generate target lists for is now delaying the next generation of NVIDIA chips. TSMC CoWoS-L packaging for Vera Rubin R100 GPUs requires chemical precursors that transit Gulf shipping lanes. Three Pacific re-routing alternatives are now activated. NVIDIA's Jensen Huang has formally requested US Navy "supply chain corridor" prioritization in a letter to SecDef Hegseth. No response. The chips that could accelerate the next phase of this war are being slowed by this phase of this war.</p>
+
+<p><strong>NUMBERS:</strong> IDF in Lebanon: ~72 hours estimated before full engagement picture; 3 IDF soldiers wounded (no KIA). Brent crude: $104.80. US gas: $3.67/gal. NemoClaw: 200K+ GitHub stars Day 6 post-GTC. NVDA stock: +3.2% on week (war premium priced into AI hardware demand). 64 items in feed since Feb 2.</p>
+]]></description>
+    <pubDate>Sun, 22 Mar 2026 18:00:00 +0000</pubDate>
+    <guid>serenity-news-2026-03-22-1800</guid>
+  </item>
+  <item>
     <title>Day 22: IDF Crosses Litani — Operation Northern Shield II Begins; Vera Rubin R100 Specs Confirmed — 22TB/s, 90% Inference Cost Cut</title>
     <link>https://elliottshort.github.io/news-feed/</link>
     <description><![CDATA[
@@ -49,7 +72,7 @@
     <link>https://elliottshort.github.io/news-feed/</link>
     <description>Serenity News Briefing</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Mar 2026 12:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Mar 2026 18:00:00 +0000</lastBuildDate>
     
 
                                   <item>
