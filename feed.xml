@@ -2,6 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
   <item>
+    <title>Day 23: War Powers Clock — 37 Days Left, Two GOP Defectors Being Courted; IDF Encircles Khiam; AI Data Centers Harden After IRGC Target List</title>
+    <link>https://elliottshort.github.io/news-feed/</link>
+    <description><![CDATA[
+<p><strong>LEAD — WAR POWERS CLOCK COUNTDOWN:</strong> The constitutional clock is ticking. Under the War Powers Resolution, President Trump has until April 19 to obtain congressional authorization before he is legally required to withdraw US forces from the Iran conflict — absent a formal declaration of war. The first round of votes failed narrowly (House: 212-219; Senate: party-line), but Day 23 brings a changed political landscape. Khanna-Massie are courting at least two additional Republican House members who have privately expressed unease. The triggering factors: the Lebanon ground invasion (Operation Northern Shield II), the Minab school investigation (165-175 civilian deaths, US likely responsible), and $11.3B in war costs in just 6 days — with no end strategy presented to Congress. Rep. Andy Biggs (R-AZ) — who voted against the first resolution — has since said publicly he is "reviewing his position." Rep. Don Bacon (R-NE), a retired Air Force general, is asking the White House for a classified war strategy briefing before the next vote. If either crosses, the math flips to 214-217 in favor of the resolution.</p>
+
+<p><strong>THE CONSTITUTIONAL QUESTION:</strong> Constitutional scholars at the Lawfare Institute published a widely-circulated analysis Monday: Trump's legal theory — that the president has inherent authority to launch strikes without congressional approval when US interests and allies are threatened — is the most expansive reading of executive war power since the George W. Bush administration. The 60-day War Powers clock is not just procedural. If Trump does not seek authorization and does not withdraw by April 19, he will be the first president in modern history to openly defy the War Powers Resolution. Sen. Tim Kaine (D-VA): "This is a constitutional Rubicon, and the president is about to cross it." Senate Majority Leader Thune: "The president has full authority. The War Powers Resolution was never meant to tie the hands of a commander in chief responding to threats." Fetterman (D-PA) remains the only Democrat backing the president on this.</p>
+
+<p><strong>IDF ENCIRCLES KHIAM:</strong> After 30 hours of ground operations, IDF has completed a tactical encirclement of Khiam — the same hilltop town Israeli forces captured in 2000 and then evacuated under pressure in 2006. Khiam commands the eastern Litani approach and is one of the most heavily fortified positions in Hezbollah's southern Lebanon network. IDF Northern Command: "We are tightening the noose." Hezbollah fighters inside Khiam are reportedly well-supplied — pre-positioned ammunition caches laid months ago. The IDF has not yet assaulted the town directly; military doctrine calls for encirclement and pressure before direct assault. Estimated several days before a decisive engagement. One additional IDF soldier killed in overnight ambush (15 total KIA across all theaters; 1 KIA Lebanon ground operation). Hezbollah has not released casualty figures for 48 hours.</p>
+
+<p><strong>IRGC INFRASTRUCTURE TARGETS — ENTERPRISE RESPONSE:</strong> Six weeks after the IRGC's March 11 "legitimate targets" declaration naming 29 tech company facilities across the Gulf (Microsoft, Google, NVIDIA, Palantir, Oracle, IBM, AWS), enterprise CIOs are operationalizing risk mitigation in ways that are reshaping the AI infrastructure buildout story. Amazon has confirmed "adjusted operational procedures" for UAE and Bahrain AWS facilities (no evacuation, but non-essential staff working remotely). Google has not commented publicly on its Dubai or Qatar offices but has "paused new hiring" in the region according to a person familiar with the matter. NVIDIA has redeployed regional sales and engineering staff from Israel-based offices to Cyprus and Malta. The geopolitical risk premium on Gulf-based AI infrastructure — which was effectively zero 30 days ago — is now a board-level line item.</p>
+
+<p><strong>THE RESHORING PREMIUM:</strong> Venture capital is moving. Three infrastructure funds with Gulf sovereign wealth backing have quietly begun redirecting AI compute capex toward European alternatives — Frankfurt, Amsterdam, and Dublin data center clusters are reporting 40-60% surge in new inquiry volume since Day 11 of the war. The irony: Gulf sovereign wealth funds (Saudi's PIF, UAE's Mubadala, Qatar Investment Authority) were leading investors in the Gulf AI buildout that is now being de-risked. MBS's Vision 2030 technology agenda — which depended heavily on in-country AI infrastructure — is absorbing a direct blow from a war he did not want. Saudi Arabia is now weighing whether to publicly call for a ceasefire to protect its own investment thesis.</p>
+
+<p><strong>CEASEFIRE — OMAN UPDATE:</strong> Tehran has not yet responded to Oman's reframed standstill proposal (treating it as agenda item rather than precondition). The 72-hour window Oman gave for a response expires Monday evening UTC. Iran's Araghchi is traveling to New York for an UNGA emergency session on the war — the first time a senior Iranian official has appeared before the UN body since hostilities began. His appearance is being read as a potential diplomatic signal: Iran is not fully closing the door to a multilateral framework.</p>
+
+<p><strong>NUMBERS:</strong> War dead: 2,250+ total (est.). IDF KIA: 15 (all theaters; 1 Lebanon ground op). Lebanon displaced: 1.1M+. War Powers clock: 37 days remain (April 19 deadline). AWS/Google Gulf staff: partially remote. Gulf AI capex re-routing: 40-60% surge into European alternatives. Brent: $105.20. 66 items in feed since Feb 2.</p>
+]]></description>
+    <pubDate>Mon, 23 Mar 2026 06:00:00 +0000</pubDate>
+    <guid>serenity-news-2026-03-23-0600</guid>
+  </item>
+  <item>
     <title>Day 23: Lebanon Mass Exodus as IDF Advances — 1M+ Displaced; NemoClaw vs OpenClaw: Developer Ecosystem Chooses Sides One Week Post-GTC</title>
     <link>https://elliottshort.github.io/news-feed/</link>
     <description><![CDATA[
@@ -95,7 +116,7 @@
     <link>https://elliottshort.github.io/news-feed/</link>
     <description>Serenity News Briefing</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Mar 2026 06:00:00 +0000</lastBuildDate>
     
 
                                   <item>
