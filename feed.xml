@@ -1,11 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
+  <item>
+    <title>Day 22: US Floats 'Limited Standstill' as Iran Conditions Harden; Post-GTC Vera Rubin Waitlist Fills in 48 Hours</title>
+    <link>https://elliottshort.github.io/news-feed/</link>
+    <description><![CDATA[
+<p><strong>LEAD — CEASEFIRE FRAMEWORK EMERGES, BARELY:</strong> The Trump administration has sent its first substantive response to Iran's three ceasefire conditions through Oman's back-channel, according to four regional officials familiar with the exchange. Secretary Rubio is offering a "limited 90-day standstill agreement" — no sovereignty recognition, no reparations — framed as a "cooling-off period" that avoids the binding no-future-strikes guarantee Iran demanded. Iran's FM Araghchi has not publicly responded. Netanyahu's office issued a statement within hours: "Israel will not accept any framework that constrains its right to self-defense against existential threats." The two positions remain structurally incompatible: Tehran wants a binding guarantee Israel won't attack again; Jerusalem says any such guarantee is itself the threat. Oman's Sultan Haitham is now the active bridge between the US non-binding offer and Iran's binding demand — the narrowest possible gap that both sides have so far refused to close.</p>
+
+<p><strong>LEBANON CLOCK:</strong> IDF Chief of Staff Zamir held a classified briefing with northern command Thursday; sources tell Haaretz the IDF has been given a "readiness window" of 72–96 hours to launch a Lebanon ground operation if Hezbollah's missile barrages don't decrease. Hezbollah fired 210+ rockets at northern Israel on Day 21 — matching its highest single-day count. The Reuters exclusive on Hezbollah's guerrilla pivot is now being war-gamed by IDF planners: small-unit tactics + rationed anti-tank rockets = protracted attrition, not a clean victory. IDF generals are split. Katz says imminent. Ground forces say wait.</p>
+
+<p><strong>ASEAN EMERGENCY SESSION:</strong> ASEAN foreign ministers held an emergency virtual session on Day 21 urging an "immediate halt to all hostilities" — the bloc's first collective war statement in 40 years. Singapore's foreign minister: "We are witnessing the dismantling of the rules-based order in real time." The Philippines announced a 4-day work week to cut energy consumption. Thailand diesel price cap expires Friday; government has not said whether it will extend. Vietnam, Indonesia, and Malaysia are quietly diverting LNG contracts from spot to long-term — locking in supply at +40% premiums.</p>
+
+<p><strong>POST-GTC: VERA RUBIN WAITLIST FILLS IN 48 HOURS:</strong> Six days after Jensen Huang's keynote, NVIDIA's Vera Rubin NVL144 production slots for H2 2026 are fully committed. Microsoft, Oracle, and AWS collectively booked an estimated $35B in Vera Rubin infrastructure within 48 hours of the keynote — the fastest capital deployment following any chip announcement in industry history, per semiconductor analyst Dylan Patel. Vera Rubin NVL144 delivers 5x inference performance vs Blackwell at 10x lower cost-per-token; the 100% liquid-cooled, cable-free modular design reduces installation time from 2 hours to 5 minutes. For cloud operators, the math is simple: every dollar of Vera Rubin capex replaces four of Blackwell opex. Spot inference pricing is already dropping in forward markets.</p>
+
+<p><strong>GROQ LPU INTEGRATION CONFIRMED:</strong> NVIDIA confirmed the LPU acquisition integration roadmap at GTC: Groq's tensor streaming processor architecture — which processes tokens without memory bottlenecks — will be embedded as a dedicated inference co-processor in Vera Rubin CPX rack configurations. The combined Vera CPU + Rubin GPU + Groq LPU triad targets sub-10ms latency for interactive inference at scale. Jonathan Ross (now SVP Inference Architecture) says production LPU-integrated racks ship Q1 2027. This closes the "memory wall" problem that has constrained interactive AI latency at scale since GPT-3.</p>
+
+<p><strong>WAR IMPACT ON AI SUPPLY CHAIN:</strong> TSMC is warning customers of a 3–6 week shipping delay on advanced packaging for Vera Rubin units — not production, but logistics. Gulf tanker insurance "act of war" clauses are affecting cargo vessels carrying specialized chemicals used in chip packaging. TSMC's CoWoS-L advanced packaging facility in Taichung ships bonding agents and photoresists through Gulf-adjacent routes. NVIDIA's Jensen Huang publicly called on the US Navy to "prioritize tech supply chain corridors" — the first time an AI CEO has directly lobbied for wartime shipping priority. The irony is not lost on critics: the same war NVIDIA's chips helped start is now delaying the next generation of NVIDIA chips.</p>
+
+<p><strong>NUMBERS:</strong> War dead: 2,100+ total (Reuters updated estimate). Lebanon: 820+ killed. Iran: 1,350+ per Iranian authorities. US: 14 KIA (one additional confirmed overnight: Marine Cpl. D. Vasquez, USS Tripoli advance element, Erbil rocket strike). Oil: Brent $103.40. US gas: $3.63/gal. 62 items in feed since Feb 2.</p>
+]]></description>
+    <pubDate>Sun, 22 Mar 2026 06:00:00 +0000</pubDate>
+    <guid>serenity-news-2026-03-22-0600</guid>
+  </item>
     <title>Serenity News Briefing</title>
     <link>https://elliottshort.github.io/news-feed/</link>
     <description>Serenity News Briefing</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 22 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Mar 2026 06:00:00 +0000</lastBuildDate>
     
 
                                   <item>
