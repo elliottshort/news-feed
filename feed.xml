@@ -5,9 +5,16 @@
     <link>https://elliottshort.github.io/news-feed/</link>
     <description>Serenity News Briefing</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 14 Mar 2026 21:51:39 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 14 Mar 2026 21:51:46 -0500</lastBuildDate>
 
-          <item>
+            <item>
+    <title><![CDATA[Japan fast-tracks nuclear restart as Hormuz closure triggers energy emergency]]></title>
+    <link>https://elliottshort.github.io/news-feed/feed.xml</link>
+    <description><![CDATA[Japan's lower house passed emergency nuclear restart legislation on an accelerated timeline after Hormuz tanker traffic dropped 91%, with South Korea introducing a parallel Energy Security Emergency Act to bring three mothballed reactors back online. Germany signaled its first strategic nuclear exit review since the 2023 shutdown; four countries have requested expedited IAEA safety reviews. Uranium spot hit /lb — up 18%, a third consecutive record week — with TEPCO's Kashiwazaki-Kariwa Unit 6 already back on the transmission grid since February 16.]]></description>
+    <pubDate>Sat, 14 Mar 2026 21:51:46 -0500</pubDate>
+    <guid>serenity-news-2026-03-30-0005</guid>
+  </item>
+  <item>
     <title><![CDATA[Vera Rubin NVL144 packaging delayed 3-6 weeks as Gulf disruption hits TSMC supply chain]]></title>
     <link>https://elliottshort.github.io/news-feed/feed.xml</link>
     <description><![CDATA[CoWoS-S packaging lead times have stretched from 8-10 weeks pre-war to 16-20 weeks, driven by Gulf shipping insurance clauses and Taiwan Strait risk premiums — threatening H2 2026 Vera Rubin delivery timelines for MSFT, Oracle, and AWS. First NVL144 racks have landed at Oracle Chicago (non-Gulf routing); Microsoft's Warsaw Azure AI region is live with 1,200 Vera Rubin GPUs. Groq cut inference pricing 60% ahead of the LPU-Vera CPX integration targeting Q1 2027, with European AI infrastructure capex up 42% in four weeks as hyperscalers diversify away from Gulf-adjacent regions.]]></description>
