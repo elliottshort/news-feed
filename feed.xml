@@ -5,7 +5,14 @@
     <link>https://elliottshort.github.io/news-feed/</link>
     <description>Serenity News Briefing</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 14 Mar 2026 21:48:35 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 14 Mar 2026 21:51:11 -0500</lastBuildDate>
 
-  </channel>
+    <item>
+    <title><![CDATA[Iran signals flexibility on Hezbollah clause as Oman deadline looms]]></title>
+    <link>https://elliottshort.github.io/news-feed/feed.xml</link>
+    <description><![CDATA[Iran's Pezeshkian faction told Oman intermediaries that a "Litani buffer zone" framing — distinct from full Hezbollah withdrawal — "merits further study," the first crack in the Hezbollah deadlock after four days of proximity talks in Muscat. The March 31 deadline has been extended to April 1 06:00 UTC after Sultan Haitham called Rubio directly. Sequencing remains the core sticking point: Iran wants a Hormuz freeze simultaneous with any pause; the US wants it first as a confidence-builder.]]></description>
+    <pubDate>Sat, 14 Mar 2026 21:51:11 -0500</pubDate>
+    <guid>serenity-news-2026-03-30-0001</guid>
+  </item>
+</channel>
 </rss>
