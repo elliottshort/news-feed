@@ -5,9 +5,16 @@
     <link>https://elliottshort.github.io/news-feed/</link>
     <description>Serenity News Briefing</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 14 Mar 2026 21:51:30 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 14 Mar 2026 21:51:39 -0500</lastBuildDate>
 
-        <item>
+          <item>
+    <title><![CDATA[Vera Rubin NVL144 packaging delayed 3-6 weeks as Gulf disruption hits TSMC supply chain]]></title>
+    <link>https://elliottshort.github.io/news-feed/feed.xml</link>
+    <description><![CDATA[CoWoS-S packaging lead times have stretched from 8-10 weeks pre-war to 16-20 weeks, driven by Gulf shipping insurance clauses and Taiwan Strait risk premiums — threatening H2 2026 Vera Rubin delivery timelines for MSFT, Oracle, and AWS. First NVL144 racks have landed at Oracle Chicago (non-Gulf routing); Microsoft's Warsaw Azure AI region is live with 1,200 Vera Rubin GPUs. Groq cut inference pricing 60% ahead of the LPU-Vera CPX integration targeting Q1 2027, with European AI infrastructure capex up 42% in four weeks as hyperscalers diversify away from Gulf-adjacent regions.]]></description>
+    <pubDate>Sat, 14 Mar 2026 21:51:39 -0500</pubDate>
+    <guid>serenity-news-2026-03-30-0004</guid>
+  </item>
+  <item>
     <title><![CDATA[IDF Khiam advance stalls at 860m as Radwan deploys tunnel network]]></title>
     <link>https://elliottshort.github.io/news-feed/feed.xml</link>
     <description><![CDATA[Golani Brigade pushed 60 meters overnight to the 860-meter line, but IDF engineers blasting the first tunnel junction at Khiam's southeast edge triggered a Radwan repositioning into the deep urban core, effectively halting the advance. Operation Northern Shield II stands at 9 IDF KIA after 9 days; Hezbollah launched a 60-drone swarm from the Bekaa (52 intercepted, 8 hit open fields). IDF command is still saying "days not weeks" to the city center, but the tunnel network makes that optimistic.]]></description>
